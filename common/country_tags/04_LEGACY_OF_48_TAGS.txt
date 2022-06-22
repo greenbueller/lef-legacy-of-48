@@ -1,0 +1,36 @@
+#ENG England
+#IRE Ireland
+#SCO Scotland
+#GER German Empire/Prussia
+#FRA French Commune
+BUR = "countries/Burgundy.txt" # Burgundy
+#SPR Spain
+ARA = "countries/Aragon.txt" # Aragon
+VAS = "countries/Vascania.txt" # Vascania
+#POR Portugal
+TFR = "countries/Third French Republic.txt" # Third French Republic
+#SWI Switzerland
+#BRI Brittany
+#AUS Austria
+#BAY Bavaria
+#CZE Bohemia
+#HUN Hungary
+#NET Netherlands
+PAP = "countries/Papal States.txt" # Papal States
+SIT = "countries/Southern Italy.txt" # Southern Italy
+VEN = "countries/Venitia.txt" # Venice
+#ITA Sardinia-Piedmont
+#TUR Ottoman
+#ALB Albania
+#BUL Bulgaria
+#POL Poland
+#CRO Ilyria
+#SER Serbia
+#ROM Romania
+#UKR Ukraine
+#GRE Greece
+#SOV Russia
+#CHI China
+#JAP Japan
+#PER Persia
+#TIB Tibet
