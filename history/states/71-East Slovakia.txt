@@ -14,7 +14,10 @@ state={
 			infrastructure = 2
 			industrial_complex = 2
 		}
+		add_core_of = SOL
 		add_core_of = HUN
+
+		
 	}
 
 	provinces={
