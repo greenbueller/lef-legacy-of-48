@@ -15,7 +15,7 @@ TFR = "countries/Third French Republic.txt" # Third French Republic
 #BAY Bavaria
 #CZE Bohemia
 #HUN Hungary
-#NET Netherlands
+#HOL Netherlands
 PAP = "countries/Papal States.txt" # Papal States
 SIT = "countries/Southern Italy.txt" # Southern Italy
 VEN = "countries/Venitia.txt" # Venice
