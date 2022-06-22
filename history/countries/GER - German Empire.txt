@@ -1,23 +1,10 @@
 ﻿oob = "GER_1936"
 capital = 1
-set_research_slots = 3
-set_stability = 0.5
-set_war_support = 0.5
-set_convoys = 0
 
 
 add_ideas = {
 	volunteer_only
 	civilian_economy
-}
-
-
-
-
-#For start date 1939.1.1
-1939.1.1 = {
-	add_political_power = 1000
-	oob = "GER_1939"
 }
 
 #Politics for 1936.1.1
