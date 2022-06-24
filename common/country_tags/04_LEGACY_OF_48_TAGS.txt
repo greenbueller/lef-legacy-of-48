@@ -4,7 +4,8 @@
 #GER German Empire/Prussia
 #FRA French Commune
 BUR = "countries/Burgundy.txt" # Burgundy
-#SPR Spain
+#CAS Castille
+#SPA Spain
 ARA = "countries/Aragon.txt" # Aragon
 VAS = "countries/Vascania.txt" # Vascania
 #POR Portugal
