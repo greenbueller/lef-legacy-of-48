@@ -1,11 +1,35 @@
+ZZZ = "countries/Unoccupied.txt"
+
+#### ASIA ####
+
+#CHI China
+#JAP Japan
+#TIB Tibet
+
+#### AFRICA ####
+
+#ETH Ethiopia
+#SAF Boer Territories
+#MAD Madagascar
+SOK = "countries/Sokoto.txt" # Sokoto
+#EGY Egypt
+#LIB Liberia
+MDK = "countries/Mandinkan.txt" # Mandinkan Empire
+#SIE Sierra Leone
+#GHA Ghana
+ZUL = "countries/Zulu.txt" # Zululand
+#MOR Morocco
+
+#### EUROPE ####
+
 #ENG England
 #IRE Ireland
 #SCO Scotland
 #GER German Empire/Prussia
 #FRA French Commune
 BUR = "countries/Burgundy.txt" # Burgundy
-#CAS Castille
-#SPA Spain
+CAS = "countries/Spain.txt"
+#SPR Spain
 ARA = "countries/Aragon.txt" # Aragon
 BSQ = "countries/Vasconia.txt" # Basque Country
 #POR Portugal
@@ -21,7 +45,6 @@ PAP = "countries/Papal States.txt" # Papal States
 SIT = "countries/Southern Italy.txt" # Southern Italy
 VEN = "countries/Venitia.txt" # Venice
 #ITA Sardinia-Piedmont
-#TUR Ottoman
 #ALB Albania
 #BUL Bulgaria
 #POL Poland
@@ -31,7 +54,12 @@ VEN = "countries/Venitia.txt" # Venice
 #UKR Ukraine
 #GRE Greece
 #SOV Russia
-#CHI China
-#JAP Japan
+
+#### MIDDLE EAST ####
+
+#TUR Ottoman
 #PER Persia
-#TIB Tibet
+#YEM Yemen
+#OMA Oman
+#SAU Nejd
+JAB = "countries/Jabal.txt" # Jabal Shammar

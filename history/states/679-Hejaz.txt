@@ -13,7 +13,9 @@ state={
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = TUR
+		add_core_of = JAB
+		add_core_of = SAU
+		add_claim_by = TUR
 	}
 
 	provinces={

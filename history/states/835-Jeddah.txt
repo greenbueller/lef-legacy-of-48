@@ -7,6 +7,9 @@ state={
 
 	history={
 		owner = TUR
+		add_core_of = JAB
+		add_core_of = SAU
+		add_claim_by = TUR
 		victory_points = {
 			12883 1 
 		}
@@ -16,7 +19,6 @@ state={
 				naval_base = 5
 			}
 		}
-		add_core_of = TUR
 	}
 
 	provinces={

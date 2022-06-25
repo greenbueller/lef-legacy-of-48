@@ -7,7 +7,9 @@ state = {
 
 	history={
 		owner = TUR
-		add_core_of = TUR
+		add_core_of = JAB
+		add_core_of = SAU
+		add_claim_by = TUR
 		buildings = {
 			infrastructure = 1
 		}

@@ -74,8 +74,8 @@ SWI = {
 	color_ui = rgb { 193 81 81 }
 }
 TUR = {
-	color = rgb { 171 190 152 }
-	color_ui = rgb { 222 247 198 }
+	color = rgb { 64 105 64 }
+	color_ui = rgb { 64 105 64 }
 }
 GRE = {
 	color = rgb { 93 181 227 }
@@ -817,7 +817,22 @@ CHU = {
 }
 
 #Custom colours start here
-GER = {
-	color = rgb { 0 0 0 }
-	color_ui = rgb { 0 0 0 }
+#GER = {
+#	color = rgb { 0 0 0 }
+#	color_ui = rgb { 0 0 0 }
+#}
+
+JAB = {
+	color = rgb { 152 69 69 }
+	color_ui = rgb { 152 69 69 }
+}
+
+ZZZ = {
+	color = rgb {
+		0 0 0
+	}
+
+	color_ui = rgb {
+		0 0 0
+	}
 }

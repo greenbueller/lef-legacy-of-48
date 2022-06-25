@@ -1,0 +1,29 @@
+state = {
+	id = 846
+	name="STATE_846"
+	state_category = rural
+	manpower=205125
+
+	history = {
+		owner = OMA
+		victory_points = {
+			5210 1
+		}
+		victory_points = {
+			2196 1
+		}
+		buildings = {
+			infrastructure = 1
+			5210 = {
+				naval_base = 2
+			}
+			2196 = {
+				naval_base = 2
+			}
+		}
+	}
+
+	provinces = {
+		2196 5210 6020 8183
+	}
+}
