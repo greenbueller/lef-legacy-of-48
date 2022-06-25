@@ -1,37 +1,37 @@
-#ENG England
-#IRE Ireland
-#SCO Scotland
-#GER German Empire/Prussia
-#FRA French Commune
-BUR = "countries/Burgundy.txt" # Burgundy
-#CAS Castille
-#SPA Spain
-ARA = "countries/Aragon.txt" # Aragon
-BSQ = "countries/Vasconia.txt" # Basque Country
-#POR Portugal
-TFR = "countries/Third French Republic.txt" # Third French Republic
-#SWI Switzerland
-#BRI Brittany
+#ALB Albania
 #AUS Austria
 #BAY Bavaria
-#CZE Bohemia
-#HUN Hungary
-#HOL Netherlands
-PAP = "countries/Papal States.txt" # Papal States
-SIT = "countries/Southern Italy.txt" # Southern Italy
-VEN = "countries/Venitia.txt" # Venice
-#ITA Sardinia-Piedmont
-#TUR Ottoman
-#ALB Albania
+#BRI Brittany
 #BUL Bulgaria
-#POL Poland
-#CRO Ilyria
-#SER Serbia
-#ROM Romania
-#UKR Ukraine
-#GRE Greece
-#SOV Russia
+#CAS Castille
 #CHI China
+#CRO Ilyria
+#CZE Bohemia
+#ENG England
+#FRA French Commune
+#GER German Empire/Prussia
+#GRE Greece
+#HOL Netherlands
+#HUN Hungary
+#IRE Ireland
+#ITA Sardinia-Piedmont
 #JAP Japan
 #PER Persia
+#POL Poland
+#POR Portugal
+#ROM Romania
+#SCO Scotland
+#SER Serbia
+#SOV Russia
+#SPA Spain
+#SWI Switzerland
 #TIB Tibet
+#TUR Ottoman
+#UKR Ukraine
+ARA = "countries/Aragon.txt" # Aragon
+BSQ = "countries/Vasconia.txt" # Basque Country
+BUR = "countries/Burgundy.txt" # Burgundy
+PAP = "countries/Papal States.txt" # Papal States
+SIT = "countries/Southern Italy.txt" # Southern Italy
+TFR = "countries/Third French Republic.txt" # Third French Republic
+VEN = "countries/Venitia.txt" # Venice

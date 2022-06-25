@@ -1,0 +1,150 @@
+l_english:
+    
+    # File is broken up into four sections:
+    # part 1 is country names without an assigned state type
+    # part 2 is country names with assigned state types (will do later)
+    # part 3 is special cosmetic tags (will do later)
+    # part 4 includes dynamic faction names (will do later)
+    # Please try to follow this format within this file, gedankt
+    
+    # -- canadiancupcake
+    
+    # Individual appendices are as follows:
+    
+    # _ultranationalism:0 ""
+    # _ultranationalism_DEF:0 ""
+    # _ultranationalism_ADJ:0 ""
+    # _reactionary:0 ""
+    # _reactionary_DEF:0 ""
+    # _reactionary_ADJ:0 ""
+    # _conservative:
+    # _conservative_DEF:
+    # _conservative_ADJ:
+    # _liberal:0 ""
+    # _liberal_DEF:0 ""
+    # _liberal_ADJ:0 ""
+    # _social_democrat_:0 ""
+    # _social_democrat_DEF:0 ""
+    # _social_democrat_ADJ:0 ""
+    # _moderate_socialist_:0 ""
+    # _moderate_socialist_DEF:0 ""
+    # _moderate_socialist_ADJ:0 ""
+    # _revolutionary_socialist_:0 ""
+    # _revolutionary_socialist_DEF:0 ""
+    # _revolutionary_socialist_ADJ:0 ""
+    # _anarcho-socialist_:0 ""
+    # _anarcho-socialist_DEF:0 ""
+    # _anarcho-socialist_ADJ:0 ""
+    
+    # Ideology group appendices are as follows:
+    
+    # _reactionary_group:0 ""
+    # _reactionary_group_DEF:0 ""
+    # _reactionary_group_ADJ:0 ""
+    
+    # _liberal-democratic:0 ""
+    # _liberal-democratic_DEF:0 ""
+    # _liberal-democratic_ADJ:0 ""
+    
+    # _socialist:0 ""
+    # _socialist_DEF:0 ""
+    # _socialist_ADJ:0 ""
+    
+    # Part 1
+    
+    # Europe
+    
+    # Iberian peninsula
+    ADR:0 "Andorra"
+    ADR_ADJ:0 "Andorran"
+    ADR_DEF:0 "Andorra"
+    ARA:0 "Aragon"
+    ARA_ADJ:0 "Aragonese"
+    ARA_DEF:0 "Aragon"
+    BSQ:0 "Vasconia"
+    BSQ_ADJ:0 "Basque"
+    BSQ_DEF:0 "the Basque Country"
+    CAS:0 "Castile"
+    CAS_ADJ:0 "Castilian"
+    CAS_DEF:0 "Castile"
+    CAT:0 "Catalonia"
+    CAT_ADJ:0 "Catalan"
+    CAT_DEF:0 "Catalonia"
+    POR:0 "Portugal"
+    POR_ADJ:0 "Portuguese"
+    POR_DEF:0 "Portugal"
+    
+    # Italian peninsula
+    ITA:0 "Sardinia-Piedmont"
+    ITA_ADJ:0 "Sardeno-piedmontese"
+    ITA_DEF:0 "Sardinia-Piedmont"
+    PAP:0 "Papal States"
+    PAP_ADJ:0 "Papal"
+    PAP_DEF:0 "the Papal States"
+    SIC:0 "Two Sicilies"
+    SIC_ADJ:0 "Sicilian"
+    SIC_DEF:0 "the Two Sicilies"
+    VEN:0 "Venice"
+    VEN_ADJ:0 "Venetian"
+    VEN_DEF:0 "Venice"
+    
+    # British Isles
+    ENG:0 "England"
+    ENG_ADJ:0 "English"
+    ENG_DEF:0 "England"
+    GBR:0 "Great Britain"
+    GBR_ADJ:0 "British"
+    GBR_DEF:0 "Great Britain"
+    IRE:0 "Ireland"
+    IRE_ADJ:0 "Irish"
+    IRE_DEF:0 "Ireland"
+    SCO:0 "Scotland"
+    SCO_ADJ:0 "Scottish"
+    SCO_DEF:0 "Scotland"
+    WLS:0 "Wales"
+    WLS_ADJ:0 "Welsh"
+    WLS_DEF:0 "Wales"
+    
+    # France and the Low Countries
+    BEL:0 "Belgium"
+    BEL_ADJ:0 "Belgian"
+    BEL_DEF:0 "Belgium"
+    BRI:0 "Britanny"
+    BRI_ADJ:0 "Breton"
+    BRI_DEF:0 "Britanny"
+    FRA:0 "France"
+    FRA_ADJ:0 "French"
+    FRA_DEF:0 "France"
+    HOL:0 "Netherlands"
+    HOL_ADJ:0 "Dutch"
+    HOL_DEF:0 "the Netherlands"
+    OCC:0 "Occitania"
+    OCC_ADJ:0 "Occitan"
+    OCC_DEF:0 "Occitania"
+    # Don't know the tags for Flanders and/or Wallonia or if we'll be adding them
+    
+    # Central Europe
+    AUS:0 "Austria"
+    AUS_ADJ:0 "Austrian"
+    AUS_DEF:0 "Austria"
+    CZE:0 "Bohemia"
+    CZE:ADJ:0 "Bohemian"
+    CZE_DEF:0 "Bohemia"
+    GER:0 "Germany"
+    GER_ADJ:0 "German"
+    GER_DEF:0 "Germany"
+    HUN:0 "Hungary"
+    HUN_ADJ:0 "Hungarian"
+    HUN_DEF:0 "Hungary"
+    SWI:0 "Switzerland"
+    SWI_ADJ:0 "Swiss"
+    SWI_DEF:0 "Switzerland"
+    
+    # Eastern Europe
+    POL:0 "Poland"
+    POL_ADJ:0 "Polish"
+    POL_DEF:0 "Poland"
+    UKR:0 "Ukraine"
+    UKR_ADJ:0 "Ukrainian"
+    UKR_DEF:0 "the Ukraine"
+    
