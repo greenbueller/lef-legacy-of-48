@@ -1,0 +1,230 @@
+ideas = {
+	# POLITICAL STRUCTURE
+	state_category = {	# Determines the cosmetic tag of the country and some will be allowed/disallowed based on ideology, e.g. stateless_category will only be selectable by revolutionary socialist government and change the ideology to anarcho-socialist
+		law = yes
+		kingdom_category = {
+			allowed = {
+				NOT = {
+					has_government = conservative
+					has_government = liberal
+					has_government = social_democrat
+					has_government = moderate_socialist
+					has_government = revolutionary_socialist
+					has_government = anarcho-socialist
+				}
+			}
+			on_add = { # Need to figure out how to make it change the cosmetic tag to _kingdom
+			}
+		}
+		republic_category = {
+			allowed = {
+				NOT = {
+					has_government = reactionary
+					has_government = conservative
+					has_government = anarcho-socialist
+				}
+			}
+			on_add = { # Need to figure out how to make it change the cosmetic tag to _republic
+			}
+		}
+		state_category = {
+			allowed = {
+				NOT = {
+					has_government = conservative
+				}
+			}
+			on_add = { # Need to figure out how to make it change the cosmetic tag to _state
+			}
+		}
+		stateless_category = {
+			allowed = {
+				has_government = revolutionary_socialist
+			}
+			on_add = { # Need to figure out how to make it change the cosmetic tag to _stateless
+				set_politics = {
+					ruling_party = anarcho-socialist
+				}
+			}
+		}
+	}
+	government_form = { # These will only really matter once I implement a legislative branch system, for now they should only determine country leader behaviour
+		presidential = {
+			
+		}
+		absolute_monarchy = {
+			
+		}
+		dictatorial = {
+			
+		}
+		leaderless = {
+			allowed = {
+				OR {
+					has_government = anarcho-socialist
+					has_idea = stateless_category
+				}
+			}
+		}
+		parliamentary = {
+			
+		}
+		semi-presidential = {
+			
+		}
+		dual_executive = {
+			
+		}
+	# LAWS
+	suffrage_law = {
+		law = yes
+		use_list_view = yes
+		universal_suffrage = {
+		}
+		limited_disenfranchisement = {
+		}
+		aristocratic_enfranchisement = {
+		}
+		planned_democracy = {
+		}
+		one-party_state = {
+		}
+		no_voting = {
+		}
+	}
+	press_law = {
+		law = yes
+		use_list_view = yes
+		state_press = {
+		}
+		semi-independent_press = {
+		}
+		independent_press = {
+		}
+	}
+	public_meetings_law = {
+		law = yes
+		use_list_view = yes
+		public_meetings_free = {
+		}
+		public_meetings_monitored = {
+		}
+		public_meetings_illegal = {
+		}
+	}
+	women_rights = {
+		law = yes
+		use_list_view = yes
+		patriarchal_society = {
+		}
+		no_legal_protections_women = {
+		}
+		limited_rights_women = {
+		}
+		gender_equality = {
+		}
+	}
+	minority_rights = {
+		law = yes
+		use_list_view = yes
+		racial_hierarchy = {
+		}
+		racial_segregation = {
+		}
+		non-interference_minority = {
+		}
+		significant_autonomy_minority = {
+		}
+		affirmative_action_minority = {
+		}
+	}
+	police_law = {
+		law = yes
+		use_list_view = yes
+		secret_police = {
+		}
+		state_intimidation_police = {
+		}
+		standard_police = {
+		}
+		preventative_police = {
+		}
+		community_police = {
+		}
+	}
+	working_hours_law = {
+		law = yes
+		use_list_view = yes
+		6-hour_work_law = {
+		}
+		8-hour_work_law = {
+		}
+		10-hour_work_law = {
+		}
+		12-hour_work_law = {
+		}
+		14-hour_work_law = {
+		}
+		16-hour_work_law = {
+		}
+		unlimited-hour_work_law = {
+		}
+	}
+	healthcare_law = {
+		law = yes
+		use_list_view = yes
+		no_public_healthcare = {
+		}
+		shoddy_public_healthcare = {
+		}
+		mediocre_public_healthcare = {
+		}
+		comprehensive_public_healthcare = {
+		}
+	}
+	education_law = {
+		law = yes
+		use_list_view = yes
+		no_public_education = {
+		}
+		basic_public_education = {
+		}
+		public_higher_education = {
+		}
+		state_education_only = {
+		}
+	}
+	welfare_law = {
+		law = yes 
+		no_welfare_law = {
+		}
+		basic_welfare_law = {
+		}
+		unemployment_welfare_programs = {
+		}
+		moderate_welfare_law = {
+		}
+		universal_basic_income_law = {
+		}
+	}
+	unionisation_law = {
+		law = yes
+		unions_legal = {
+		}
+		state-owned_unions = {
+		}
+		non-socialist_unions = {
+		}
+		unions_illegal = {
+		}
+	}
+	slavery = {
+		law = yes
+		use_list_view = yes
+		slavery_abolished = {
+		}
+		penal_slavery_law = {
+		}
+		slavery_legal = {
+		}
+	}
+}

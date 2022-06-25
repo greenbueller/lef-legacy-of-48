@@ -1,0 +1,399 @@
+ideologies = {
+	
+	## Reactionary group
+	
+	ultranationalist = {
+		
+		dynamic_faction_names = {
+			
+			FACTION_NAME_REACTIONARY_1
+			FACTION_NAME_REACTIONARY_2
+			FACTION_NAME_REACTIONARY_3
+			FACTION_NAME_REACTIONARY_4
+		}
+		
+		color = { 102 51 0 }
+		
+		rules = {
+			
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		can_collaborate = yes
+		
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+		
+		modifiers = {
+			
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			hidden_modifier = { join_faction_tension = -0.1 }
+		}
+		
+		ai_fascist = yes
+	}
+	
+	reactionary = {
+		
+		dynamic_facton_names = {
+			
+			FACTION_NAME_REACTIONARY_1
+			FACTION_NAME_REACTIONARY_2
+			FACTION_NAME_REACTIONARY_3
+			FACTION_NAME_REACTIONARY_4
+		}
+		
+		color = { 0 32 70 }
+		
+		rules = {
+			
+			can_create_collaboration_government = 
+			can_declare_war_on_same_ideology = 
+			can_force_government = 
+			can_send_volunteers = 
+			can_puppet = 
+			can_lower_tension = 
+			can_only_justify_war_on_threat_country = 
+			can_guarantee_other_ideologies = 
+		}
+		
+		can_host_government_in_exile =
+		
+		war_impact_on_world_tension =
+		faction_impact_on_world_tension =
+		
+		modifiers = {
+			
+			generate_wargoal_tension = 
+			join_faction_tension = 
+			lend_lease_tension = 
+			send_volunteers_tension = 
+			guarantee_tension = 
+			annex_cost_factor = 
+			civilian_intel_to_others = 
+			army_intel_to_others = 
+			navy_intel_to_others = 
+			airforce_intel_to_others = 
+		}
+		
+		faction_modifiers = {
+			
+			faction_trade_opinion_factor =
+		}
+		
+		ai_neutral = yes
+	}
+	
+	##Liberal-democratic group
+	
+	conservative = {
+		
+		dynamic_faction_names = {
+			
+			FACTION_NAME_CONSERVATIVE_1
+			FACTION_NAME_CONSERVATIVE_2
+			FACTION_NAME_CONSERVATIVE_3
+			FACTION_NAME_CONSERVATIVE_4
+		}
+		
+		color = { 0 57 166 }
+		
+		rules = {
+			
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = no
+			can_force_government = yes
+			can_send_volunteers = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25		# no major danger, remember this this the 40s!
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			
+			generate_wargoal_tension = 1.00
+			join_faction_tension = 0.80
+			lend_lease_tension = 0.50
+			send_volunteers_tension = 0.50
+			guarantee_tension = 0.25
+			annex_cost_factor = 0.5
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 5.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 5
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 #plus 50% trade opinion
+		}
+		ai_democratic = yes
+	}
+	
+	liberal = {
+		
+		dynamic_faction_names = {
+			
+			FACTION_NAME_DEMOCRATIC_1
+			FACTION_NAME_DEMOCRATIC_2
+			FACTION_NAME_DEMOCRATIC_3
+			FACTION_NAME_DEMOCRATIC_4
+		}
+		
+		color = { 255 210 0 }
+		
+		rules = {
+			
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = no
+			can_force_government = yes
+			can_send_volunteers = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			
+			generate_wargoal_tension = 1.00
+			join_faction_tension = 0.80
+			lend_lease_tension = 0.50
+			send_volunteers_tension = 0.50
+			guarantee_tension = 0.25
+			annex_cost_factor = 0.5
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 5.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 5
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50
+		}
+		
+		ai_democratic = yes
+	}
+	
+	social_democrat = {
+		
+		dynamic_faction_names = {
+			
+			FACTION_NAME_DEMOCRATIC_1
+			FACTION_NAME_DEMOCRATIC_2
+			FACTION_NAME_DEMOCRATIC_3
+			FACTION_NAME_DEMOCRATIC_4
+		}
+		
+		color = { 255 102 102 }
+		
+		rules = {
+			
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = no
+			can_force_government = yes
+			can_send_volunteers = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			
+			generate_wargoal_tension = 1.00
+			join_faction_tension = 0.80
+			lend_lease_tension = 0.50
+			send_volunteers_tension = 0.50
+			guarantee_tension = 0.25
+			annex_cost_factor = 0.5
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 5.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 5
+		}
+		
+		faction_modifiers = {
+			
+			faction_trade_opinion_factor = 0.60
+		}
+		
+		ai_democratic = yes
+	}
+	
+	moderate_socialist = {
+		
+		dynamic_faction_names = {
+			
+			FACTION_NAME_SOCIALIST_1
+			FACTION_NAME_SOCIALIST_2
+			FACTION_NAME_SOCIALIST_3
+			FACTION_NAME_SOCIALIST_4
+		}
+		
+		color = { 204 0 0 }
+		
+		rules = {
+			
+			can_create_collaboration_government = 
+			can_declare_war_on_same_ideology = 
+			can_force_government = 
+			can_send_volunteers = 
+			can_puppet = 
+			can_lower_tension = 
+			can_only_justify_war_on_threat_country = 
+			can_guarantee_other_ideologies = 
+		}
+		
+		can_host_government_in_exile =
+		
+		war_impact_on_world_tension =
+		faction_impact_on_world_tension =
+		
+		modifiers = {
+			
+			generate_wargoal_tension = 
+			join_faction_tension = 
+			lend_lease_tension = 
+			send_volunteers_tension = 
+			guarantee_tension = 
+			annex_cost_factor = 
+			civilian_intel_to_others = 
+			army_intel_to_others = 
+			navy_intel_to_others = 
+			airforce_intel_to_others = 
+		}
+		
+		faction_modifiers = {
+			
+			faction_trade_opinion_factor =
+		}
+		
+		ai_communist = yes
+	}
+	
+	## Socialist group
+	
+	revolutionary_socialist = {
+		
+		dynamic_faction_names = {
+			
+			FACTION_NAME_SOCIALIST_1
+			FACTION_NAME_SOCIALIST_2
+			FACTION_NAME_SOCIALIST_3
+			FACTION_NAME_SOCIALIST_4
+		}
+		
+		color = { 153 0 0 }
+		
+		rules = {
+			
+			can_create_collaboration_government = 
+			can_declare_war_on_same_ideology = 
+			can_force_government = 
+			can_send_volunteers = 
+			can_puppet = 
+			can_lower_tension = 
+			can_only_justify_war_on_threat_country = 
+			can_guarantee_other_ideologies = 
+		}
+		
+		can_host_government_in_exile =
+		
+		war_impact_on_world_tension =
+		faction_impact_on_world_tension =
+		
+		modifiers = {
+			
+			generate_wargoal_tension = 
+			join_faction_tension = 
+			lend_lease_tension = 
+			send_volunteers_tension = 
+			guarantee_tension = 
+			annex_cost_factor = 
+			civilian_intel_to_others = 
+			army_intel_to_others = 
+			navy_intel_to_others = 
+			airforce_intel_to_others = 
+		}
+		
+		faction_modifiers = {
+			
+			faction_trade_opinion_factor =
+		}
+		
+		ai_communist =
+	}
+	
+	anarcho-socialist = {
+		
+		dynamic_faction_names = {
+			
+			FACTION_NAME_SOCIALIST_1
+			FACTION_NAME_SOCIALIST_2
+			FACTION_NAME_SOCIALIST_3
+			FACTION_NAME_SOCIALIST_4
+		}
+		
+		color = { 51 51 51 }
+		
+		rules = {
+			
+			can_create_collaboration_government = 
+			can_declare_war_on_same_ideology = 
+			can_force_government = 
+			can_send_volunteers = 
+			can_puppet = 
+			can_lower_tension = 
+			can_only_justify_war_on_threat_country = 
+			can_guarantee_other_ideologies = 
+		}
+		
+		can_host_government_in_exile =
+		
+		war_impact_on_world_tension =
+		faction_impact_on_world_tension =
+		
+		modifiers = {
+			
+			generate_wargoal_tension = 
+			join_faction_tension = 
+			lend_lease_tension = 
+			send_volunteers_tension = 
+			guarantee_tension = 
+			annex_cost_factor = 
+			civilian_intel_to_others = 
+			army_intel_to_others = 
+			navy_intel_to_others = 
+			airforce_intel_to_others = 
+		}
+		
+		faction_modifiers = {
+			
+			faction_trade_opinion_factor =
+		}
+		
+		ai_neutral = yes
+	}
+}

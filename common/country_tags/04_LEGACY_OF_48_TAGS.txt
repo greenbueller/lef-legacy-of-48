@@ -7,7 +7,7 @@ BUR = "countries/Burgundy.txt" # Burgundy
 #CAS Castille
 #SPA Spain
 ARA = "countries/Aragon.txt" # Aragon
-VAS = "countries/Vascania.txt" # Vascania
+BSQ = "countries/Vasconia.txt" # Basque Country
 #POR Portugal
 TFR = "countries/Third French Republic.txt" # Third French Republic
 #SWI Switzerland
