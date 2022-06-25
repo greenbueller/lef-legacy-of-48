@@ -1,0 +1,17 @@
+state={
+	id = 840
+	name="STATE_840"
+	state_category=pastoral
+	manpower=56230
+	history={
+		owner = SAU
+		add_core_of = SAU
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		2090 4981 5006 7934 8004 8060 10748 10786 10892
+	}
+}
