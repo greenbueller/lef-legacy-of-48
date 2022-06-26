@@ -1,0 +1,19 @@
+state = {
+	id = 851
+	name = "STATE_851"
+	manpower = 965120
+	state_category = rural
+
+	history = {
+		owner = ZZZ
+		add_core_of = ZZZ
+		add_core_of = KEN
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		5079 5160 10962 11145 12927
+	}
+}

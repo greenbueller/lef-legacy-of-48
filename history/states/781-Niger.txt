@@ -7,7 +7,8 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = FRA
+		owner = ZZZ
+		add_core_of = ZZZ
 		add_core_of = NGR
 		victory_points = {
 			2056 1
@@ -18,8 +19,6 @@ state={
 	}
 
 	provinces={
-		1975 2056 12707
+		1975 2056 12707 12762
 	}
-
-	local_supplies=1.0 
 }

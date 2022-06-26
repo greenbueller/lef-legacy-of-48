@@ -6,6 +6,9 @@ state = {
 
 	history = {
 		owner = OMA
+		add_core_of = KEN
+		add_core_of = TZN
+		add_claim_by = OMA
 		victory_points = {
 			5210 1
 		}

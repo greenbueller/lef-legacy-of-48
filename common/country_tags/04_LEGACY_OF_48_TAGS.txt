@@ -9,7 +9,7 @@ ZZZ = "countries/Unoccupied.txt"
 #### AFRICA ####
 
 #ETH Ethiopia
-#SAF Boer Territories
+#SAF Cape Territory
 #MAD Madagascar
 SOK = "countries/Sokoto.txt" # Sokoto
 #EGY Egypt
@@ -19,6 +19,7 @@ MDK = "countries/Mandinkan.txt" # Mandinkan Empire
 #GHA Ghana
 ZUL = "countries/Zulu.txt" # Zululand
 #MOR Morocco
+BOR = "countries/Boer.txt" # Boer Territories
 
 #### EUROPE ####
 

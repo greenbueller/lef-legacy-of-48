@@ -828,11 +828,26 @@ JAB = {
 }
 
 ZZZ = {
-	color = rgb {
-		0 0 0
-	}
+	color = rgb { 0 0 0 }
+	color_ui = rgb { 0 0 0 }
+}
 
-	color_ui = rgb {
-		0 0 0
-	}
+SOK = {
+	color = rgb { 95 85 198 }
+	color_ui = rgb { 95 85 198 }
+}
+
+MDK = {
+	color = rgb { 223 134 38 }
+	color_ui = rgb { 223 134 38 }
+}
+
+ZUL = {
+	color = rgb { 114 196 101 }
+	color_ui = rgb { 114 196 101 }
+}
+
+BOR = {
+	color = rgb { 79 57 28 }
+	color_ui = rgb { 79 57 28 }
 }
