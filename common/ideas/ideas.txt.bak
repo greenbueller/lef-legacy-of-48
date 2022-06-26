@@ -227,4 +227,89 @@ ideas = {
 		slavery_legal = {
 		}
 	}
+	# STATUSES cannot be changed manually so they'll be always false but are changed by events, kind of like standardised national spirits
+	poverty = {
+		use_list_view = yes
+		no_absolute_poverty = {
+			allowed = {
+				always = no
+			}
+		}
+		limited_poverty = {
+			allowed = {
+				always = no
+			}
+		}
+		noticeable_poverty = {
+			allowed = {
+				always = no
+			}
+		}
+		widespread_poverty = {
+			allowed = {
+				always = no
+			}
+		}
+		rampant_poverty = {
+			allowed = {
+				always = no
+			}
+		}
+		national_destitution = {
+			allowed = {
+				always = no
+			}
+		}
+	}
+	industrialisation = {
+		use_list_view = yes
+		industrialised = {
+			allowed = {
+				always = no
+			}
+		}
+		semi-industrialised = {
+			allowed = {
+				always = no
+			}
+		}
+		agrarian = {
+			allowed = {
+				always = no
+			}
+		}
+		subsistence_farming = {
+			allowed = {
+				always = no
+			}
+		}
+	}
+	literacy = { # can probably be replaced with a variable created on game-start
+		use_list_view = yes
+		no_illiteracy = {
+			allowed = {
+				always = no
+			}
+		}
+		no_major_illiteracy = {
+			allowed = {
+				always = no
+			}
+		}
+		significant_illiteracy = {
+			allowed = {
+				always = no
+			}
+		}
+		majority_illiteracy = {
+			allowed = {
+				always = no
+			}
+		}
+		overwhelming_illiteracy = {
+			allowed = {
+				always = no
+			}
+		}
+	}
 }
