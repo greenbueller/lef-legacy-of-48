@@ -10,7 +10,8 @@ state={
 		victory_points = {
 			9602 3 
 		}
-		owner = CRO
+		owner = SER
+		add_core_of = SER
 		buildings = {
 			infrastructure = 2
 
@@ -20,11 +21,8 @@ state={
 	}
 
 	provinces={
-		630 3922 3939 6953 6970 6998 9602 9756 9906 11887 
+		630 3939 6953 6970 6998 9602 9756 9890 9906 11887 
 	}
 	manpower=707000
-	buildings_max_level_factor=1.000
 	state_category=town
-
-	local_supplies=5.0 
 }

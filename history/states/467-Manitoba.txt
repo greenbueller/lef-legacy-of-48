@@ -4,7 +4,7 @@ state={
 	name="STATE_467"
 
 	history={
-		owner = CAN
+		owner = USA
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -20,9 +20,6 @@ state={
 	provinces={
 		1848 1873 3721 4218 4426 4790 4872 5119 12145 12636 12688 13163 
 	}
-	manpower=651071
-	buildings_max_level_factor=1.000
+	manpower=461394
 	state_category=rural
-
-	local_supplies=9.0 
 }

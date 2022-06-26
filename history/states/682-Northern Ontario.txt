@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = CAN
+		owner = USA
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 1
@@ -21,10 +21,7 @@ state={
 	}
 
 	provinces={
-		602 777 1299 1769 1782 4775 4784 4869 4875 6510 7366 7794 7899 9467 9480 9740 10621 10718 11571 12278 12582 12701 13094 13159 13161 
+		602 777 1299 1769 1782 4775 4784 4869 4875 6510 7366 7794 7899 9467 9480 9740 10621 10718 11571 12278 12582 12701 13094 
 	}
-	manpower=149059
-	buildings_max_level_factor=1.000
-
-	local_supplies=0.0 
+	manpower=505454
 }

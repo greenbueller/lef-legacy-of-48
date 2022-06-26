@@ -9,8 +9,8 @@ ENG = {
 	color_ui = rgb { 255 73 121 }
 }
 SOV = {
-	color = rgb { 125 13 24 }
-	color_ui = rgb { 163 17 31 }
+	color = rgb { 42 70 25 }
+	color_ui = rgb { 42 70 25 }
 }
 SWE = {
 	color = rgb { 36 132 247 }
@@ -74,8 +74,8 @@ SWI = {
 	color_ui = rgb { 193 81 81 }
 }
 TUR = {
-	color = rgb { 64 105 64 }
-	color_ui = rgb { 64 105 64 }
+	color = rgb { 57 72 109 }
+	color_ui = rgb { 57 72 109 }
 }
 GRE = {
 	color = rgb { 93 181 227 }
@@ -870,4 +870,39 @@ PAP = {
 SIT = {
 	color = rgb { 83 79 149 }
 	color_ui = rgb { 83 79 149 }
+}
+
+MEC = {
+	color = rgb { 138 164 136 }
+	color_ui = rgb { 138 164 136 }
+}
+
+TFR = {
+	color = rgb { 126 170 201 }
+	color_ui = rgb { 126 170 201 }
+}
+
+BSQ = {
+	color = rgb { 213 53 53 }
+	color_ui = rgb { 213 53 53 }
+}
+
+ARA = {
+	color = rgb { 238 143 42 }
+	color_ui = rgb { 238 143 42 }
+}
+
+CAS = {
+	color = rgb { 255 256 90 }
+	color_ui = rgb { 255 256 90 }
+}
+
+TCA = {
+	color = rgb { 127 211 131 }
+	color_ui = rgb { 127 211 131 }
+}
+
+QBC = {
+	color = rgb { 36 43 191 }
+	color_ui = rgb { 36 43 191 }
 }

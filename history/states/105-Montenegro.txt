@@ -11,7 +11,7 @@ state={
 		victory_points = {
 			9809 3 
 		}
-		owner = ALB
+		owner = MNT
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -21,12 +21,12 @@ state={
 			}
 
 		}
-		add_core_of = ALB
+		add_core_of = MNT
 
 	}
 
 	provinces={
-		937 6913 9809 9821 11858 
+		9809 9821 11858 
 	}
 	manpower=895500
 	state_category=rural

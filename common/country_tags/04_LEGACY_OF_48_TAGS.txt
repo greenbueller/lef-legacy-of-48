@@ -29,7 +29,7 @@ BOR = "countries/Boer.txt" # Boer Territories
 #GER German Empire/Prussia
 #FRA French Commune
 BUR = "countries/Burgundy.txt" # Burgundy
-CAS = "countries/Spain.txt"
+CAS = "countries/Castile.txt"
 #SPR Spain
 ARA = "countries/Aragon.txt" # Aragon
 BSQ = "countries/Vasconia.txt" # Basque Country
@@ -65,3 +65,12 @@ SRD = "countries/Sardinia Piedmont.txt" # Sardinia Piedmont
 #OMA Oman
 #SAU Nejd
 JAB = "countries/Jabal.txt" # Jabal Shammar
+MEC = "countries/Mecca.txt" # Sharifate of Mecca
+TCA = "countries/Transcaucasia.txt"
+
+#### NORTH AMERICA ####
+
+#USA America
+#CAN Canada
+QBC = "countries/Quebec.txt"
+#MEX Mexico

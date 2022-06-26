@@ -6,7 +6,7 @@ state={
 	}
 
 	history={
-		owner = SPR
+		owner = CAS
 		victory_points = {
 			6902 1 
 		}
@@ -15,7 +15,7 @@ state={
 			industrial_complex = 1
 
 		}
-		add_core_of = SPR
+		add_core_of = CAS
 
 	}
 
@@ -23,8 +23,5 @@ state={
 		809 931 985 3930 6866 6902 6948 6954 9839 9877 9917 9925 11756 11780 11798 11851 13230 
 	}
 	manpower=1417652
-	buildings_max_level_factor=1.000
 	state_category=town
-
-	local_supplies=0.0 
 }

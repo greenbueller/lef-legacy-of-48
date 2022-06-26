@@ -2,12 +2,12 @@
 state={
 	id=740
 	name="STATE_740"
-	manpower = 259612
+	manpower = 39248
 	
 	state_category = rural
 
 	history={
-		owner = CAN
+		owner = USA
 		buildings = {
 			infrastructure = 1
 		}
@@ -17,7 +17,4 @@ state={
 	provinces={
 		7259 1214 12259 12272 1420 
 	}
-	
-
-	local_supplies=0.0 
 }
