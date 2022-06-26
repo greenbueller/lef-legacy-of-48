@@ -45,7 +45,8 @@ TFR = "countries/Third French Republic.txt" # Third French Republic
 PAP = "countries/Papal States.txt" # Papal States
 SIT = "countries/Southern Italy.txt" # Southern Italy
 VEN = "countries/Venitia.txt" # Venice
-#ITA Sardinia-Piedmont
+SRD = "countries/Sardinia Piedmont.txt" # Sardinia Piedmont
+#ITA Italia
 #ALB Albania
 #BUL Bulgaria
 #POL Poland

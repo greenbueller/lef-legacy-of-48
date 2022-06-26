@@ -851,3 +851,23 @@ BOR = {
 	color = rgb { 79 57 28 }
 	color_ui = rgb { 79 57 28 }
 }
+
+SRD = {
+	color = hsv { 0.81 0.57 0.74 }
+	color_ui = rgb { 81 187 188 }
+}
+
+VEN = {
+	color = rgb { 231 225 50 }
+	color_ui = rgb { 231 225 50 }
+}
+
+PAP = {
+	color = rgb { 255 196 156 }
+	color_ui = rgb { 255 196 156 }
+}
+
+SIT = {
+	color = rgb { 83 79 149 }
+	color_ui = rgb { 83 79 149 }
+}

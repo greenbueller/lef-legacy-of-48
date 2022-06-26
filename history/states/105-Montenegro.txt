@@ -11,7 +11,7 @@ state={
 		victory_points = {
 			9809 3 
 		}
-		owner = SER
+		owner = ALB
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -21,7 +21,7 @@ state={
 			}
 
 		}
-		add_core_of = SER
+		add_core_of = ALB
 
 	}
 
@@ -29,8 +29,5 @@ state={
 		937 6913 9809 9821 11858 
 	}
 	manpower=895500
-	buildings_max_level_factor=1.000
 	state_category=rural
-
-	local_supplies=3.0 
 }
