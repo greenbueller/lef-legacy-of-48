@@ -3,76 +3,116 @@ ideas = {
 	state_category = {	# Determines the cosmetic tag of the country and some will be allowed/disallowed based on ideology, e.g. stateless_category will only be selectable by revolutionary socialist government and change the ideology to anarcho-socialist
 		law = yes
 		kingdom_category = {
-			allowed = {
-				NOT = {
-					has_government = conservative
-					has_government = liberal
-					has_government = social_democrat
-					has_government = moderate_socialist
-					has_government = revolutionary_socialist
-					has_government = anarcho-socialist
+			available = {
+				OR = {
+					has_government = ultranationalist
+					has_government = reactionary
 				}
 			}
-			on_add = { # Need to figure out how to make it change the cosmetic tag to _kingdom
+			on_add = {
+				set_cosmetic_tag = [ROOT.GetTag]_kingdom_[ROOT.GetRulingIdeology]
 			}
 		}
 		republic_category = {
-			allowed = {
+			available = {
 				NOT = {
 					has_government = reactionary
 					has_government = conservative
 					has_government = anarcho-socialist
 				}
 			}
-			on_add = { # Need to figure out how to make it change the cosmetic tag to _republic
+			on_add = {
+				set_cosmetic_tag = [ROOT.GetTag]_republic_[ROOT.GetRulingIdeology]
 			}
 		}
 		state_category = {
-			allowed = {
-				NOT = {
-					has_government = conservative
+			available = {
+				OR = {
+					has_government = ultranationalist
+					has_government = reactionary
 				}
 			}
-			on_add = { # Need to figure out how to make it change the cosmetic tag to _state
+			on_add = {
+				set_cosmetic_tag = [ROOT.GetTag]_state_[ROOT.GetRulingIdeology]
 			}
 		}
-		stateless_category = {
-			allowed = {
+		stateless_category = { # Will be handled by the events surrounding anarchism
+			available = {
 				has_government = revolutionary_socialist
 			}
-			on_add = { # Need to figure out how to make it change the cosmetic tag to _stateless
-				set_politics = {
-					ruling_party = anarcho-socialist
+			on_add = {
+				set_cosmetic_tag = [ROOT.GetTag]_stateless
 				}
 			}
 		}
 	}
 	government_form = { # These will only really matter once I implement a legislative branch system, for now they should only determine country leader behaviour
-		presidential = {
-			
+		presidential = { # Will make the head of state character in generic states and republics the head of government character as well
+			available = {
+				NOT = {
+					has_idea = kingdom_category
+					has_government = anarcho-socialist
+					has_idea = stateless_category
+				}
+			}
 		}
 		absolute_monarchy = {
-			
+			# Will be the kingdom equivalent of the presidential behaviour (HoS -> HoG) at some point in the future
+			available = {
+				has_idea = kingdom_category
+				has_government = reactionary
+			}
+			on_add = {
+				set_politics = {
+					set_politics = {
+						ruling_party = [root.getrulingideology]
+						elections_allowed = no
+					}
+				}
+			}
 		}
-		dictatorial = {
-			
+		dictatorial = { # Will make the head of government character more influential (need to learn how to use dynamic modifiers for this)
+			available = {
+				NOT = {
+					has_idea = stateless_category
+				}
+				OR = {
+					has_government = ultranationalist
+					has_government = reactionary
+					has_government = revolutionary_socialist
+				}
+			}
 		}
-		leaderless = {
-			allowed = {
+		leaderless = { # Will be handled by the events surrounding anarchism
+			available = {
 				OR {
 					has_government = anarcho-socialist
 					has_idea = stateless_category
 				}
 			}
 		}
-		parliamentary = {
-			
+		parliamentary = { # Will make the head of government character more influential than the HoS and set a flag that changes election behaviour for his office (if a republic, then normal HoS election behaviour will not be changed)
+		# Most functionality might be ported over from IA2018 if I get permission from @generalis
+			available = {
+				NOT = {
+					has_idea = stateless_category
+				}
+			}
 		}
-		semi-presidential = {
-			
+		semi-presidential = { # Behaviour is basically having elections to a HoS office based on legislative makeup
+			available = {
+				NOT = {
+					has_idea = kingdom_category
+					has_idea = stateless_category
+				}
+			}
 		}
-		dual_executive = {
-			
+		dual_executive = { # Behaviour makes both heads of state and government influential (will need to learn dynamic modifiers for this) using parliamentary election mechanics for head of government and normal election mechanics for head of state
+			available = {
+				NOT = {
+					has_idea = stateless_category
+				}
+			}
 		}
 	# LAWS
 	suffrage_law = {
