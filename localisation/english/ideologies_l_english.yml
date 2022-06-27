@@ -1,0 +1,18 @@
+l_english:
+    
+    # Socialist group
+    socialist_group:0 "Socialist"
+    anarcho-socialist:0 "Anarcho-socialism"
+    revolutionary_socialist:0 "Revolutionary socialism"
+    
+    # Liberal-democratic group
+    liberal-democratic_group:0 "Liberal-democratic"
+    moderate_socialist:0 "Moderate socialism"
+    social_democrat:0 "Social Democracy"
+    liberal:0 "Liberalism"
+    conservative:0 "Conservatism"
+    
+    # Reactionary group
+    reactionary:0 "Reactionary"
+    ultranationalist:0 "Ultranationalism"
+    

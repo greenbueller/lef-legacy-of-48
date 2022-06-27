@@ -1,0 +1,75 @@
+l_english:
+    
+    # File is broken up into four sections:
+    # part 1 is country names without an assigned state type
+    # part 2 is country names with assigned state types (will do later)
+    # part 3 is special cosmetic tags (will do later)
+    # part 4 includes dynamic faction names (will do later)
+    
+    # -- canadiancupcake
+    
+    # Individual appendices are as follows:
+    
+    # _ultranationalism:0 ""
+    # _ultranationalism_DEF:0 ""
+    # _ultranationalism_ADJ:0 ""
+    # _reactionary:0 ""
+    # _reactionary_DEF:0 ""
+    # _reactionary_ADJ:0 ""
+    # _conservative:
+    # _conservative_DEF:
+    # _conservative_ADJ:
+    # _liberal:0 ""
+    # _liberal_DEF:0 ""
+    # _liberal_ADJ:0 ""
+    # _social_democrat_:0 ""
+    # _social_democrat_DEF:0 ""
+    # _social_democrat_ADJ:0 ""
+    # _moderate_socialist_:0 ""
+    # _moderate_socialist_DEF:0 ""
+    # _moderate_socialist_ADJ:0 ""
+    # _revolutionary_socialist_:0 ""
+    # _revolutionary_socialist_DEF:0 ""
+    # _revolutionary_socialist_ADJ:0 ""
+    # _anarcho-socialist_:0 ""
+    # _anarcho-socialist_DEF:0 ""
+    # _anarcho-socialist_ADJ:0 ""
+    
+    # Ideology group appendices are as follows:
+    
+    # _reactionary_group:0 ""
+    # _reactionary_group_DEF:0 ""
+    # _reactionary_group_ADJ:0 ""
+    
+    # _liberal-democratic:0 ""
+    # _liberal-democratic_DEF:0 ""
+    # _liberal-democratic_ADJ:0 ""
+    
+    # _socialist:0 ""
+    # _socialist_DEF:0 ""
+    # _socialist_ADJ:0 ""
+    
+    # Part 1
+    
+    # Iberian peninsula
+    
+    ARA:0 "Aragon"
+    ARA_DEF:0 "Aragon"
+    ARA_ADJ:0 "Aragonese"
+    CAS:0 "Castile"
+    CAS_DEF:0 "Castile"
+    CAS_ADJ:0 "Castilian"
+    BSQ:0 "Vasconia"
+    BSQ_DEF:0 "the Basque Country"
+    BSQ_ADJ:0 "Basque"
+    POR:0 "Portugal"
+    POR_DEF:0 "Portugal"
+    POR_ADJ:0 "Portuguese"
+    ADR:0 "Andorra"
+    ADR_DEF:0 "Andorra"
+    ADR_ADJ:0 "Andorran"
+    CAT:0 "Catalonia"
+    CAT_DEF:0 "Catalonia"
+    CAT_ADJ:0 "Catalan"
+    
+    # Italian 
