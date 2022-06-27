@@ -3,7 +3,7 @@ ideas = {
 	state_category = {	# Determines the cosmetic tag of the country and some will be allowed/disallowed based on ideology, e.g. stateless_category will only be selectable by revolutionary socialist government and change the ideology to anarcho-socialist
 		law = yes
 		kingdom_category = {
-			allowed = {
+			available = {
 				OR = {
 					has_government = ultranationalist
 					has_government = reactionary
@@ -14,7 +14,7 @@ ideas = {
 			}
 		}
 		republic_category = {
-			allowed = {
+			available = {
 				NOT = {
 					has_government = reactionary
 					has_government = conservative
@@ -26,7 +26,7 @@ ideas = {
 			}
 		}
 		state_category = {
-			allowed = {
+			available = {
 				OR = {
 					has_government = ultranationalist
 					has_government = reactionary
@@ -37,7 +37,7 @@ ideas = {
 			}
 		}
 		stateless_category = { # Will be handled by the events surrounding anarchism
-			allowed = {
+			available = {
 				has_government = revolutionary_socialist
 			}
 			on_add = {
@@ -48,7 +48,7 @@ ideas = {
 	}
 	government_form = { # These will only really matter once I implement a legislative branch system, for now they should only determine country leader behaviour
 		presidential = { # Will make the head of state character in generic states and republics the head of government character as well
-			allowed = {
+			available = {
 				NOT = {
 					has_idea = kingdom_category
 					has_government = anarcho-socialist
@@ -58,7 +58,7 @@ ideas = {
 		}
 		absolute_monarchy = {
 			# Will be the kingdom equivalent of the presidential behaviour (HoS -> HoG) at some point in the future
-			allowed = {
+			available = {
 				has_idea = kingdom_category
 				has_government = reactionary
 			}
@@ -72,7 +72,7 @@ ideas = {
 			}
 		}
 		dictatorial = { # Will make the head of government character more influential (need to learn how to use dynamic modifiers for this)
-			allowed = {
+			available = {
 				NOT = {
 					has_idea = stateless_category
 				}
@@ -84,7 +84,7 @@ ideas = {
 			}
 		}
 		leaderless = { # Will be handled by the events surrounding anarchism
-			allowed = {
+			available = {
 				OR {
 					has_government = anarcho-socialist
 					has_idea = stateless_category
@@ -93,14 +93,14 @@ ideas = {
 		}
 		parliamentary = { # Will make the head of government character more influential than the HoS and set a flag that changes election behaviour for his office (if a republic, then normal HoS election behaviour will not be changed)
 		# Most functionality might be ported over from IA2018 if I get permission from @generalis
-			allowed = {
+			available = {
 				NOT = {
 					has_idea = stateless_category
 				}
 			}
 		}
 		semi-presidential = { # Behaviour is basically having elections to a HoS office based on legislative makeup
-			allowed = {
+			available = {
 				NOT = {
 					has_idea = kingdom_category
 					has_idea = stateless_category
@@ -108,7 +108,7 @@ ideas = {
 			}
 		}
 		dual_executive = { # Behaviour makes both heads of state and government influential (will need to learn dynamic modifiers for this) using parliamentary election mechanics for head of government and normal election mechanics for head of state
-			allowed = {
+			available = {
 				NOT = {
 					has_idea = stateless_category
 				}
