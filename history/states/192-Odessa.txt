@@ -7,7 +7,7 @@ state = {
 	state_category = city
 
 	history = {
-		owner = SOV
+		owner = UKR
 		victory_points = {
 			11670 10 
 		}
@@ -20,18 +20,10 @@ state = {
 				coastal_bunker = 1
 			}
 		}
-		add_core_of = SOV
 		add_core_of = UKR
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 2
-			}
-		}
 	}
 
 	provinces = {
-		  3575 3738 9698 9714 11670 11703 
+		3575 3738 9698 9714 11670 11703 
 	}
-
-	local_supplies = 6.0 
 }

@@ -52,39 +52,18 @@ ideologies = {
 		color = { 0 32 70 }
 		
 		rules = {
-			
-			can_create_collaboration_government = 
-			can_declare_war_on_same_ideology = 
-			can_force_government = 
-			can_send_volunteers = 
-			can_puppet = 
-			can_lower_tension = 
-			can_only_justify_war_on_threat_country = 
-			can_guarantee_other_ideologies = 
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = yes 
+			can_guarantee_other_ideologies = no
 		}
 		
-		can_host_government_in_exile =
-		
-		war_impact_on_world_tension =
-		faction_impact_on_world_tension =
-		
 		modifiers = {
-			
-			generate_wargoal_tension = 
-			join_faction_tension = 
-			lend_lease_tension = 
-			send_volunteers_tension = 
-			guarantee_tension = 
-			annex_cost_factor = 
-			civilian_intel_to_others = 
-			army_intel_to_others = 
-			navy_intel_to_others = 
-			airforce_intel_to_others = 
 		}
 		
 		faction_modifiers = {
-			
-			faction_trade_opinion_factor =
 		}
 		
 		ai_neutral = yes
@@ -255,39 +234,18 @@ ideologies = {
 		color = { 204 0 0 }
 		
 		rules = {
-			
-			can_create_collaboration_government = 
-			can_declare_war_on_same_ideology = 
-			can_force_government = 
-			can_send_volunteers = 
-			can_puppet = 
-			can_lower_tension = 
-			can_only_justify_war_on_threat_country = 
-			can_guarantee_other_ideologies = 
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = yes 
+			can_guarantee_other_ideologies = no
 		}
 		
-		can_host_government_in_exile =
-		
-		war_impact_on_world_tension =
-		faction_impact_on_world_tension =
-		
 		modifiers = {
-			
-			generate_wargoal_tension = 
-			join_faction_tension = 
-			lend_lease_tension = 
-			send_volunteers_tension = 
-			guarantee_tension = 
-			annex_cost_factor = 
-			civilian_intel_to_others = 
-			army_intel_to_others = 
-			navy_intel_to_others = 
-			airforce_intel_to_others = 
 		}
 		
 		faction_modifiers = {
-			
-			faction_trade_opinion_factor =
 		}
 		
 		ai_communist = yes
@@ -308,42 +266,21 @@ ideologies = {
 		color = { 153 0 0 }
 		
 		rules = {
-			
-			can_create_collaboration_government = 
-			can_declare_war_on_same_ideology = 
-			can_force_government = 
-			can_send_volunteers = 
-			can_puppet = 
-			can_lower_tension = 
-			can_only_justify_war_on_threat_country = 
-			can_guarantee_other_ideologies = 
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = yes 
+			can_guarantee_other_ideologies = no
 		}
 		
-		can_host_government_in_exile =
-		
-		war_impact_on_world_tension =
-		faction_impact_on_world_tension =
-		
 		modifiers = {
-			
-			generate_wargoal_tension = 
-			join_faction_tension = 
-			lend_lease_tension = 
-			send_volunteers_tension = 
-			guarantee_tension = 
-			annex_cost_factor = 
-			civilian_intel_to_others = 
-			army_intel_to_others = 
-			navy_intel_to_others = 
-			airforce_intel_to_others = 
 		}
 		
 		faction_modifiers = {
-			
-			faction_trade_opinion_factor =
 		}
 		
-		ai_communist =
+		ai_communist = yes
 	}
 	
 	anarcho-socialist = {
@@ -359,39 +296,18 @@ ideologies = {
 		color = { 51 51 51 }
 		
 		rules = {
-			
-			can_create_collaboration_government = 
-			can_declare_war_on_same_ideology = 
-			can_force_government = 
-			can_send_volunteers = 
-			can_puppet = 
-			can_lower_tension = 
-			can_only_justify_war_on_threat_country = 
-			can_guarantee_other_ideologies = 
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = yes 
+			can_guarantee_other_ideologies = no
 		}
 		
-		can_host_government_in_exile =
-		
-		war_impact_on_world_tension =
-		faction_impact_on_world_tension =
-		
 		modifiers = {
-			
-			generate_wargoal_tension = 
-			join_faction_tension = 
-			lend_lease_tension = 
-			send_volunteers_tension = 
-			guarantee_tension = 
-			annex_cost_factor = 
-			civilian_intel_to_others = 
-			army_intel_to_others = 
-			navy_intel_to_others = 
-			airforce_intel_to_others = 
 		}
 		
 		faction_modifiers = {
-			
-			faction_trade_opinion_factor =
 		}
 		
 		ai_neutral = yes

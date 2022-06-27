@@ -1,0 +1,27 @@
+state={
+	id=856
+	name="STATE_856"
+	manpower=1987000
+	state_category = large_town
+
+	history = {
+		owner = SIT
+		add_core_of = SIT
+		victory_points = {
+			11837 15 
+		}
+		buildings = {
+			infrastructure = 2
+			11837 = {
+				naval_base = 10
+			}
+			11998 = {
+				naval_base = 2
+			}
+		}
+	}
+
+	provinces = {
+		883 6939 6843 6979 6980 9784 11837 11998
+	}
+}

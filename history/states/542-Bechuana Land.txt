@@ -11,20 +11,15 @@ state={
 	}
 
 	history={
-		owner = ENG
+		owner = ZZZ
+		add_core_of = ZZZ
 		buildings = {
 			infrastructure = 1
 		}
 		add_core_of = BOT
-		victory_points = {
-			8214 1
-		}
-
 	}
 
 	provinces={
-		1580 8214 10525 12940 12963 
+		1580 1688 5106 5217 10525 12963 13251
 	}
-
-	local_supplies=2.0 
 }

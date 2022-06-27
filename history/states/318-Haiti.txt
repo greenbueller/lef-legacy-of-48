@@ -11,7 +11,7 @@ state=
 	}
 	history=
 	{
-		owner = HAI
+		owner = USA
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
@@ -30,6 +30,4 @@ state=
 	provinces={
 		1594 1635 4641
 	}
-
-	local_supplies=0.0 
 }

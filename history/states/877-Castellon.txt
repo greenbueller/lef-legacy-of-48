@@ -1,0 +1,18 @@
+state={
+	id=877
+	name="STATE_877"
+	manpower=334181
+	state_category = rural
+
+	history = {
+		owner = ARA
+		add_core_of = ARA
+		buildings={
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		3873 6817 9896 13222
+	}
+}

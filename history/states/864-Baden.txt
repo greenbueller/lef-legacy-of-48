@@ -1,0 +1,19 @@
+state = {
+	id = 864
+	name = "STATE_864"
+	manpower=1024521
+	state_category = city
+
+	history = {
+		owner = GER
+		add_core_of = GER
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		3530 3679 6542 6568 6712 11640
+	}
+}

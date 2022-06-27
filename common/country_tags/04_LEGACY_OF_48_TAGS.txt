@@ -1,11 +1,36 @@
+ZZZ = "countries/Unoccupied.txt"
+
+#### ASIA ####
+
+#CHI China
+#JAP Japan
+#TIB Tibet
+
+#### AFRICA ####
+
+#ETH Ethiopia
+#SAF Cape Territory
+#MAD Madagascar
+SOK = "countries/Sokoto.txt" # Sokoto
+#EGY Egypt
+#LIB Liberia
+MDK = "countries/Mandinkan.txt" # Mandinkan Empire
+#SIE Sierra Leone
+#GHA Ghana
+ZUL = "countries/Zulu.txt" # Zululand
+#MOR Morocco
+BOR = "countries/Boer.txt" # Boer Territories
+
+#### EUROPE ####
+
 #ENG England
 #IRE Ireland
 #SCO Scotland
 #GER German Empire/Prussia
 #FRA French Commune
 BUR = "countries/Burgundy.txt" # Burgundy
-#CAS Castille
-#SPA Spain
+CAS = "countries/Castile.txt"
+#SPR Spain
 ARA = "countries/Aragon.txt" # Aragon
 BSQ = "countries/Vasconia.txt" # Basque Country
 #POR Portugal
@@ -19,9 +44,9 @@ TFR = "countries/Third French Republic.txt" # Third French Republic
 #HOL Netherlands
 PAP = "countries/Papal States.txt" # Papal States
 SIT = "countries/Southern Italy.txt" # Southern Italy
-VEN = "countries/Venitia.txt" # Venice
-#ITA Sardinia-Piedmont
-#TUR Ottoman
+VEC = "countries/Venitia.txt" # Venice
+SRD = "countries/Sardinia Piedmont.txt" # Sardinia Piedmont
+#ITA Italia
 #ALB Albania
 #BUL Bulgaria
 #POL Poland
@@ -31,7 +56,33 @@ VEN = "countries/Venitia.txt" # Venice
 #UKR Ukraine
 #GRE Greece
 #SOV Russia
-#CHI China
-#JAP Japan
+
+#### MIDDLE EAST ####
+
+#TUR Ottoman
 #PER Persia
-#TIB Tibet
+#YEM Yemen
+#OMA Oman
+#SAU Nejd
+JAB = "countries/Jabal.txt" # Jabal Shammar
+MEC = "countries/Mecca.txt" # Sharifate of Mecca
+TCA = "countries/Transcaucasia.txt"
+
+#### NORTH AMERICA ####
+
+#USA America
+#CAN Canada
+QBC = "countries/Quebec.txt"
+#MEX Mexico
+
+#### LATIN AMERICA ####
+
+CLF = "countries/Caribbean.txt"
+#SUR Suriname
+#GYA Guyana
+#BRA Brazil
+#COL Colombia
+#PRU Peru
+#ARG Argentina
+#BOL Bolivia
+CEN = "countries/Central America.txt"

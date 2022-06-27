@@ -1,0 +1,18 @@
+state={
+	id=872
+	name="STATE_872"
+	manpower = 203120
+	state_category = rural
+
+	history = {
+		owner = CAS
+		add_core_of = CAS
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		857 3859 11766
+	}
+}

@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = ITA
+		owner = SIT
 		victory_points = {
 			819 20 
 		}
@@ -24,18 +24,10 @@ state={
 				naval_base = 6
 			}
 		}
-		add_core_of = ITA
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 2
-				industrial_complex = 3
-			}
-		}
+		add_core_of = SIT
 	}
 
 	provinces={
-		819 851 883 955 3958 3968 6843 6939 6972 6980 9826 11803 
+		819 851 955 3958 9826 11803 
 	}
-
-	local_supplies=13.0 
 }

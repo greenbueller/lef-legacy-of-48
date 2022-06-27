@@ -8,7 +8,8 @@ state=
 	history=
 	{
 		add_core_of = BLZ
-		owner = ENG
+		owner = CEN
+		add_core_of = CEN
 		victory_points = {
 			2077 1 
 		}
@@ -20,6 +21,4 @@ state=
 		}
 	}
 	provinces= { 2077 }
-
-	local_supplies=0.0 
 }

@@ -6,7 +6,10 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = TUR
+		owner = MEC
+		add_core_of = JAB
+		add_core_of = SAU
+		add_core_of = MEC
 		victory_points = {
 			12883 1 
 		}
@@ -16,12 +19,9 @@ state={
 				naval_base = 5
 			}
 		}
-		add_core_of = TUR
 	}
 
 	provinces={
 		1923 5037 8073 12883 
 	}
-
-	local_supplies=0.0 
 }

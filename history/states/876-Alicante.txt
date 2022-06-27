@@ -1,0 +1,24 @@
+state={
+	id=876
+	name="STATE_876"
+	manpower=904210
+	state_category = town
+
+	history={
+		owner = ARA
+		add_core_of = ARA
+		victory_points = {
+			4098 3
+		}
+		buildings = {
+			infrastructure = 3
+			4098 = {
+				naval_base = 2
+			}
+		}
+	}
+
+	provinces = {
+		962 4098 6959 9889
+	}
+}

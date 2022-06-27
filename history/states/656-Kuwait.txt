@@ -6,6 +6,7 @@ state={
 	state_category = rural
 	
 	history={
+		add_core_of = TUR
 		add_core_of = KUW
 		owner = TUR
 		add_core_of = TUR

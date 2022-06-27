@@ -2,7 +2,7 @@
 state={
 	id=161
 	name="STATE_161"
-	manpower = 3202401
+	manpower = 2813000
 	
 	state_category = large_city
 	
@@ -11,7 +11,8 @@ state={
 	}
 
 	history={
-		owner = ITA
+		owner = SRD
+		add_core_of = SRD
 		victory_points = {
 			6606 3 
 		}
@@ -23,7 +24,6 @@ state={
 				naval_base = 2
 			}
 		}
-		add_core_of = ITA
 	}
 
 	provinces={

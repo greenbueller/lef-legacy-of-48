@@ -9,8 +9,8 @@ ENG = {
 	color_ui = rgb { 255 73 121 }
 }
 SOV = {
-	color = rgb { 125 13 24 }
-	color_ui = rgb { 163 17 31 }
+	color = rgb { 42 70 25 }
+	color_ui = rgb { 42 70 25 }
 }
 SWE = {
 	color = rgb { 36 132 247 }
@@ -74,8 +74,8 @@ SWI = {
 	color_ui = rgb { 193 81 81 }
 }
 TUR = {
-	color = rgb { 171 190 152 }
-	color_ui = rgb { 222 247 198 }
+	color = rgb { 57 72 109 }
+	color_ui = rgb { 57 72 109 }
 }
 GRE = {
 	color = rgb { 93 181 227 }
@@ -817,7 +817,102 @@ CHU = {
 }
 
 #Custom colours start here
-GER = {
+#GER = {
+#	color = rgb { 0 0 0 }
+#	color_ui = rgb { 0 0 0 }
+#}
+
+JAB = {
+	color = rgb { 152 69 69 }
+	color_ui = rgb { 152 69 69 }
+}
+
+ZZZ = {
 	color = rgb { 0 0 0 }
 	color_ui = rgb { 0 0 0 }
+}
+
+SOK = {
+	color = rgb { 95 85 198 }
+	color_ui = rgb { 95 85 198 }
+}
+
+MDK = {
+	color = rgb { 223 134 38 }
+	color_ui = rgb { 223 134 38 }
+}
+
+ZUL = {
+	color = rgb { 114 196 101 }
+	color_ui = rgb { 114 196 101 }
+}
+
+BOR = {
+	color = rgb { 79 57 28 }
+	color_ui = rgb { 79 57 28 }
+}
+
+SRD = {
+	color = hsv { 0.81 0.57 0.74 }
+	color_ui = rgb { 81 187 188 }
+}
+
+VEC = {
+	color = rgb { 231 225 50 }
+	color_ui = rgb { 231 225 50 }
+}
+
+PAP = {
+	color = rgb { 255 196 156 }
+	color_ui = rgb { 255 196 156 }
+}
+
+SIT = {
+	color = rgb { 83 79 149 }
+	color_ui = rgb { 83 79 149 }
+}
+
+MEC = {
+	color = rgb { 138 164 136 }
+	color_ui = rgb { 138 164 136 }
+}
+
+TFR = {
+	color = rgb { 126 170 201 }
+	color_ui = rgb { 126 170 201 }
+}
+
+BSQ = {
+	color = rgb { 213 53 53 }
+	color_ui = rgb { 213 53 53 }
+}
+
+ARA = {
+	color = rgb { 238 143 42 }
+	color_ui = rgb { 238 143 42 }
+}
+
+CAS = {
+	color = rgb { 255 256 90 }
+	color_ui = rgb { 255 256 90 }
+}
+
+TCA = {
+	color = rgb { 127 211 131 }
+	color_ui = rgb { 127 211 131 }
+}
+
+QBC = {
+	color = rgb { 36 43 191 }
+	color_ui = rgb { 36 43 191 }
+}
+
+CLF = {
+	color = rgb { 102 102 0 }
+	color_ui = rgb { 102 102 0 }
+}
+
+CEN = {
+	color = rgb { 125 151 160 }
+	color_ui = rgb { 125 151 160 }
 }

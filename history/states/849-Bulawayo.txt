@@ -1,0 +1,24 @@
+state = {
+	id = 849
+	name="STATE_849"
+	manpower = 2042130
+	state_category = town
+
+	history = {
+		owner = ZUL
+		add_core_of = ZUL
+		buildings = {
+			infrastructure = 2
+			1468 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			1468 3 
+		}
+	}
+
+	provinces = {
+		1468 1494 7900 8178
+	}
+}

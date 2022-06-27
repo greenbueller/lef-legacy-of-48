@@ -1,0 +1,18 @@
+state={
+	id = 857
+	name="STATE_857"
+	manpower=486000
+	state_category = town
+
+	history = {
+		owner = SIT
+		add_core_of = SIT
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		3968 6972 9856
+	}
+}

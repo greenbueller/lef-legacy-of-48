@@ -1,0 +1,21 @@
+state={
+	id=881
+	name="STATE_881"
+	manpower=212986
+	state_category = pastoral
+
+	history = {
+		owner = ARA
+		add_core_of = ARA
+		add_core_of = CAT
+		add_core_of = FRA
+		add_core_of = TFR
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		6915 9853 13258
+	}
+}

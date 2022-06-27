@@ -11,7 +11,8 @@ state=
 	
 	history=
 	{
-		owner = ELS
+		owner = CEN
+		add_core_of = CEN
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
@@ -30,6 +31,4 @@ state=
 	provinces={
 		12823 13093 
 	}
-
-	local_supplies=0.0 
 }

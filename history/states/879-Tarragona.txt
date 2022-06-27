@@ -1,0 +1,22 @@
+state={
+	id=879
+	name="STATE_879"
+	manpower=343127
+	state_category = town
+	
+	history = {
+		owner = ARA
+		add_core_of = ARA
+		add_core_of = CAT
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			6966 1
+		}
+	}
+	
+	provinces = {
+		6812 6836 6966 13223
+	}
+}

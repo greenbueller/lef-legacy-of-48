@@ -11,7 +11,8 @@ state={
 	state_category = town
 	
 	history={
-		owner = ALB
+		owner = TUR
+		add_core_of = TUR
 		victory_points = {
 			9914 5
 		}
@@ -28,13 +29,7 @@ state={
 			}
 		}
 		add_core_of = ALB
-		add_claim_by = ITA
 
-		1939.4.12 = {
-			owner = ITA
-			controller = ITA
-			remove_claim_by = ITA
-		}
 	}
 
 	provinces={

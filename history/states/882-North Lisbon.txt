@@ -1,0 +1,26 @@
+state={
+	id=882
+	name="STATE_882" # Lower Central Portugal
+	manpower=543696
+	state_category = town
+
+	resources={
+		tungsten=35.000
+	}
+
+	history = {
+		owner = POR
+		add_core_of = POR
+		buildings = {
+			industrial_complex = 2
+			infrastructure = 3
+		}
+		victory_points = {
+			3798 1 
+		}
+	}
+
+	provinces = {
+		799 3798 3861 6924
+	}
+}
