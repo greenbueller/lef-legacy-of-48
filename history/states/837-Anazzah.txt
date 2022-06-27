@@ -1,0 +1,21 @@
+state = {
+	id = 837
+	name = "STATE_837"
+
+	manpower = 35120
+	state_category=pastoral
+
+	history={
+		owner = TUR
+		add_core_of = JAB
+		add_core_of = SAU
+		add_claim_by = TUR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		4974 5099 7970 8101 10815 10901 12455
+	}
+}

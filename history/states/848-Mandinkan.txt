@@ -1,0 +1,18 @@
+state={
+	id = 848
+	name="STATE_848"
+	manpower = 5067120
+	state_category = rural
+
+	history = {
+		owner = MDK
+		add_core_of = MDK
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		5039 5045 5070 8008 10762
+	}
+}

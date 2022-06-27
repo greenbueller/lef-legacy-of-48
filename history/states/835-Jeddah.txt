@@ -1,0 +1,27 @@
+state={
+	id=835
+	name="STATE_835"
+	manpower = 401560
+	
+	state_category = pastoral
+
+	history={
+		owner = MEC
+		add_core_of = JAB
+		add_core_of = SAU
+		add_core_of = MEC
+		victory_points = {
+			12883 1 
+		}
+		buildings = {
+			infrastructure = 2
+			12883 = {
+				naval_base = 5
+			}
+		}
+	}
+
+	provinces={
+		1923 5037 8073 12883 
+	}
+}

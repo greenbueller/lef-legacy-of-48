@@ -2,12 +2,12 @@
 state={
 	id=464
 	name="STATE_464"
-	manpower = 490912
+	manpower = 492338
 	
 	state_category = rural
 
 	history={
-		owner = CAN
+		owner = USA
 		victory_points = {
 			7361 3
 		}
@@ -25,8 +25,5 @@ state={
 
 	provinces={
 		1354 4360 4430 4623 7304 7361 7644 10244 
-	}
-	
-
-	local_supplies=11.0 
+	} 
 }

@@ -1,0 +1,19 @@
+state = {
+	id = 866
+	name = "STATE_866"
+	manpower = 602314
+	state_category = rural
+	
+	history = {
+		owner = TCA
+		add_core_of = TCA
+		add_core_of = DAG
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		1450 3668 3711 4463 7554 7624 9645
+	}
+}

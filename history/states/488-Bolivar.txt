@@ -7,7 +7,8 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = VEN
+		owner = COL
+		add_core_of = COL
 		buildings = {
 			infrastructure = 1
 
@@ -21,6 +22,4 @@ state={
 	provinces={
 		1981 5317 7915 8050 10736 10849 10879 
 	}
-
-	local_supplies=0.0 
 }

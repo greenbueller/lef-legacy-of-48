@@ -6,12 +6,12 @@ state = {
 	}
 
 	history = {
-		owner = SOV
+		owner = TCA
 		buildings = {
 			infrastructure = 2
 
 		}
-		add_core_of = SOV
+		add_core_of = TCA
 		add_core_of = KBK
 		victory_points = {
 			11614 1
@@ -22,8 +22,5 @@ state = {
 		685 6674 9632 11614
 	}
 	manpower = 387990
-	buildings_max_level_factor = 1.000
 	state_category = pastoral
-
-	local_supplies = 0.0 
 }

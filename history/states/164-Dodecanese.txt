@@ -22,12 +22,10 @@ state=
 				naval_base = 1
 			}
 		}
-		add_core_of = GRE
 		add_core_of = TUR
+		add_claim_by = GRE
 	}
-	provinces=
-	{
-7003 10007 	}
-
-	local_supplies=0.0 
+	provinces= { 
+		7003 10007
+	}
 }

@@ -1,0 +1,24 @@
+state ={
+	id = 855
+	name ="STATE_855"
+	manpower =1145000
+	state_category = town
+
+	history = {
+		owner = SIT
+		add_core_of = SIT
+		victory_points = {
+			925 1 
+		}
+		buildings = {
+			infrastructure = 2
+			925 = {
+				naval_base = 4
+			}
+		}
+	}
+
+	provinces = {
+		925 967 11861
+	}
+}

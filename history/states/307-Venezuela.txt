@@ -11,7 +11,8 @@ state={
 	}
 
 	history={
-		owner = VEN
+		owner = COL
+		add_core_of = COL
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
@@ -34,6 +35,4 @@ state={
 	provinces={
 		4942 7968 8024 8080 8113 10767 10823 10912 5056 4892 5000
 	}
-
-	local_supplies=0.0 
 }

@@ -1,0 +1,25 @@
+state={
+	id = 865
+	name = "STATE_865"
+	state_category = city
+	manpower=1023210
+
+	history = {
+		owner = TFR
+		add_core_of = TFR
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+	}
+
+	resources = {
+		aluminium = 17
+		steel = 20
+	}
+
+	provinces = {
+		641 3650 6639 6668 9590 11794
+	}
+}

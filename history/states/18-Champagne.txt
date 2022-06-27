@@ -7,7 +7,8 @@ state={
 	state_category = city
 
 	history={
-		owner = FRA
+		owner = TFR
+		add_core_of = TFR
 		victory_points = {
 			9490 5 
 		}
@@ -27,7 +28,5 @@ state={
 
 	provinces={
 		551 3533 3546 3560 5291 6531 6545 9472 9490 9505 11732 13011 
-	}
-
-	local_supplies=0.0 
+	} 
 }

@@ -32,7 +32,6 @@ state={
 			}
 		}
 		add_core_of = SIT
-		add_core_of = ITA
 	}
 
 	provinces={

@@ -25,12 +25,9 @@ state={
 			}
 		}
 		add_core_of = SIT
-		add_core_of = ITA
 	}
 
 	provinces={
-		819 851 883 955 3958 3968 6843 6939 6972 6980 9826 11803 
+		819 851 955 3958 9826 11803 
 	}
-
-	local_supplies=13.0 
 }

@@ -1,0 +1,17 @@
+state = {
+	id = 838
+	name="STATE_838"
+	manpower = 204123
+	state_category=rural
+	history={
+		owner = JAB
+		add_core_of = JAB
+		add_core_of = SAU
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		2057 5027 12758 13236 13237 13238 13250
+	}
+}

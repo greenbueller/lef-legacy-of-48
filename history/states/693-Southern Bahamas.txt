@@ -7,7 +7,8 @@ state={
 
 	history={
 		add_core_of = BAH
-		owner = ENG
+		owner = CLF
+		add_core_of = CLF
 		buildings = {
 			infrastructure = 2
 			10440 = {
@@ -22,6 +23,4 @@ state={
 	provinces={
 		1513 10440 
 	}
-
-	local_supplies=0.0 
 }

@@ -1,0 +1,18 @@
+state={
+	id=839
+	name="STATE_839"
+	state_category=town
+	manpower=502314
+	history={
+		owner = JAB
+		add_core_of = JAB
+		add_core_of = SAU
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		4968 5058 10923 12749 13247 13248
+	}
+}

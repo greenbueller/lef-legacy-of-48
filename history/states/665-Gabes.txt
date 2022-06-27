@@ -3,7 +3,8 @@ state={
 	name="STATE_665"
 
 	history={
-		owner = SIT
+		owner = TUR
+		add_core_of = TUR
 		add_core_of = TUN
 		add_core_of = SIT
 		add_claim_by = LBA

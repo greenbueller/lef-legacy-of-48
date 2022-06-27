@@ -11,7 +11,7 @@ state=
 		victory_points = {
 			9793 1
 		}
-		owner = SPR
+		owner = ARA
 		buildings = {
 			infrastructure = 3 #was: 6
 			air_base = 1
@@ -22,11 +22,9 @@ state=
 				naval_base = 1
 			}
 		}
-		add_core_of = SPR
+		add_core_of = ARA
 	}
-	provinces=
-	{
-7114 9793 9845 	}
-
-	local_supplies=0.0 
+	provinces = {
+		7114 9793 9845 	
+	}
 }

@@ -6,7 +6,7 @@ state={
 	}
 
 	history={
-		owner = SPR
+		owner = BSQ
 		victory_points = {
 			740 10
 		}
@@ -20,7 +20,7 @@ state={
 			}
 			air_base = 1
 		}
-		add_core_of = SPR
+		add_core_of = BSQ
 
 	}
 
@@ -28,8 +28,5 @@ state={
 		740 3735 6756 13233 
 	}
 	manpower=928094
-	buildings_max_level_factor=1.000
 	state_category=town
-
-	local_supplies=0.0 
 }

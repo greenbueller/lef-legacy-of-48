@@ -7,7 +7,7 @@ state={
 	state_category = city
 
 	history={
-		owner = FRA
+		owner = BRI
 		victory_points = {
 			3552 20
 		}
@@ -33,18 +33,10 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = FRA
 		add_core_of = BRI
-		1939.1.1 = {
-			buildings = {
-				dockyard = 5
-			}
-		}
 	}
 
 	provinces={
 		542 3552 3758 6536 6548 6572 9495 9510 9525 11508 
 	}
-
-	local_supplies=0.0 
 }
