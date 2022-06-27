@@ -1,0 +1,17 @@
+state={
+	id=870
+	name="STATE_870"
+	history = {
+		owner = CAS
+		add_core_of=CAS
+		buildings = {
+			infrastructure =2
+		}
+	}
+	state_category = town
+	manpower=203410
+
+	provinces = {
+		738 9703 11688
+	}
+}

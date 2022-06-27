@@ -857,7 +857,7 @@ SRD = {
 	color_ui = rgb { 81 187 188 }
 }
 
-VEN = {
+VEC = {
 	color = rgb { 231 225 50 }
 	color_ui = rgb { 231 225 50 }
 }
