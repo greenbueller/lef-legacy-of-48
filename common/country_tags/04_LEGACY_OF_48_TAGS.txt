@@ -1,37 +1,37 @@
-#ALB Albania
-#AUS Austria
-#BAY Bavaria
-#BRI Brittany
-#BUL Bulgaria
-#CAS Castille
-#CHI China
-#CRO Ilyria
-#CZE Bohemia
 #ENG England
-#FRA French Commune
-#GER German Empire/Prussia
-#GRE Greece
-#HOL Netherlands
-#HUN Hungary
 #IRE Ireland
-#ITA Sardinia-Piedmont
-#JAP Japan
-#PER Persia
-#POL Poland
-#POR Portugal
-#ROM Romania
 #SCO Scotland
-#SER Serbia
-#SOV Russia
+#GER German Empire/Prussia
+#FRA French Commune
+BUR = "countries/Burgundy.txt" # Burgundy
+#CAS Castille
 #SPA Spain
-#SWI Switzerland
-#TIB Tibet
-#TUR Ottoman
-#UKR Ukraine
 ARA = "countries/Aragon.txt" # Aragon
 BSQ = "countries/Vasconia.txt" # Basque Country
-BUR = "countries/Burgundy.txt" # Burgundy
+#POR Portugal
+TFR = "countries/Third French Republic.txt" # Third French Republic
+#SWI Switzerland
+#BRI Brittany
+#AUS Austria
+#BAY Bavaria
+#CZE Bohemia
+#HUN Hungary
+#HOL Netherlands
 PAP = "countries/Papal States.txt" # Papal States
 SIT = "countries/Southern Italy.txt" # Southern Italy
-TFR = "countries/Third French Republic.txt" # Third French Republic
 VEN = "countries/Venitia.txt" # Venice
+#ITA Sardinia-Piedmont
+#TUR Ottoman
+#ALB Albania
+#BUL Bulgaria
+#POL Poland
+#CRO Ilyria
+#SER Serbia
+#ROM Romania
+#UKR Ukraine
+#GRE Greece
+#SOV Russia
+#CHI China
+#JAP Japan
+#PER Persia
+#TIB Tibet
