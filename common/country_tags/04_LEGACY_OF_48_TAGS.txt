@@ -74,3 +74,15 @@ TCA = "countries/Transcaucasia.txt"
 #CAN Canada
 QBC = "countries/Quebec.txt"
 #MEX Mexico
+
+#### LATIN AMERICA ####
+
+CLF = "countries/Caribbean.txt"
+#SUR Suriname
+#GYA Guyana
+#BRA Brazil
+#COL Colombia
+#PRU Peru
+#ARG Argentina
+#BOL Bolivia
+CEN = "countries/Central America.txt"

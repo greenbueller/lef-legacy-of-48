@@ -10,7 +10,8 @@ state={
 	state_category = town
 
 	history={
-		owner = GUA
+		owner = CEN
+		add_core_of = CEN
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
@@ -33,7 +34,4 @@ state={
 	provinces={
 		4991 10842 10886 13085 
 	}
-	
-
-	local_supplies=0.0 
 }

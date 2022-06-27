@@ -1,0 +1,13 @@
+on_actions = {
+	on_startup = {
+		effect = {
+			if = {
+				limit = {
+					date > 1914.7.15
+				}
+
+				set_global_flag = PANAMA_CANAL_COMPLETED
+			}
+		}
+	}
+}
