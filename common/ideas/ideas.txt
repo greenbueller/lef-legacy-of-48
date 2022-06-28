@@ -1,6 +1,6 @@
 ideas = {
 	# POLITICAL STRUCTURE
-	state_category = {	# Determines the cosmetic tag of the country and some will be allowed/disallowed based on ideology, e.g. stateless_category will only be selectable by revolutionary socialist government and change the ideology to anarcho-socialist
+	state_category = {	# Determines the cosmetic tag of the country and some will be allowed/disallowed based on ideology, e.g. stateless_category will only be selectable by revolutionary socialist government and change the ideology to anarcho_socialist
 		law = yes
 		kingdom_category = {
 			available = {
@@ -18,7 +18,7 @@ ideas = {
 				NOT = {
 					has_government = reactionary
 					has_government = conservative
-					has_government = anarcho-socialist
+					has_government = anarcho_socialist
 				}
 			}
 			on_add = {
@@ -51,7 +51,7 @@ ideas = {
 			available = {
 				NOT = {
 					has_idea = kingdom_category
-					has_government = anarcho-socialist
+					has_government = anarcho_socialist
 					has_idea = stateless_category
 				}
 			}
@@ -86,7 +86,7 @@ ideas = {
 		leaderless = { # Will be handled by the events surrounding anarchism
 			available = {
 				OR {
-					has_government = anarcho-socialist
+					has_government = anarcho_socialist
 					has_idea = stateless_category
 				}
 			}

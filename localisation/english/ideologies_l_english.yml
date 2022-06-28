@@ -1,8 +1,8 @@
-l_english:
+﻿l_english:
     
     # Socialist group
     socialist_group:0 "Socialist"
-    anarcho-socialist:0 "Anarcho-socialism"
+    anarcho_socialist:0 "Anarcho-socialism"
     revolutionary_socialist:0 "Revolutionary socialism"
     
     # Liberal-democratic group

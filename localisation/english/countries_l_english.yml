@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
     
     # File is broken up into four sections:
     # part 1 is country names without an assigned state type
@@ -32,9 +32,9 @@ l_english:
     # _revolutionary_socialist_:0 ""
     # _revolutionary_socialist_DEF:0 ""
     # _revolutionary_socialist_ADJ:0 ""
-    # _anarcho-socialist_:0 ""
-    # _anarcho-socialist_DEF:0 ""
-    # _anarcho-socialist_ADJ:0 ""
+    # _anarcho_socialist_:0 ""
+    # _anarcho_socialist_DEF:0 ""
+    # _anarcho_socialist_ADJ:0 ""
     
     # Ideology group appendices are as follows:
     
