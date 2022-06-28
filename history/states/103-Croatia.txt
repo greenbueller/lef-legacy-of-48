@@ -2,7 +2,7 @@
 state={
 	id=103
 	name="STATE_103" # Dalmatia
-	manpower = 1431700
+	manpower = 942130
 
 	state_category = large_town
 
@@ -15,9 +15,6 @@ state={
 		victory_points = {
 			3924 3
 		}
-		victory_points = {
-			11564 1 
-		}
 		buildings = {
 			infrastructure = 3
 			dockyard = 1
@@ -29,13 +26,10 @@ state={
 				naval_base = 1
 			}
 		}
-		#add_claim_by = ITA #added by focus
 		add_core_of = CRO
 	}
 
 	provinces={
-		591 984 3601 3868 3924 3974 6611 6889 11564 11816 11901 13252
+		984 3868 3924 3974 6889 11816 11901 13252
 	}
-
-	local_supplies=4.0 
 }

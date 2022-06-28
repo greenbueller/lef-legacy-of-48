@@ -1,0 +1,20 @@
+state={
+	id=888
+	name="STATE_888"
+	manpower = 403210
+	state_category = rural
+
+	history = {
+		owner = SER
+		add_core_of = SER
+		add_claim_by = CRO
+		#add_claim_by = HUN
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		6634 11583
+	}
+}

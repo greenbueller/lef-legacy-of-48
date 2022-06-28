@@ -1,0 +1,19 @@
+state={
+	id=891
+	name="STATE_891"
+	state_category = pastoral
+	manpower=49213
+
+	history = {
+		owner = CRO
+		add_core_of = CRO
+		add_core_of = BOS
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		13260 13261
+	}
+}

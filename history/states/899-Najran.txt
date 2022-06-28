@@ -1,0 +1,18 @@
+state={
+	id=899
+	name="STATE_899"
+	state_category = pastoral
+	manpower=10521
+
+	history = {
+		owner = ZZZ
+		add_core_of = ZZZ
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		5006 8030 10870
+	}
+}

@@ -1,0 +1,21 @@
+state={
+	id=883
+	name="STATE_883"
+	state_category = rural
+	manpower=21421
+
+	history = {
+		owner = TUR
+		add_core_of = TUR
+		add_core_of = SER
+		add_claim_by = BUL
+		add_claim_by = ALB
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		11832
+	}
+}

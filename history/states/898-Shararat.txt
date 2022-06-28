@@ -1,0 +1,19 @@
+state={
+	id=898
+	name="STATE_898"
+	state_category = pastoral
+	manpower=49421
+
+	history = {
+		owner = TUR
+		add_core_of = TUR
+		add_claim_by = JOR
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		4562 4603 11976 12455
+	}
+}

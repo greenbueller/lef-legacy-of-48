@@ -1,0 +1,19 @@
+state={
+	id=889
+	name="STATE_889"
+	manpower = 75210
+	state_category = pastoral
+
+	history = {
+		owner = SER
+		add_core_of = SER
+		add_claim_by = CRO
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		630 9756
+	}
+}
