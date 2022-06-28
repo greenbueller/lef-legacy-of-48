@@ -10,7 +10,7 @@ state={
 	state_category = city
 
 	history={
-		owner = TFR
+		owner = FRA
 		add_core_of = TFR
 		victory_points = {
 			9434 10

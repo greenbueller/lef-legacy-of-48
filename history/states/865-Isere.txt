@@ -5,7 +5,7 @@ state={
 	manpower=1023210
 
 	history = {
-		owner = TFR
+		owner = FRA
 		add_core_of = TFR
 		add_core_of = FRA
 		buildings = {
