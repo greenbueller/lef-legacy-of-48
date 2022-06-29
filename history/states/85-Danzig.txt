@@ -10,8 +10,6 @@ state={
 			362 10
 		}
 		
-		set_demilitarized_zone = no
-		
 		buildings = {
 			infrastructure = 3
 			arms_factory = 2
@@ -30,6 +28,4 @@ state={
 	provinces={
 		362
 	}
-
-	local_supplies=0.0 
 }
