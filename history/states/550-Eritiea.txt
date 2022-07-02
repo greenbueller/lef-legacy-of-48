@@ -6,19 +6,15 @@ state=
 	
 	state_category = rural
 	
-	history=
-	{
+	history = {
 		owner = ETH
 		add_core_of = ETH
 		add_core_of = ERI
-		victory_points = {
-			12766 1
-		}
 		buildings = {
 			infrastructure = 2
 		}
 	}
 	provinces={
-		5017 5047 5091 12723
+		5017 5047 5091 13293
 	}
 }

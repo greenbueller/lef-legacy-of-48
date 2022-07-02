@@ -1,0 +1,22 @@
+state={
+	id=938
+	name="STATE_938"
+	state_category = rural
+	manpower=201425
+
+	history = {
+		owner = EGY
+		add_core_of = EGY
+		add_core_of = SUD
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		2046 2088 10784 12862 12723 13295
+	}
+
+	local_supplies = 0.0
+}

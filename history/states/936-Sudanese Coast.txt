@@ -1,0 +1,28 @@
+state={
+	id=936
+	name="STATE_936"
+	state_category = pastoral
+	manpower=341560
+
+	history = {
+		owner = EGY
+		add_core_of = SUD
+		add_core_of = EGY
+		buildings = {
+			12725 = {
+				naval_base = 3
+			}
+			infrastructure = 1
+		}
+
+		victory_points = {
+			12725 1
+		}
+	}
+
+	provinces = {
+		1977 12725 2003 10902 13290
+	}
+
+	local_supplies = 0.0
+}

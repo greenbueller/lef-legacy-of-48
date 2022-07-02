@@ -1,0 +1,23 @@
+state={
+	id=937
+	name="STATE_937"
+	state_category = pastoral
+	manpower=75321
+
+	history = {
+		owner = EGY
+		add_core_of = EGY
+		add_core_of = SUD
+		#add_claim_by = ETH
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		13291 13292
+	}
+
+	local_supplies = 0.0
+}

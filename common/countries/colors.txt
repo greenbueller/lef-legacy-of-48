@@ -1026,3 +1026,8 @@ TRZ = {
 	color = rgb { 51 135 178 }
 	color_ui = rgb { 51 135 178 }
 }
+
+BHR = {
+	color = rgb { 50 33 107}
+	color_ui = rgb { 50 33 107 }
+}

@@ -133,9 +133,9 @@ adjacency_rule =
 		trade = yes
 	}
 	
-	required_provinces = { 6287 3277 3325 3260 394 }
+	required_provinces = { 316 394 9096 9296 11176 }
 	
-	icon = 2455
+	icon = 316
 	offset = { -26 0 -13 }
 }
 
@@ -336,7 +336,7 @@ adjacency_rule =
 		army = no
 		navy = no
 		submarine = no
-		trade = no
+		trade = yes
 	}
 	enemy =
 	{
@@ -360,8 +360,8 @@ adjacency_rule =
 		trade = yes
 	}
 	
-	required_provinces = { 10904 7982 4959 }
+	required_provinces = { 13297 1889 }
 		
-	icon = 10904
+	icon = 13297
 	offset = { 2 0 12 }
 }
