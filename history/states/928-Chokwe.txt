@@ -1,0 +1,19 @@
+state = {
+	id = 928
+	name="STATE_928"
+	manpower = 301254
+	state_category = rural
+
+	history = {
+		owner = LUN
+		add_core_of = LUN
+		add_core_of = ANG
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		7548 8054 10025 12795
+	}
+}

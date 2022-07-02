@@ -5,15 +5,6 @@ state={
 		owner = GER
 		buildings = {
 			infrastructure = 1
-			2115 = {
-				naval_base = 1
-			}
-			10968 = {
-				naval_base = 1
-			}
-		}
-		victory_points = {
-			2115 1 
 		}
 		victory_points = {
 			5117 3 
@@ -21,7 +12,7 @@ state={
 		add_core_of = ANG
 	}
 	provinces={
-		2115 5117 10968 12925
+		5117 12925
 	}
 	manpower=25000
 	state_category=rural

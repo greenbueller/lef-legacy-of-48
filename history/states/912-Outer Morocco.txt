@@ -1,0 +1,24 @@
+state = {
+	id = 912
+	name="STATE_912"
+	state_category = pastoral
+	manpower=32415
+
+	history = {
+		owner = MOR
+		add_core_of = MOR
+		buildings = {
+			infrastructure = 1
+			8038 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			8038 1
+		}
+	}
+
+	provinces = {
+		1958 4920 7979 8038 8088 8111 10731 13274 13275
+	}
+}

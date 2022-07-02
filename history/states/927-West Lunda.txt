@@ -1,0 +1,22 @@
+state= {
+	id = 927
+	name="STATE_927"
+	state_category = pastoral
+	manpower=201523
+
+	history = {
+		owner = LUN
+		add_core_of = LUN
+		add_core_of = ZZZ
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			191 1 
+		}
+	}
+
+	provinces = {
+		191 1968 4515 12677
+	}
+}

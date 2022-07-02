@@ -1,0 +1,19 @@
+state={
+	id=902
+	name="STATE_902"
+	manpower=508320
+	state_category = rural
+
+	history = {
+		owner = GER
+		add_core_of = BEN
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		4952 8034 10831
+	}
+}

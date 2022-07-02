@@ -916,3 +916,113 @@ CEN = {
 	color = rgb { 125 151 160 }
 	color_ui = rgb { 125 151 160 }
 }
+
+ASH = {
+	color = rgb { 254 238 162 }
+	color_ui = rgb { 254 238 162 }
+}
+
+BEN = {
+	color = rgb { 117 82 56 }
+	color_ui = rgb { 117 82 56 }
+}
+
+DEN = {
+	color = rgb { 43 94 127 }
+	color_ui = rgb { 43 94 127 }
+}
+
+BAG = {
+	color = rgb { 211 92 170 }
+	color_ui = rgb { 211 92 170 }
+}
+
+DAM = {
+	color = rgb { 136 104 66 }
+	color_ui = rgb { 136 104 66 }
+}
+
+BRN = {
+	color = rgb { 85 136 66 }
+	color_ui = rgb { 85 136 66 }
+}
+
+FJL = {
+	color = rgb { 232 182 88 }
+	color_ui = rgb { 232 182 88 }
+}
+
+TOU = {
+	color = rgb { 110 190 106 }
+	color_ui = rgb { 110 190 106 }
+}
+
+WAS = {
+	color = rgb { 106 149 190 }
+	color_ui = rgb { 106 149 190 }
+}
+
+KNG = {
+	color = rgb { 156 81 153 }
+	color_ui = rgb { 156 81 153 }
+}
+
+KAR = {
+	color = rgb { 68 99 156 }
+	color_ui = rgb { 68 99 156 }
+}
+
+ANK = {
+	color = rgb { 208 133 108 }
+	color_ui = rgb { 208 133 108 }
+}
+
+TOR = {
+	color = rgb { 208 108 141 }
+	color_ui = rgb { 208 108 141 }
+}
+
+BUG = {
+	color = rgb { 226 229 101 }
+	color_ui = rgb { 226 229 101 }
+}
+
+BUN = {
+	color = rgb { 131 229 101 }
+	color_ui = rgb { 131 229 101 }
+}
+
+TIP = {
+	color = rgb { 89 144 156 }
+	color_ui = rgb { 89 144 156 }
+}
+
+YEK = {
+	color = rgb { 8 144 0 }
+	color_ui = rgb { 8 144 0 }
+}
+
+LUN = {
+	color = rgb { 91 75 216 }
+	color_ui = rgb { 91 75 216 }
+}
+
+LUB = {
+	color = rgb { 9 30 225 }
+	color_ui = rgb { 9 30 225 }
+}
+
+KZB = {
+	color = rgb { 136 12 14 }
+	color_ui = rgb { 136 12 14 }
+}
+
+KUB = {
+	color = rgb { 131 57 14 }
+	color_ui = rgb { 131 57 14 }
+}
+
+TRZ = {
+	color = rgb { 51 135 178 }
+	color_ui = rgb { 51 135 178 }
+}

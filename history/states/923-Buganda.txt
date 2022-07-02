@@ -1,0 +1,19 @@
+state={
+	id = 923
+	name="STATE_923"
+	state_category=pastoral
+	manpower=4132560
+
+	history={
+		owner = BUG
+		add_core_of = BUG
+		add_core_of = ZZZ
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		12989
+	}
+}

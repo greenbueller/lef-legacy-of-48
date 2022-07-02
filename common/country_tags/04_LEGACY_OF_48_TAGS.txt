@@ -20,6 +20,31 @@ MDK = "countries/Mandinkan.txt" # Mandinkan Empire
 ZUL = "countries/Zulu.txt" # Zululand
 #MOR Morocco
 BOR = "countries/Boer.txt" # Boer Territories
+ASH = "countries/Ashanti.txt" # Ashanti Empire | Releaseable
+BEN = "countries/Benin.txt" # Aro Confederacy | Releaseable
+DEN = "countries/Dendi.txt" # Dendi Kingdom | Releaseable
+BAG = "countries/Bagirmi.txt" # Sultanate of Bagirmi | Releaseable
+DAM = "countries/Damagaram.txt" # Sultanate of Damagaram | Releaseable
+BRN = "countries/Bornu.txt" # Kanem-Bornu Empire | Releaseable
+FJL = "countries/Jallon.txt" # Imamate of Futa Jallon | Releaseable
+TOU = "countries/Toucouleur.txt" # Toucouleur Empire | Releaseable
+WAS = "countries/Wassoulou.txt" # Wassoulou Empire | Releaseable
+KNG = "countries/Kong.txt" # Kong Empire | Releaseable
+#BRD Burundi | Releaseable
+#RWA Rwanada | Releaseable
+KAR = "countries/Karagwe.txt" # Karagwe Kingdom | Releaseable
+ANK = "countries/Ankole.txt" # Ankole Kingdom | Releaseable
+TOR = "countries/Tooro.txt" # Tooro Kingdom | Releaseable
+BUG = "countries/Buganda.txt" # Buganda Kingdom | Releaseable
+BUN = "countries/Bunyoro.txt" # Bunyoro | Releaseable
+TIP = "countries/Tippu Tip.txt" # Tippu Tip | Releaseable
+YEK = "countries/Yeke.txt" # Yeke Kingdom | Releaseable
+LUN = "countries/Lunda.txt" # Kingdom of Lunda | Releaseable
+LUB = "countries/Luba.txt" # Luba Kingdom | Releaseable
+KZB = "countries/Kazembe.txt" # Kazembe | Releaseable
+KUB = "countries/Kuba.txt" # Kuba Kingdom | Releaseable
+#COG Kingdom of Kongo | Releaseable
+TRZ = "countries/Trarza.txt" # Emirate of Trarza | Releaseable
 
 #### EUROPE ####
 

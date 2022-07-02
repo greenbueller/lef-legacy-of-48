@@ -1,0 +1,19 @@
+state={
+	id = 921
+	name="STATE_921"
+	state_category=pastoral
+	manpower=4093215
+
+	history={
+		owner = ANK
+		add_core_of = ANK
+		add_core_of = ZZZ
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		3854
+	}
+}

@@ -1,0 +1,20 @@
+state={
+	id = 925
+	name="STATE_925"
+	state_category = rural
+	manpower=456210
+
+	history = {
+		owner = TIP
+		add_core_of = ZZZ
+		add_core_of = TIP
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		4941 7161 10766 12907
+	}
+}

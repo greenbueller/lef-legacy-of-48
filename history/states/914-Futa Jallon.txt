@@ -1,0 +1,19 @@
+state={
+	id = 914
+	name="STATE_914"
+	state_category = rural
+	manpower=125213
+
+	history = {
+		owner = FJL
+		add_core_of = ZZZ
+		add_core_of = FJL
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		2100 4957 7972 12802
+	}
+}

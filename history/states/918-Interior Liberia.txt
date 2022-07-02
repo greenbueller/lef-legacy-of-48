@@ -1,0 +1,18 @@
+state={
+	id=918
+	name="STATE_918"
+	state_category=rural
+	manpower=321455
+
+	history={
+		owner = LIB
+		add_core_of = LIB
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		13278 13279
+	}
+}

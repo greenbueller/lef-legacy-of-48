@@ -1,0 +1,18 @@
+state={
+	id = 920
+	name="STATE_920"
+	state_category=rural
+	manpower=249315
+
+	history={
+		owner = KAR
+		add_core_of = KAR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		4171
+	}
+}

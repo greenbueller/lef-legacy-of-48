@@ -1,0 +1,28 @@
+state = {
+	id=934
+	name="STATE_934"
+	manpower=704231
+	state_category = rural
+
+	history = {
+		owner = COG
+		add_core_of = COG
+		add_core_of = ZZZ
+		victory_points = {
+			2115 1 
+		}
+		buildings = {
+			infrastructure = 2
+			2115 = {
+				naval_base = 1
+			}
+			10968 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces = {
+		2115 8219 10968 13287 13288
+	}
+}

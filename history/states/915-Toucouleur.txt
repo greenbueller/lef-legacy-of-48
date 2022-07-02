@@ -1,0 +1,19 @@
+state={
+	id = 915
+	name="STATE_915"
+	manpower=102310
+	state_category = rural
+
+	history = {
+		owner = TOU
+		add_core_of = ZZZ
+		add_core_of = TOU
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		2012 8015 10812 10829 12751 13276
+	}
+}

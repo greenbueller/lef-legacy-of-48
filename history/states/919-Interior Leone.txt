@@ -1,0 +1,18 @@
+state={
+	id = 919
+	name="STATE_919"
+	state_category=pastoral
+	manpower=402315
+
+	history={
+		owner = SIE
+		add_core_of = SIE
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		13281 13282
+	}
+}

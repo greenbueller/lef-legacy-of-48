@@ -1,0 +1,19 @@
+state={
+	id=931
+	name="STATE_931"
+	state_category = pastoral
+	manpower=59231
+
+	history = {
+		owner = KZB
+		add_core_of = KZB
+		add_core_of = ZZZ
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		10594 10930 12504
+	}
+}

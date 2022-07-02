@@ -1,0 +1,19 @@
+state={
+	id = 917
+	name="STATE_917"
+	state_category = rural
+	manpower=903155
+
+	history = {
+		owner = KNG
+		add_core_of = MDK
+		add_core_of = KNG
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		5039 5045 5070 13277
+	}
+}

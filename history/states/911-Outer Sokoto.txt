@@ -1,0 +1,18 @@
+state={
+	id = 911
+	name = "STATE_911"
+	manpower=59321
+	state_category = pastoral
+
+	history = {
+		owner = SOK
+		add_core_of = SOK
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		4889 5028 8109
+	}
+}

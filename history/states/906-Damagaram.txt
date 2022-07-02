@@ -1,0 +1,19 @@
+state = {
+	id = 906
+	name="STATE_906"
+	state_category = pastoral
+	manpower = 465212
+
+	history = {
+		owner = DAM
+		add_core_of = ZZZ
+		add_core_of = DAM
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		10805
+	}
+}

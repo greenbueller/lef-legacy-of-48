@@ -2,7 +2,7 @@ state = {
 	id = 847
 	name = "STATE_847"
 	state_category = town
-	manpower=2045621
+	manpower=215214
 
 	history = {
 		owner = SOK
@@ -16,6 +16,6 @@ state = {
 	}
 
 	provinces = {
-		1891 1932 1969 2025 4889 4938 4972 4997 5028 8021 8109 10820 12817
+		1891 13266
 	}
 }

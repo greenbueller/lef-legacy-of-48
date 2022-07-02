@@ -1,0 +1,22 @@
+state={
+	id=935
+	name="STATE_935"
+	manpower=102354
+	state_category = rural
+
+	history = {
+		owner = TRZ
+		add_core_of = TRZ
+		add_core_of = ZZZ
+		victory_points = {
+			5034 1
+		}
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		5034 5077 13289
+	}
+}

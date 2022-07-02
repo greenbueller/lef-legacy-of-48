@@ -1,0 +1,19 @@
+state={
+	id=932
+	name="STATE_932"
+	manpower=85230
+	state_category = rural
+
+	history = {
+		owner = ZZZ
+		add_core_of = ZZZ
+		add_core_of = ZAM
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		1846 5221
+	}
+}

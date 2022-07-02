@@ -1,0 +1,19 @@
+state={
+	id=916
+	name="STATE_916"
+	state_category = pastoral
+	manpower=96421
+
+	history = {
+		owner = WAS
+		add_core_of = MDK
+		add_core_of = WAS
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		8008
+	}
+}

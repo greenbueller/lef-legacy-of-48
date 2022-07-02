@@ -1,0 +1,19 @@
+state={
+	id=909
+	name = "STATE_909"
+	manpower = 196256
+	state_category = rural
+
+	history = {
+		owner = SOK
+		add_core_of = SOK
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		1969 4938 4972 13265
+	}
+}

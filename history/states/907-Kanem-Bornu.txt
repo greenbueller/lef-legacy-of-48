@@ -1,0 +1,19 @@
+state={
+	id = 907
+	name="STATE_907"
+	manpower=509321
+	state_category = pastoral
+
+	history = {
+		owner = BRN
+		add_core_of = ZZZ
+		add_core_of = BRN
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		3123 4997 10780
+	}
+}
