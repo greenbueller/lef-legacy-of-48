@@ -898,8 +898,8 @@ CAS = {
 }
 
 TCA = {
-	color = rgb { 127 211 131 }
-	color_ui = rgb { 127 211 131 }
+	color = rgb { 204 175 80 }
+	color_ui = rgb { 204 175 80 }
 }
 
 QBC = {
@@ -927,7 +927,7 @@ BEN = {
 	color_ui = rgb { 117 82 56 }
 }
 
-DEN = {
+DND = {
 	color = rgb { 43 94 127 }
 	color_ui = rgb { 43 94 127 }
 }

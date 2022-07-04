@@ -12,6 +12,9 @@
     
     # V2 -- nova
     #Revisions to organization, Addition of tags, Country-Ideology loc
+
+    # V3 -- Commit
+    # Addition of new tags
     
     # Individual appendices are as follows:
     
@@ -88,6 +91,9 @@
     SRD:0 "Sardinia-Piedmont"
     SRD_ADJ:0 "Sardeno-Piedmontese"
     SRD_DEF:0 "Sardinia-Piedmont"
+    MLT:0 "Malta"
+    MLT_DEF:0 "Malta"
+    MLT_ADJ:0 "Maltan"
     
 #>British Isles
     ENG:0 "England"
@@ -203,6 +209,9 @@
     GRE:0 "Greece"
     GRE_ADJ:0 "Greek"
     GRE_DEF:0 "Greece"
+    MNT:0 "Montenegro"
+    MNT_DEF:0 "Montenegro"
+    MNT_ADJ:0 "Montenegrean"
     
 # Americas
     
@@ -287,12 +296,21 @@
     SAU_ADJ:0 "Nejdi"
     SAU_DEF:0 "Nejd"
     JAB:0 "Jabal Shammar"
-    JAB:0 "Rashidi"
-    JAB:0 "Jabal Shammar"
+    JAB_ADJ:0 "Rashidi"
+    JAB_DEF:0 "Jabal Shammar"
     MEC:0 "Mecca"
-    MEC:0 "Makki"
-    MEC:0 "Mecca"
-    
+    MEC_ADJ:0 "Makki"
+    MEC_DEF:0 "Mecca"
+    UAE:0 "Trucial States"
+    UAE_DEF:0 "Trucial States"
+    UAE_ADJ:0 "Trucian"
+    QAT:0 "Qatar"
+    QAT_DEF:0 "Qatar"
+    QAT_ADJ:0 "Qatari"
+    BHR:0 "Bahrain"
+    BHR_DEF:0 "Bahrain"
+    BHR_ADJ:0 "Bahraini"
+
 #>Far East
     CHI:0 "China"
     CHI_ADJ:0 "Chinese"
@@ -331,9 +349,51 @@
     SIE:0 "Mane"
     SIE_ADJ:0 "Mane"
     SIE_DEF:0 "Mane"
-    GHA:0 "Ashanti Empire"
-    GHA_ADJ:0 "Ashanti"
-    GHA_DEF:0 "the Ashanti Empire"
+    GHA:0 "Ivory Coast"
+    GHA_ADJ:0 "Ivory"
+    GHA_DEF:0 "the Ivory Coast"
+    TRZ:0 "Emirate of Trarza" 
+    TRZ_DEF:0 "the Emirate of Trarza"
+    TRZ_ADJ:0 "Trarzan"
+    SEN:0 "Senegal"
+    SEN_DEF:0 "Senegal"
+    SEN_ADJ:0 "Senegali"
+    FJL:0 "Imamate Futa Jallon"
+    FJL_DEF:0 "the Imamate Futa Jallon"
+    FJL_ADJ:0 "Jallon"
+    TOU:0 "Toucouleur Empire"
+    TOU_DEF:0 "the Toucouleur Empire"
+    TOU_ADJ:0 "Toucouleur"
+    WAS:0 "Wassoulou Empire"
+    WAS_DEF:0 "the Wassoulou Empire"
+    WAS_ADJ:0 "Wassoulouan"
+    KNG:0 "Kong Empire"
+    KNG_DEF:0 "the Kong Empire"
+    KNG_ADJ:0 "Kongan"
+    ASH:0 "Ashanti Empire"
+    ASH_DEF:0 "the Ashanti Empire"
+    ASH_ADJ:0 "Ashanti"
+    DND:0 "Dendi Kingdom"
+    DND_DEF:0 "the Dendi Kingdom"
+    DND_ADJ:0 "Dendi"
+    DAM:0 "Sultanate of Damagaram"
+    DAM_DEF:0 "the Sultanate of Damagaram"
+    DAM_ADJ:0 "Damagarami"
+    BRN:0 "Kanem-Bornu Empire"
+    BRN_DEF:0 "the Kanem-Bornu Empire"
+    BRN_ADJ:0 "Kanem-Bornu"
+    BAG:0 "Sultanate of Bagirmi"
+    BAG_DEF:0 "the Sultanate of Bagirmi"
+    BAG_ADJ:0 "Bagirmi"
+    BEN:0 "Aro Confederacy"
+    BEN_DEF:0 "the Aro Confederacy"
+    BEN_ADJ:0 "Aro"
+    COG:0 "Kingdom of Kongo"
+    COG_DEF:0 "the Kingdom of Kongo"
+    COG_ADJ:0 "Congan"
+    NGA:0 "Oyo"
+    NGA_DEF:0 "Oyo"
+    NGA_ADJ:0 "Oyo"
     
 #>East Africa
     ETH:0 "Abyssinia"
@@ -343,7 +403,7 @@
     MAD_ADJ:0 "Merina"
     MAD_DEF:0 "the Merina Kingdom"
     
-    #>South Africa
+#>South Africa
     SAF:0 "Cape"
     SAF_ADJ:0 "Cape"
     SAF_DEF:0 "Cape"
@@ -353,7 +413,45 @@
     BOR:0 "Transvaal"
     BOR_ADJ:0 "Boer"
     BOR_DEF:0 "Transvaal"
-    
+
+#>Central Africa
+    LUN:0 "Kingdom of Lunda"
+    LUN_DEF:0 "the Kingdom of Lunda"
+    LUN_ADJ:0 "Lundan"
+    KUB:0 "Kuba Kingdom"
+    KUB_DEF:0 "the Kuba Kingdom"
+    KUB_ADJ:0 "Kuban"
+    TIP:0 "Tippu Tip"
+    TIP_DEF:0 "Tippu Tip"
+    TIP_ADJ:0 "Tippu"
+    YEK:0 "Yeke Kingdom"
+    YEK_DEF:0 "the Yeke Kingdom"
+    YEK_ADJ:0 "Yeke"
+    KZB:0 "Kazembe"
+    KZB_DEF:0 "Kazembe"
+    KZB_ADJ:0 "Kazemban"
+    BRD:0 "Burundi"
+    BRD_DEF:0 "Burundi"
+    BRD_ADJ:0 "Burundian"
+    RWA:0 "Rwanda"
+    RWA_DEF:0 "Rwanda"
+    RWA_ADJ:0 "Rwandan"
+    KAR:0 "Karagwe Kingdom"
+    KAR_DEF:0 "the Karagwe Kingdom"
+    KAR_ADJ:0 "Karagwe"
+    BUG:0 "Buganda Kingdom"
+    BUG_DEF:0 "the Buganda Kingdom"
+    BUG_ADJ:0 "Bugandan"
+    ANK:0 "Ankole Kingdom"
+    ANK_DEF:0 "the Ankole Kingdom"
+    ANK_ADJ:0 "Ankole"
+    TOR:0 "Tooro Kingdom"
+    TOR_DEF:0 "the Tooro Kingdom"
+    TOR_ADJ:0 "Tooro"
+    BUN:0 "Bunyoro"
+    BUN_DEF:0 "Bunyoro"
+    BUN_ADJ:0 "Bunyoran"
+
 ##PART II##
     
 # Europe
@@ -602,15 +700,15 @@
     BRI:0 "Britanny"
     BRI_ADJ:0 "Breton"
     BRI_DEF:0 "Britanny"
-    FRA:0 "Occitania"
-    FRA_ADJ:0 "Occitan"
-    FRA_DEF:0 "Occitania"
+    FRA:0 "France"
+    FRA_ADJ:0 "French"
+    FRA_DEF:0 "France"
     HOL:0 "Netherlands"
     HOL_ADJ:0 "Dutch"
     HOL_DEF:0 "the Netherlands"
-    TFR:0 "France"
-    TFR_ADJ:0 "French"
-    TFR_DEF:0 "France"
+    TFR:0 "Occitania"
+    TFR_ADJ:0 "Occitan"
+    TFR_DEF:0 "Occitania"
     BUR:0 "Burgundy"
     BUR_ADJ:0 "Burgundian"
     BUR_DEF:0 "Burgundy"
@@ -843,3 +941,5 @@
     BOR_ADJ:0 "Boer"
     BOR_DEF:0 "Transvaal"
     
+
+# PART 3
