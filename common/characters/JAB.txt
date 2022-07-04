@@ -1,0 +1,16 @@
+characters = {
+	JAB_Saud_Abdulaziz_Rashid = {
+		name = "Saud bin Abdulaziz Al Rashid"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/JAB/Portrait_Saud_Abdulaziz_Rashid.dds"
+			}
+		}
+
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+}

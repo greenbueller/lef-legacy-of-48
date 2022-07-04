@@ -1,0 +1,16 @@
+characters = {
+	MEC_Hussein_Bin_Ali = {
+		name = "Hussein bin Ali"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/MEC/Portrait_Hussein_bin_Ali.dds"
+			}
+		}
+
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+}

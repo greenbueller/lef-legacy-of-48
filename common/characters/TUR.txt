@@ -1,0 +1,16 @@
+characters = {
+	OTT_Mehmed_V = {
+		name = "Sultan Mehmed V"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/TUR/Portrait_Mehmed_V.dds"
+			}
+		}
+
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+}

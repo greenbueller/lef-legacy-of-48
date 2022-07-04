@@ -1,0 +1,24 @@
+capital = 835
+
+oob = "MEC_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+recruit_character = MEC_Hussein_Bin_Ali
+
+set_convoys = 10
+set_war_support = 0.1
+set_stability = 0.4
+
+set_politics = {
+	ruling_party = reactionary
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	reactionary = 100
+}
