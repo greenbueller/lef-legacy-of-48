@@ -1,0 +1,15 @@
+characters = {
+	Fares_Khoury = {
+		name = "Fares al-Khoury"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/PAL/Portrait_Arabia_Generic_3.dds"
+			}
+		}
+		country_leader = {
+			ideology = conservative_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+}

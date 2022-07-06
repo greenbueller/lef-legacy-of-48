@@ -1,0 +1,29 @@
+characters = {
+	Ali_Ekrem_Bolayir = {
+		name = "Ali Ekrem Bolayır"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/PAL/Portrait_Arabia_Generic_3.dds"
+			}
+		}
+		country_leader = {
+			ideology = social_democrat_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Hassan_Shakir_Hammad = {
+		name = "Hassan Sahkir Hammad"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/PAL/Portrait_Arabia_Generic_3.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+}

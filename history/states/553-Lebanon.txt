@@ -20,13 +20,11 @@ state={
 				naval_base = 3
 			}
 		}
-
-		add_core_of = TUR
 		add_core_of = LEB
 	}
 
 	provinces={
-		792 1108 11919 
+		792 1088 1108 10087 11919 
 	}
 
 	local_supplies=0.0 

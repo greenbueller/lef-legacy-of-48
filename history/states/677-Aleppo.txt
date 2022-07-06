@@ -12,20 +12,21 @@ state={
 		victory_points = {
 			1056 1 
 		}
+		victory_points = {
+			6883 1
+		}
 		buildings = {
 			infrastructure = 2
 
 		}
 		add_core_of = SYR
-		add_core_of = TUR
 
 	}
 
 	provinces={
-		1056 1072 1088 7140 7671 10087 12473 
+		1056 1072 1606 6883 7140 7671 12473 
 	}
-	manpower=1325594
-	buildings_max_level_factor=1.000
+	manpower=824227
 	state_category=town
 
 	local_supplies=2.0 

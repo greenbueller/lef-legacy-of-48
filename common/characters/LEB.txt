@@ -1,0 +1,30 @@
+characters = {
+
+	Abdul_Hamid_Karami = {
+		name = "Abdul Hamid Karami"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/PAL/Portrait_Arabia_Generic_3.dds"
+			}
+		}
+		country_leader = {
+			ideology = conservative_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Salim_Ali_Salam = {
+		name = "Salim Ali Salam"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/PAL/Portrait_Arabia_Generic_3.dds"
+			}
+		}
+		country_leader = {
+			ideology = liberal_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+}

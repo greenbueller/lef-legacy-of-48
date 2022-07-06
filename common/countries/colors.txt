@@ -1031,3 +1031,18 @@ BHR = {
 	color = rgb { 50 33 107}
 	color_ui = rgb { 50 33 107 }
 }
+
+BSR = {
+	color = rgb { 149 140 211 }
+	color_ui = rgb { 149 140 211 }
+}
+
+MOS = {
+	color = rgb { 69 114 71 }
+	color_ui = rgb { 69 114 71 }
+}
+
+HEJ = {
+	color = rgb { 167 46 83 }
+	color_ui = rgb { 167 46 83 }
+}

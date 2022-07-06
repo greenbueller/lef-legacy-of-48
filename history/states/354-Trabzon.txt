@@ -13,9 +13,6 @@ state={
 			9932 15
 		}
 		victory_points = {
-			10472 5
-		}
-		victory_points = {
 			11853 3
 		}
 		victory_points = {
@@ -31,7 +28,7 @@ state={
 	}
 
 	provinces={
-		789 3714 3979 6976 6991 7454 9886 9932 10403 10472 11753 11853
+		789 3714 3979 6976 6991 9886 9932 11753 11853
 	}
 
 	local_supplies=0.0 

@@ -1,0 +1,34 @@
+state = {
+	id = 940
+	name="STATE_940"
+	manpower=500000
+	state_category = town
+
+	resources = {
+		oil = 11
+	}
+
+	history = {
+		owner = TUR
+		add_core_of = TUR
+		add_core_of = BSR
+		victory_points = {
+			8001 3
+		}
+		victory_points = {
+			2089 5 
+		}
+		buildings = {
+			infrastructure = 2
+			2089 = {
+				naval_base = 1
+			}
+		}
+	}
+	
+	provinces = {
+		78 2004 2089 7977 8001 12726 13301
+	}
+
+	local_supplies = 0.0
+}

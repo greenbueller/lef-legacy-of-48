@@ -6,19 +6,10 @@ state={
 	history = {
 		owner = TUR
 		add_core_of = TUR
-		add_claim_by = EGY
+		add_core_of = EGY
 		buildings ={
 			infrastructure = 3
 			air_base = 5
-			12049 = {
-				naval_base = 2
-			}
-		}
-		victory_points = {
-			4073 3
-		}
-		victory_points = {
-			12049 5
 		}
 		victory_points = {
 			7011 20
@@ -26,6 +17,6 @@ state={
 	}
 
 	provinces = {
-		4073 7011 10005 12004 12049
+		7011 10005 12004
 	}
 }

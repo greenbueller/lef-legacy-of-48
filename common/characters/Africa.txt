@@ -1,0 +1,450 @@
+characters = {
+
+	Kanyembo_Ntemena = {
+		name = "Kanyembo Ntemena"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Dinuzulu_kaCetshwayo = {
+		name = "Dinuzulu kaCetshwayo"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Msiri = {
+		name = "Msiri"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Mushidi_I_a_Nambing = {
+		name = "Mushidi I a Nambing"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Kwete_Peshanga_Kena = {
+		name = "Kewte Peshanga Kena"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Kasongwa_Nyembo = {
+		name = "Kasong'wa Nyembo"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	TIP_Tippu_Tip = {
+		name = "Tippu Tip"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Mutaga_IV_Mbikije = {
+		name = "Mutaga IV Mbikjie"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Yuhi_V_Musinga = {
+		name = "Yuhi V Musinga"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Ntara_VII = {
+		name = "Ntara VII"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Daudi_Chewa_II = {
+		name = "Daudi Chewa II"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Kahaya_II = {
+		name = "Kahaya II"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Kyebambe_III = {
+		name = "Kyebambe III"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Duhaga_II_Bisereko_Andereya = {
+		name = "Duhaga II Bisereko Andereya"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	KNG_Pedro_VI = {
+		name = "Pedro VI"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Kanu_Okoro = {
+		name = "Kanu Okoro"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Lamidi_Amubieya_Agogoja = {
+		name = "Lamidi Amubieya Agogoja"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Muhammad_Bello_bin_Attahiru = {
+		name = "Muhammad Bello bin Attahiru"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	LIB_Arthur_Barclay = {
+		name = "Arthur Barclay"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = conservative_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Samori_Toure = {
+		name = "Samori Toure"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Shaykh_Muhammad_Fadil = {
+		name = "Shaykh Sa'd wuld Muhammad Fadil"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Yoro_Dyao = {
+		name = "Yoro Dyao"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Boubacar_IV = {
+		name = "Boubacar IV"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Ahmadu_Tall = {
+		name = "Ahmadu Tall"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Prempeh_I = {
+		name = "Prempeh I"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Askia_Malla = {
+		name = "Askia Malla"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Ballama = {
+		name = "Ballama"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Abubakar_Garbai = {
+		name = "Abubakar Garbai"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	Gaourang_II = {
+		name = "Gaourang II"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	MOR_Abd_alHafid = {
+		name = "Abd al-Hafid"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	EGY_Abbas_Helmy_Bey = {
+		name = "Abbas II Helmy Bey"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+
+	ETH_Habte_Giyorgis_Dinagde = {
+		name = "Habte Giyorgis Dinagde"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			}
+		}
+		country_leader = {
+			ideology = reactionary_group
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+}
