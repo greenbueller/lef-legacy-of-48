@@ -2,7 +2,7 @@ state=
 {
 	id=163
 	name="STATE_163" # Zadar
-	manpower = 18000
+	manpower = 27246
 	
 	state_category = enclave
 	

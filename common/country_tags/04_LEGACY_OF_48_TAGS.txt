@@ -90,13 +90,12 @@ SRD = "countries/Sardinia Piedmont.txt" # Sardinia Piedmont
 #OMA Oman
 #SAU Nejd
 JAB = "countries/Jabal.txt" # Jabal Shammar
-MEC = "countries/Mecca.txt" # Sharifate of Mecca
+MEC = "countries/Mecca.txt" # Sharifate of Mecca - can become Hejaz
 TCA = "countries/Transcaucasia.txt" # Transcaucasia
 BHR = "countries/Bahrain.txt" # Kingdom of Bahrain | Releaseable 
 BSR = "countries/Basra.txt" # Basra
 #IRQ Baghdad
 MOS = "countries/Mosul.txt" # Mosul
-HEJ = "countries/Hejaz.txt" # Hejaz
 
 #### NORTH AMERICA ####
 

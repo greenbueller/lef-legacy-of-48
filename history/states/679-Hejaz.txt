@@ -12,6 +12,7 @@ state={
 		}
 		add_core_of = JAB
 		add_core_of = SAU
+		add_core_of = MEC
 		add_claim_by = TUR
 	}
 

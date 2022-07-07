@@ -30,6 +30,7 @@ state={
 				naval_base = 6
 			}
 		}
+		set_state_flag = celtic_culture
 		add_core_of = IRE
 	}
 
