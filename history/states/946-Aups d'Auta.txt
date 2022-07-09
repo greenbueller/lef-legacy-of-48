@@ -1,0 +1,22 @@
+state={
+	id=946
+	name="STATE_946"
+	state_category = town
+	manpower=107232
+
+	history = {
+		owner = TFR
+		add_claim_by = SRD
+		add_core_of = TFR
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		764 3764 6975 9736
+	}
+
+	local_supplies = 0.0
+}

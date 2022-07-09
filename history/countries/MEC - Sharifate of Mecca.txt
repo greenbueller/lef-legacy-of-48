@@ -22,3 +22,16 @@ set_politics = {
 set_popularities = {
 	reactionary = 100
 }
+
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+
+	TUR = {
+		set_autonomy = {
+			target = MEC
+			autonomy_state = autonomy_ottoman_sanjak
+		}
+	}
+}

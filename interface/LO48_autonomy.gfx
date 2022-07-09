@@ -1,0 +1,14 @@
+spriteTypes = {
+	
+
+
+	spriteType = {
+		name = "GFX_autonomy_ottoman_vilayet"
+		textureFile = "gfx/interface/autonomy/autonomy_vilayet.dds"
+	}
+
+	spriteType = {
+		name = "GFX_autonomy_ottoman_sanjak"
+		textureFile = "gfx/interface/autonomy/autonomy_sanjak.dds"
+	}
+}

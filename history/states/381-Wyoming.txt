@@ -2,7 +2,7 @@
 state={
 	id=381
 	name="STATE_381"
-	manpower = 225564
+	manpower = 145965 # 0 because it does not exist :)
 	state_category = rural
 	
 	history={

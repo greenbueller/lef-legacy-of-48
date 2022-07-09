@@ -1,0 +1,22 @@
+state={
+	id=945
+	name="STATE_945"
+	state_category = large_town
+	manpower=330755
+
+	history = {
+		owner = SRD
+		add_core_of = FRA
+		add_core_of = TFR
+		add_claim_by = SRD
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		3959 3961 13304 13305
+	}
+
+	local_supplies = 0.0
+}

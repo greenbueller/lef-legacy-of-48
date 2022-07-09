@@ -1,0 +1,21 @@
+state = {
+	id=948
+	name="STATE_948"
+	state_category = town
+	manpower=15321
+
+	history = {
+		owner = USA
+		add_core_of = USA # Integration into Montana, Do not add as extra star
+		add_core_of = CAN
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		13311 13312 13313
+	}
+
+	local_supplies = 0.0
+}

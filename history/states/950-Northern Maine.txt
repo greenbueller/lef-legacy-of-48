@@ -1,0 +1,20 @@
+state = {
+	id=950
+	name="STATE_950"
+	state_category = town
+	manpower=111356
+	
+	history = {
+		owner = USA
+		add_core_of = USA # Part of Maine
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		4287 10247 12221 13315
+	}
+
+	local_supplies = 1.0
+}

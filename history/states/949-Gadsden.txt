@@ -1,0 +1,22 @@
+state = {
+	id = 949
+	name="STATE_949"
+	state_category = town
+	manpower=94231
+
+	history = {
+		owner = USA
+		add_core_of = USA # Part of New Mexico and Arizona, do not add as star
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		3834 10783 13309 13310
+	}
+
+	local_supplies = 2.0
+}

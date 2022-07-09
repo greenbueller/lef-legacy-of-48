@@ -1,10 +1,5 @@
 ﻿capital = 797
 
-set_autonomy = {
-	target = EGY
-	autonomous_state =  autonomy_puppet
-}
-
 if = {
 	limit = {
 		NOT = {
@@ -27,9 +22,23 @@ if = {
 	}
 }
 
-###################
-#### 3D MODELS ####
-###################
+# Setup in Vilayet and Sanjaks files
+#if = {
+#	limit = {
+#		has_dlc = "Together for Victory"
+#	}
+#
+#	set_autonomy = {
+#		target = EGY
+#		autonomy_state = autonomy_ottoman_vilayet
+#	}
+#
+#	set_autonomy = {
+#		target = MEC
+#		autonomy_state = autonomy_ottoman_sanjak
+#	}
+#}
+
 
 set_research_slots = 3
 

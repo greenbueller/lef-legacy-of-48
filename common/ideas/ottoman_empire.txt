@@ -49,7 +49,7 @@ ideas = {
 				always = no
 			}
 
-			allowd_civil_war = {
+			allowed_civil_war = {
 				always = no
 			}
 

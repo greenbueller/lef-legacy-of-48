@@ -21,3 +21,16 @@ recruit_character = EGY_Abbas_Helmy_Bey
 set_popularities = {
 	reactionary = 100
 }
+
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+
+	TUR = {
+		set_autonomy = {
+			target = EGY
+			autonomy_state = autonomy_ottoman_vilayet
+		}
+	}
+}

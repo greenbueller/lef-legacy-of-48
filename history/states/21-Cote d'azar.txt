@@ -35,15 +35,10 @@ state={
 		}
 		add_core_of = TFR
 		add_core_of = FRA
-		1939.1.1 = {
-			buildings = {
-				dockyard = 3
-			}
-		}
 	}
 
 	provinces={
-		911 956 958 3762 3928 11834 11849 11875 
+		911 956 958 3928 11834 11849 11875 
 	}
 
 	local_supplies=0.0 
