@@ -110,6 +110,12 @@ set_war_support = 0.3
 
 recruit_character = OTT_Mehmed_V
 
+add_ideas = {
+	TUR_overextended_empire
+	TUR_underdeveloped_nation
+	TUR_legacy_of_the_young_turks
+}
+
 ### VARIANTS ###
 # 1936 Start #
 if = {
