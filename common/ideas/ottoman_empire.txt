@@ -36,9 +36,7 @@ ideas = {
 			picture = POL_disjointed_industry
 
 			modifier = {
-				state_production_speed_industrial_complex_factor = -0.15
-				state_production_speed_arms_factory_factor = -0.15
-				state_production_speed_infrastructure_factor = -0.15
+				PRODUCTION_SPEED_BUILDINGS_FACTOR = -0.15
 				industrial_capacity_factory = -0.1
 				local_resources_factor = -0.25
 				consumer_goods_factor = 0.1
