@@ -1,0 +1,24 @@
+state = {
+	id = 958
+	name="STATE_958"
+	state_category = small_island
+	manpower=28451
+
+	history = {
+		owner = TUR
+		add_core_of = GRE
+		add_claim_by = TUR
+		victory_points = {
+			10203 1
+		}
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		10203
+	}
+
+	local_supplies = 2.0
+}

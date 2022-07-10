@@ -1,0 +1,98 @@
+ideas = {
+	country = {
+		GRE_King_George_I = {
+			allowed = {
+				original_tag = GRE
+				NOT = {
+					has_government = revolutionary_socialist
+					has_government = anarcho_socialist
+				}
+			}
+
+			allowed_civil_war = {
+				always = no	
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				stability_factor = 0.025
+				hidden_modifier = {
+					naval_morale_factor = 0.15
+					experience_gain_navy_factor = 0.05
+				}
+			}
+
+			picture = Greece_King_George_I
+		}
+
+		GRE_Rapid_Modernization = {
+			allowed = {
+				original_tag = GRE
+			}
+
+			allowed_civil_war = {
+				always = no	
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				production_speed_buildings_factor = 0.05
+				consumer_goods_factor = -0.05
+				local_resources_factor = 0.05
+			}
+
+			picture = generic_economic_increase
+		}
+
+		GRE_Goudi_Coup = {
+			allowed = {
+				original_tag = GRE
+			}
+
+			allowed_civil_war = {
+				always = no	
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				war_support_factor = -0.10
+				military_leader_cost_factor = 0.10
+				ultranationalist_drift = 0.025
+			}
+
+			picture = idea_chi_war_of_resistance
+		}
+
+		GRE_Venizelism = {
+			allowed = {
+				original_tag = GRE
+				OR = {
+					has_government = liberal
+					has_government = social_democrat
+					has_government = moderate_socialist
+					has_government = conservative
+				}
+			}
+
+			allowed_civil_war = {
+				NOT = {
+					has_government = ultranationalist
+					has_government = anarcho_socialist
+					has_government = revolutionary_socialist
+				}
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				drift_defence_factor = 0.10
+				stability_factor = 0.05
+			}
+
+			picture = Venizelism
+		}
+	}
+}

@@ -82,6 +82,10 @@ set_convoys = 80
 
 recruit_character = Eleftherios_Venizelos
 
+add_ideas = {
+	GRE_King_George_I
+}
+
 
 ### VARIANTS ###
 # 1936 Start #

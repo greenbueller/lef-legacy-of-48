@@ -1,0 +1,10 @@
+opinion_modifiers = {
+
+	GRE_Venizelism_Targetted = {
+		value = -10
+	}
+
+	GRE_Venizelism_Positive = {
+		value = 10
+	}
+}

@@ -9,6 +9,17 @@ state={
 		add_core_of = SAU
 		buildings = {
 			infrastructure = 2
+			4968 = {
+				bunker = 2
+			}
+		}
+
+		victory_points = {
+			4968 5
+		}
+
+		victory_points = {
+			12749 1
 		}
 	}
 

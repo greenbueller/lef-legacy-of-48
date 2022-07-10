@@ -10,4 +10,41 @@ on_actions = {
 			}
 		}
 	}
+	
+	on_startup = {
+		effect = {
+			if = {
+				limit = {
+					GRE = {
+						has_idea = GRE_Venizelism
+					}
+				}
+
+				TUR = {
+					add_opinion_modifier = {
+						target = GRE
+						modifier = GRE_Venizelism_Targetted
+					}
+				}
+
+				FRA = {
+					add_opinion_modifier = {
+						target = GRE
+						modifier = GRE_Venizelism_Positive
+					}
+				}
+
+				GRE = {
+					add_opinion_modifier = {
+						target = FRA
+						modifier = GRE_Venizelism_Positive
+					}
+					add_opinion_modifier = {
+						target = TUR
+						modifier = GRE_Venizelism_Targetted
+					}
+				}
+			}
+		}
+	}
 }

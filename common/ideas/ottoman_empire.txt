@@ -1,5 +1,26 @@
 ideas = {
 	country = {
+		TUR_Sultan_Mehmed_V = {
+			allowed = {
+				original_tag = TUR
+				NOT = {
+					has_country_flag = TUR_Deposed_Sultan
+				}
+			}
+
+			allowed_civil_war = {
+				always = no	
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				stability_factor = 0.025
+			}
+
+			picture = TUR_Sultan_Mehmed_V
+		}
+
 		TUR_overextended_empire = {
 			allowed = {
 				original_tag = TUR

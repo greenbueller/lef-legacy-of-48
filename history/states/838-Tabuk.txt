@@ -8,7 +8,10 @@ state = {
 		add_core_of = JAB
 		add_core_of = SAU
 		victory_points = {
-			12758 1 
+			12758 3
+		}
+		victory_points = {
+			13237 1
 		}
 		buildings = {
 			infrastructure = 2

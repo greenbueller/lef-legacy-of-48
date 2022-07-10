@@ -1,0 +1,12 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Greece_King_George_I"
+		texturefile = "gfx/interface/ideas/Idea_Greece_King_George_I.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Venizelism"
+		texturefile = "gfx/interface/ideas/Idea_Venizelism.dds"
+	}
+}

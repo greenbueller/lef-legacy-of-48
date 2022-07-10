@@ -8,11 +8,36 @@ characters = {
 		}
 
 		country_leader = {
-			ideology = conservative_group
+			ideology = liberal_group
 			expire="1965.1.1"
 			id=-1
 		}
 	}
+
+
+	GRE_George_I = {
+		name = "King George I"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/GRE/Portrait_George_I.dds"
+				small = "gfx/interface/ideas/Advisor_Greece_George_I.dds"
+			}
+		}
+
+		advisor = {
+			slot = navy_chief
+			traits = { GRE_The_Naval_King }
+			idea_token = GRE_George_I
+			allowed = {
+				original_tag = GRE
+				NOT = {
+					has_government = revolutionary_socialist
+					has_government = anarcho_socialist
+				}
+			}
+		}
+	}
+
 	GRE_markos_vafiadis={
 			name=GRE_markos_vafiadis
 			portraits={

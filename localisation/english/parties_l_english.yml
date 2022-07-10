@@ -4,6 +4,8 @@
 
  # Demo Release 1.0 - A Wilted Tulip
 
+    #### GREECE ####
+
  #GRE_revolutionary_socialist_party:0 "SKE"
  #GRE_revolutionary_socialist_party_long:0 "Sosialistikó Kómma Elládas"
  GRE_social_democrat_party:0 "NK"
@@ -14,5 +16,27 @@
  GRE_conservative_party_long:0 "Laïkòn Kómma"
  GRE_reactionary_party:0 "Glücksburg"
  GRE_reactionarty_party_long:0 "House of Glücksburg"
- #GRE_ultranationalist_party:0 "KTE"
- #GRE_ultranationalist_party_long:0 "Kómma ton Eleftherofrónon"
+ GRE_ultranationalist_party:0 "SS"
+ GRE_ultranationalist_party_long:0 "Stratiotikós Sýndesmos"
+
+    #### OTTOMANS ####
+ TUR_revolutionary_socialist_party:0 "SSIF"
+ TUR_revolutionary_socialist_party_long:0 "Selanik Sosyalist İşçi Federasyonu"
+ TUR_moderate_socialist_party:0 "OSF"
+ TUR_moderate_socialist_party_long:0 "Osmanlı Sosyalist Fırkası"
+ TUR_liberal_party:0 "HIF"
+ TUR_liberal_party_long:0 "Hürriyet ve İtilâf Fırkası"
+ TUR_conservative_party:0 "ITF"
+ TUR_conservative_party_long:0 "İttihad ve Terakki Fırkası"
+ TUR_reactionary_party:0 "ITF"
+ TUR_reactionary_party_long:0 "İttihad ve Terakki Fırkası"
+ TUR_ultranationalist_party:0 "JAF"
+ TUR_ultranationalist_party_long:0 "Jam’iyat al-’Arabiya al-Fata"
+
+    #### JABAL SHAMMAR & NEJD ####
+
+    #### YEMEN ####
+
+    #### OMAN ####
+
+    #### EGYPT ####

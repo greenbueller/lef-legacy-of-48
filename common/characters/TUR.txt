@@ -7,10 +7,40 @@ characters = {
 			}
 		}
 
+		#country_leader = {
+		#	ideology = reactionary_group
+		#	expire="1965.1.1"
+		#	id=-1
+		#}
+	}
+
+	OTT_Talaat_Pasha = {
+		name = "Mehmed Talaat Pasha"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/TUR/Portrait_Talaat_Pasha.dds"
+				small = "gfx/ideas/Advisor_Talaat_Pasha.dds"
+			}
+		}
+
 		country_leader = {
 			ideology = reactionary_group
-			expire="1965.1.1"
-			id=-1
+			expire = "1965.1.1"
+			id = -1
+			traits = { OTT_Ruling_Pasha }
+		}
+
+		country_leader = {
+			ideology = conservative_group
+			expire = "1965.1.1"
+			id = -1
+			traits = { OTT_Ruling_Pasha }
+		}
+
+		advisor = {
+			slot = political_advisor
+			idea_token = OTT_Talaat_Pasha
+			traits = { OTT_Political_Architect }
 		}
 	}
 }

@@ -19,9 +19,22 @@ state={
 			10760 = {
 				naval_base = 3
 			}
+			2103 = {
+				naval_base = 1
+			}
 		}
 		victory_points = {
-			10760 3 
+			10760 5 
+		}
+
+		victory_points = {
+			2103 3
+		}
+		victory_points = {
+			5049 1
+		}
+		victory_points = {
+			8002 1
 		}
 		add_core_of = OMA
 	}

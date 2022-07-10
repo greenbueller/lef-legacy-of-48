@@ -11,4 +11,9 @@ spriteTypes = {
 		name = "GFX_autonomy_ottoman_sanjak"
 		textureFile = "gfx/interface/autonomy/autonomy_sanjak.dds"
 	}
+
+	spriteType = {
+		name = "GFX_TUR_Sultan_Mehmed_V"
+		texturefile = "gfx/interface/ideas/Idea_Sultan_Mehmed_V.dds"
+	}
 }

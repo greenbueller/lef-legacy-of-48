@@ -118,8 +118,10 @@ set_stability = 0.5
 set_war_support = 0.3
 
 recruit_character = OTT_Mehmed_V
+recruit_character = OTT_Talaat_Pasha
 
 add_ideas = {
+	TUR_Sultan_Mehmed_V
 	TUR_overextended_empire
 	TUR_underdeveloped_nation
 	TUR_legacy_of_the_young_turks
