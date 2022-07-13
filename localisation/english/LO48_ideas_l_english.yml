@@ -1,4 +1,7 @@
 ﻿l_english:
+ 
+ ### Ottoman Empire
+
  TUR_overextended_empire:0 "Overextended Empire"
  TUR_overextended_empire_desc:0 "The Ottoman Empire has been a dominant force in the Middle East, North Africa, and Europe for centuries, yet she now finds herself straining to control the further reaches of this vast and historic empire. With discontent among the Arabs and peoples of the Balkans steadily rising over the past few decades, the new Sultan and his Visiers now face a precipice on what to do."
  TUR_overextended_empire_instant_desc:0 "§RWe must deal with the unrest, or we might lose our empire forever.§R"
@@ -7,10 +10,12 @@
  TUR_underdeveloped_nation_desc:0 "Despite how long the empire has existed, the Ottoman Empire has failed to ride ahead of the waves of modernisation, and finds herself falling behind. While some areas adapted to this change within the empire, others were left to fend for themselves by a distant government in Istanbul, and even those that did will still see the harsh realities of what they have done for the rest of the empire."
 
  TUR_legacy_of_the_young_turks:0 "Legacy Of The Young Turks"
- TUR_legacy_of_the_young_turks_desc:0 "Legacy Of The Young Turks"
+ TUR_legacy_of_the_young_turks_desc:0 "One and a half years later, the Young Turk Revolution's impacts are still seen in Ottoman society. It was the event that began the Second Constitutional Era, in which the Ottoman Empire ushered in a period of democracy and freedom for the peoples of the Porte, while stripping the Sultan of most powers. Later the following year, a failed countercoup was launched by supporters of the Sultan - its failure resulting in the deposition of Abdul Hamid II. We shall wait and see how the legacy of the revolution shall unfold."
 
  TUR_Sultan_Mehmed_V:0 "Sultan Mehmed V"
  TUR_Sultan_Mehmed_V_desc:0 "The Exhaulted Sultan of the Ottoman Empire, Mehmed V Reşâd is the current head of the empire. Serving since the Young Turk revolution, Mehmed's reign is destined to lead to some changes within the empire, be they for §Gbetter§! or §Rworse§!."
+
+ # Greece
 
  GRE_King_George_I:0 "King George I"
  GRE_King_George_I_desc:0 "§YThe Naval King§! \nKing George I, Prince of the house of Glucksburg, and King of the Hellenes, has been ruling the Greek people as a constitutional monarch since the deposition of the former King Otto in 1863, serving since shortly after he became of age. His reign has been a symbol of stability for decades, though the elected government has not faired as well."
