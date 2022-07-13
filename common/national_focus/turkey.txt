@@ -1,0 +1,45 @@
+focus_tree = {
+	id = turkish_focus
+
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = TUR
+		}
+	}
+	
+	default = no
+
+	continuous_focus_position = { x = 100 y = 3250 }
+
+	initial_show_position = {
+		x = 20
+		y = 0
+	}
+
+	focus = {
+		id = TUR_state_of_the_porte
+		icon = GFX_focus_TUR_pivot_to_the_past
+		available = {
+
+		}
+		x = 5
+		y = 0
+		cost = 10
+		ai_will_do = {
+			base = 10
+		}
+
+		bypass = {
+			
+		}
+
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		completion_reward = {
+			TUR = { country_event = { id = ottoman.1 } }
+		}
+	}
+}
+	
