@@ -1,0 +1,32 @@
+﻿capital = 48
+
+#TROOPS
+oob = "BUL_1936" #VANILLA & DLC
+set_convoys = 5 #VANILLA & DLC
+
+set_technology = { #VANILLA & DLC
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1		
+	tech_engineers = 1
+	motorised_infantry = 1
+	early_fighter = 1
+	fuel_silos = 1
+	basic_train = 1
+}
+
+
+set_politics = {
+	ruling_party = liberal
+	election_frequency = 48
+	elections_allowed = no
+	last_election = "1908.1.1"
+}
+
+set_popularities = {
+	liberal = 47
+	conservative = 33
+	social_democrat = 10
+	revolutionary_socialist = 9
+	reactionary = 1
+}
