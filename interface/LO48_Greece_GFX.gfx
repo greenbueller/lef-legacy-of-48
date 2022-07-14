@@ -9,4 +9,14 @@ spriteTypes = {
 		name = "GFX_Venizelism"
 		texturefile = "gfx/interface/ideas/Idea_Venizelism.dds"
 	}
+
+	spriteType = {
+		name = "GFX_Legacy_Goudi_Coup"
+		texturefile = "gfx/interface/ideas/Idea_Legacy_Goudi_Coup.dds"
+	}
+
+	spriteType = {
+		name = "GFX_GRE_Rapid_Modernization"
+		texturefile = "gfx/interface/ideas/Idea_GRE_Rapid_Modernization.dds"
+	}
 }

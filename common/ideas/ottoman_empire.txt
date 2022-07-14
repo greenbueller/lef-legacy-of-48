@@ -33,7 +33,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = FRA_scw_intervention_republicans_focus
+			picture = TUR_Divided_Empire
 
 			modifier = {
 				stability_factor = -0.1
@@ -54,7 +54,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = POL_disjointed_industry
+			picture = TUR_Underdeveloped_Nation
 
 			modifier = {
 				PRODUCTION_SPEED_BUILDINGS_FACTOR = -0.15
@@ -76,7 +76,7 @@ ideas = {
 
 			removal_cost = -1
 			
-			picture = generic_victors_of_ww1
+			picture = TUR_Legacy_Young_Turks
 
 			modifier = {
 				stability_factor = -0.05

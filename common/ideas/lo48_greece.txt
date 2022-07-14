@@ -43,7 +43,7 @@ ideas = {
 				local_resources_factor = 0.05
 			}
 
-			picture = generic_economic_increase
+			picture = GRE_Rapid_Modernization
 		}
 
 		GRE_Goudi_Coup = {
@@ -63,7 +63,7 @@ ideas = {
 				ultranationalist_drift = 0.025
 			}
 
-			picture = idea_chi_war_of_resistance
+			picture = Legacy_Goudi_Coup
 		}
 
 		GRE_Venizelism = {

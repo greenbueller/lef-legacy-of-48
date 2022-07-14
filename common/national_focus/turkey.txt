@@ -22,9 +22,6 @@ focus_tree = {
 	focus = {
 		id = TUR_state_of_the_porte
 		icon = GFX_focus_TUR_pivot_to_the_past
-		available = {
-
-		}
 		x = 5
 		y = 0
 		cost = 10
@@ -32,13 +29,13 @@ focus_tree = {
 			base = 10
 		}
 
-		bypass = {
-			
-		}
-
 		search_filters = { FOCUS_FILTER_POLITICAL }
 		completion_reward = {
-			TUR = { country_event = { id = ottoman.1 } }
+			TUR = { 
+				country_event = { 
+					id = ottoman.1 
+				} 
+			}
 		}
 	}
 }

@@ -34,9 +34,23 @@
  TUR_ultranationalist_party_long:0 "Jam’iyat al-’Arabiya al-Fata"
 
     #### JABAL SHAMMAR & NEJD ####
+ JAB_reactionary_party:0 "Rashidi"
+ JAB_reactionarty_party_long:0 "Āl Rashīd"
+ SAU_reactionarty_party:0 "Saud"
+ SAU_reactionarty_party_long:0 "Āl Suʿūd"
+
+    #### MECCA ####
+ MEC_reactionary_party:0 "BQ"
+ MEC_reactionary_party_long:0 "Banū Qatādah"
 
     #### YEMEN ####
-
-    #### OMAN ####
-
+ YEM_reactionary_party:0 "Qasimid"
+ YEM_reactionary_party_long:0 "Al al-Qasimi"
+    
+   #### OMAN ####
+ OMA_reactionary_party:0 "Saeid"
+ OMA_reactionary_party_long:0 "Al bu-Saeid"
+ 
     #### EGYPT ####
+ EGY_reactionary_party:0 "Alawiyya"
+ EGY_reactionary_party_long:0 "Al-ʾUsra al-ʿAlawiyya"
