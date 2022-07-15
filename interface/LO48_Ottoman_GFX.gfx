@@ -13,22 +13,22 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_TUR_Sultan_Mehmed_V"
+		name = "GFX_idea_Idea_TUR_Sultan_Mehmed_V"
 		texturefile = "gfx/interface/ideas/Idea_Sultan_Mehmed_V.dds"
 	}
 
 	spriteType = {
-		name = "GFX_TUR_Legacy_Young_Turks"
+		name = "GFX_idea_Idea_TUR_Legacy_Young_Turks"
 		texturefile = "gfx/interface/ideas/Idea_Legacy_Young_Turks.dds"
 	}
 
 	spriteType = {
-		name = "GFX_TUR_Underdeveloped_Nation"
+		name = "GFX_idea_Idea_TUR_Underdeveloped_Nation"
 		texturefile = "gfx/interface/ideas/Idea_TUR_Underdeveloped_Nation.dds"
 	}
 
 	spriteType = {
-		name = "GFX_TUR_Divided_Empire"
+		name = "GFX_idea_Idea_TUR_Divided_Empire"
 		texturefile = "gfx/interface/ideas/Idea_TUR_Divided_Empire.dds"
 	}
 }

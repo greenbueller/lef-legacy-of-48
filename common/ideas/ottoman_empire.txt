@@ -18,7 +18,7 @@ ideas = {
 				stability_factor = 0.025
 			}
 
-			picture = TUR_Sultan_Mehmed_V
+			picture = Idea_TUR_Sultan_Mehmed_V
 		}
 
 		TUR_overextended_empire = {
@@ -33,7 +33,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = TUR_Divided_Empire
+			picture = Idea_TUR_Divided_Empire
 
 			modifier = {
 				stability_factor = -0.1
@@ -54,7 +54,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = TUR_Underdeveloped_Nation
+			picture = Idea_TUR_Underdeveloped_Nation
 
 			modifier = {
 				PRODUCTION_SPEED_BUILDINGS_FACTOR = -0.15
@@ -76,7 +76,7 @@ ideas = {
 
 			removal_cost = -1
 			
-			picture = TUR_Legacy_Young_Turks
+			picture = Idea_TUR_Legacy_Young_Turks
 
 			modifier = {
 				stability_factor = -0.05
