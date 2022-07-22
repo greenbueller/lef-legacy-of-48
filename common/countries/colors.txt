@@ -182,8 +182,8 @@ IRQ = {
 	color_ui = rgb { 231 148 129 }
 }
 JAP = {
-	color = hsv { 0.05 0.3 1 }
-	color_ui = hsv { 0.05 0.25 1.2 }
+	color = rgb { 116 53 53 }
+	color_ui = rgb { 116 53 53 }
 }
 LIB = {
 	color = rgb { 152 130 191 }
@@ -464,8 +464,8 @@ DDR = {
     color_ui = rgb { 150 180 120 }
 }
 KOR = {
-	color = rgb { 255  240  195 }
-	color_ui = rgb { 255 248 229 }	
+	color = rgb { 81 84 129 }
+	color_ui = rgb { 81 84 129 }	
 }
 ISR = {
 	color = rgb { 152  130  191 }

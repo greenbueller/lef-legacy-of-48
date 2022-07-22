@@ -1,0 +1,26 @@
+state = {
+	id = 964
+	name = "STATE_964"
+	state_category = town
+	manpower=325915
+
+	history = {
+		owner = SIA
+		add_core_of = SIA
+		buildings = {
+			infrastructure = 2
+			7329 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			7329 1 
+		}
+	}
+
+	local_supplies = 0.0
+
+	provinces = {
+		7329 12199 13327
+	}
+}
