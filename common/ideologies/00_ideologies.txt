@@ -5,7 +5,7 @@ ideologies = {
 	ultranationalist = {
 
 		types = {
-			ultranationalist_group = {}
+			ultranationalist_type = {}
 		}
 		
 		dynamic_faction_names = {
@@ -46,7 +46,7 @@ ideologies = {
 	reactionary = {
 
 		types = {
-			reactionary_group = {}
+			reactionary_type = {}
 		}
 		
 		dynamic_faction_names = {
@@ -81,7 +81,7 @@ ideologies = {
 	conservative = {
 
 		types = {
-			conservative_group = {}
+			conservative_type = {}
 		}
 		
 		dynamic_faction_names = {
@@ -134,7 +134,7 @@ ideologies = {
 	liberal = {
 		
 		types = {
-			liberal_group = {}
+			liberal_type = {}
 		}
 		
 		dynamic_faction_names = {
@@ -188,7 +188,7 @@ ideologies = {
 	social_democrat = {
 
 		types = {
-			social_democrat_group = {}
+			social_democrat_type = {}
 		}
 		
 		dynamic_faction_names = {
@@ -243,7 +243,7 @@ ideologies = {
 	moderate_socialist = {
 
 		types = {
-			moderate_socialist_group = {}
+			moderate_socialist_type = {}
 		}
 		
 		dynamic_faction_names = {
@@ -279,7 +279,7 @@ ideologies = {
 	revolutionary_socialist = {
 
 		types = {
-			revolutionary_socialist_group = {}
+			revolutionary_socialist_type = {}
 		}
 		
 		dynamic_faction_names = {
@@ -313,7 +313,7 @@ ideologies = {
 	anarcho_socialist = {
 
 		types = {
-			anarcho_socialist_group = {}
+			anarcho_socialist_type = {}
 		}
 		
 		dynamic_faction_names = {

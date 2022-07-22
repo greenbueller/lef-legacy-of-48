@@ -8,7 +8,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = conservative_group
+			ideology = conservative_type
 			expire="1965.1.1"
 			id=-1
 		}
@@ -22,7 +22,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = liberal_group
+			ideology = liberal_type
 			expire="1965.1.1"
 			id=-1
 		}

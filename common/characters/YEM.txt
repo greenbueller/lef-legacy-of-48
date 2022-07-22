@@ -7,7 +7,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=reactionary_group
+			ideology=reactionary_type
 			expire="1965.1.1.1"
 			id=-1
 		}
@@ -20,7 +20,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=liberal_group
+			ideology=liberal_type
 			expire="1952.1.1.12"
 			id=-1
 		}
@@ -33,7 +33,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=moderate_socialist_group
+			ideology=moderate_socialist_type
 			expire="1941.1.1.12"
 			id=-1
 		}
@@ -46,7 +46,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=ultranationalist_group
+			ideology=ultranationalist_type
 			expire="1946.1.1.12"
 			id=-1
 		}

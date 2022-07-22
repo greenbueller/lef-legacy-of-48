@@ -8,7 +8,7 @@ characters = {
 		}
 
 		#country_leader = {
-		#	ideology = reactionary_group
+		#	ideology = reactionary_type
 		#	expire="1965.1.1"
 		#	id=-1
 		#}
@@ -24,14 +24,14 @@ characters = {
 		}
 
 		country_leader = {
-			ideology = reactionary_group
+			ideology = reactionary_type
 			expire = "1965.1.1"
 			id = -1
 			traits = { OTT_Ruling_Pasha }
 		}
 
 		country_leader = {
-			ideology = conservative_group
+			ideology = conservative_type
 			expire = "1965.1.1"
 			id = -1
 			traits = { OTT_Ruling_Pasha }

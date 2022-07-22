@@ -8,7 +8,7 @@ characters = {
 		}
 
 		country_leader = {
-			ideology = reactionary_group
+			ideology = reactionary_type
 			expire="1965.1.1"
 			id=-1
 		}
@@ -23,7 +23,7 @@ characters = {
 		}
 
 		country_leader = {
-			ideology = conservative_group
+			ideology = conservative_type
 			expire = "1965.1.1"
 			id = -1
 		}
@@ -37,7 +37,7 @@ characters = {
 	#		}
 	#	}
 	#	country_leader={
-	#		ideology=revolutionary_socialist_group
+	#		ideology=revolutionary_socialist_type
 	#		expire="1965.1.1.1"
 	#		id=-1
 	#	}
@@ -68,7 +68,7 @@ characters = {
 			}
 		}
 		country_leader={
-			ideology=moderate_socialist_group
+			ideology=moderate_socialist_type
 			traits={ financial_expert }
 			expire="1953.1.1.12"
 			id=-1
@@ -82,7 +82,7 @@ characters = {
 			}
 		}
 		country_leader={
-			ideology=ultranationalist_group
+			ideology=ultranationalist_type
 			traits={ dealbroker national_integralist }
 			expire="1948.1.1.12"
 			id=-1
