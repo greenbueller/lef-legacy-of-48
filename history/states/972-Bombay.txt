@@ -1,0 +1,21 @@
+state={
+	id = 972
+	state_category = town
+	manpower=1052315
+	name="STATE_972"
+
+	history = {
+		owner = REV
+		add_core_of = REV
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+		}
+	}
+
+	provinces = {
+		2105 4072 4187 4950 5019 7060 7150 7165 7177 7205 7430 8076 10019 10030 10311 10872 11952 11993 12080 12781
+	}
+
+	local_supplies = 2
+}

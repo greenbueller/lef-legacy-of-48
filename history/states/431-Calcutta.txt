@@ -7,7 +7,8 @@ state={
 	}
 
 	history={
-		owner = RAJ
+		owner = BEN
+		add_core_of = BEN
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 1
@@ -26,10 +27,9 @@ state={
 	}
 
 	provinces={
-		1159 1609 1656 4062 4204 4245 4435 4644 7220 7475 7537 7565 7593 10077 12050 12338 
+		1159 1444 1609 4062 4104 4204 4245 4644 7220 10077 12050 
 	}
 	manpower=18778100
-	buildings_max_level_factor=1.000
 	state_category=city
 
 	local_supplies=0.0 

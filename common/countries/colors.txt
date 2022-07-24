@@ -1041,3 +1041,73 @@ MOS = {
 	color = rgb { 69 114 71 }
 	color_ui = rgb { 69 114 71 }
 }
+
+KSH = {
+	color = rgb { 158 142 99 }
+	color_ui = rgb { 158 142 99 }
+}
+
+KLT = {
+	color = rgb { 60 69 89 }
+	color_ui = rgb { 60 69 89 }
+}
+
+SKM = {
+	color = rgb { 115 225 177 }
+	color_ui = rgb { 115 225 177 }
+}
+
+BIH = {
+	color = rgb { 153 111 158 }
+	color_ui = rgb { 153 111 158 }
+}
+
+AAO = {
+	color = rgb { 68 204 191 }
+	color_ui = rgb { 68 204 191 }
+}
+
+DHL = {
+	color = rgb { 49 94 186 }
+	color_ui = rgb { 49 94 186 }
+}
+
+PUN = {
+	color = rgb { 67 98 118 }
+	color_ui = rgb { 67 98 118 }
+}
+
+SIN = {
+	color = rgb { 92 73 52 }
+	color_ui = rgb { 92 73 52 }
+}
+
+GUJ = {
+	color = rgb { 159 66 57 }
+	color_ui = rgb { 159 66 57 }
+}
+
+HYD = {
+	color = rgb { 127 99 157 }
+	color_ui = rgb { 127 99 157 }
+}
+
+MRS = {
+	color = rgb { 96 214 126 }
+	color_ui = rgb { 96 214 126 }
+}
+
+MYS = {
+	color = rgb { 37 37 78 }
+	color_ui = rgb { 37 37 78 }
+}
+
+TRA = {
+	color = rgb { 69 89 89 }
+	color_ui = rgb { 69 89 89 }
+}
+
+REV = {
+	color = rgb { 119 67 143 }
+	color_ui = rgb { 119 67 143 }
+}

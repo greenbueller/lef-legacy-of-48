@@ -1,0 +1,21 @@
+state = {
+	id = 973
+	state_category = town
+	manpower=1234156
+	name="STATE_973"
+
+	local_supplies = 2
+
+	provinces = {
+		1238 1321 7288 7391 7402 7447 10130 12275
+	}
+
+	history = {
+		owner = TRA
+		add_core_of = TRA
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+		}
+	}
+}

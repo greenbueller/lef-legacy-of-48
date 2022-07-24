@@ -1,0 +1,20 @@
+state={
+	id = 969
+	state_category = town
+	manpower=1045214
+	name="STATE_969"
+
+	history = {
+		owner = RAJ
+		add_core_of = RAJ
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	local_supplies = 1
+
+	provinces = {
+		1059 1538 1637 10358 10471 12035 12307 12452
+	}
+}

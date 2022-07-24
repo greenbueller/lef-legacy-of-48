@@ -4,7 +4,29 @@ ZZZ = "countries/Unoccupied.txt"
 
 #CHI China
 #JAP Japan
+#KOR Korea
+#SIA Siam
+#VIN Vietnam
+#BRM Burma
 #TIB Tibet
+#AFG Afghanistan
+KSH = "countries/Kashmir.txt" # Kashmir
+KLT = "countries/Kalat.txt" # Khanate of Kalat
+#SRL Kingdom of Kandi
+SKM = "countries/Sikkim.txt" # Kingdom of Sikkim
+#BAN Bengal
+BIH = "countries/Bihar.txt" # Bihar
+AAO = "countries/Agra.txt" # Agra and Oudh
+DHL = "countries/Delhi.txt" # Delhi
+PUN = "countries/Punjab.txt" # Punjab
+SIN = "countries/Sindh.txt" # Sindh
+GUJ = "countries/Gujarat.txt" # Gujarat
+HYD = "countries/Hyderabad.txt" # Hyderabad
+MRS = "countries/Madras.txt" # Madras Confederation
+MYS = "countries/Mysore.txt" # Mysore
+TRA = "countries/Travancore.txt" # Travancore
+#MLD Maldives
+REV = "countries/RF.txt" # Revolutionary Front of India 
 
 #### AFRICA ####
 
