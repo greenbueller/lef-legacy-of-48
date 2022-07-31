@@ -1,0 +1,20 @@
+state = {
+	id = 975
+	name = "STATE_975"
+	manpower=743212
+	state_category=rural
+
+	history = {
+		owner = SAB
+		add_core_of = SAB
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		1306 1335 4282 4338 7358 10143 10199 10212 10240 12171 12186 12228
+	}
+
+	local_supplies=0.0
+}

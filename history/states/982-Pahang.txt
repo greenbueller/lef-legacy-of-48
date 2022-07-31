@@ -1,0 +1,20 @@
+state={
+	id = 982
+	name = "STATE_982"
+	state_category=town
+	manpower=403212
+
+	history={
+		owner = PAH
+		add_core_of = PAH
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	local_supplies = 0.0
+
+	provinces = {
+		1392 10227 12255
+	}
+}

@@ -27,6 +27,14 @@ MYS = "countries/Mysore.txt" # Mysore
 TRA = "countries/Travancore.txt" # Travancore
 #MLD Maldives
 REV = "countries/RF.txt" # Revolutionary Front of India 
+BUI = "countries/Brunei.txt" # Sultanate of Brunei
+SAB = "countries/Sabah.txt" # Sabah
+ROY = "countries/British Remnant.txt" # Royalist Front
+PRK = "countries/Perak.txt"
+TRN = "countries/Terengganu.txt"
+SEL = "countries/Selangor.txt"
+SAR = "countries/Sarawak.txt"
+PAH = "countries/Pahang.txt"
 
 #### AFRICA ####
 

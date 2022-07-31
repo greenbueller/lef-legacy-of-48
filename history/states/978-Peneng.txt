@@ -1,0 +1,20 @@
+state = {
+	id = 978
+	name="STATE_978"
+	state_category=town
+	manpower=216215
+
+	history = {
+		owner = ROY
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+
+	local_supplies=0.0
+
+	provinces = {
+		13333
+	}
+}

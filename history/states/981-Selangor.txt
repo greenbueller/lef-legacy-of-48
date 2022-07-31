@@ -1,0 +1,26 @@
+state={
+	id = 981
+	name="STATE_981"
+	state_category=town
+	manpower=842131
+
+	history = {
+		owner = SEL
+		add_core_of = SEL
+		buildings = {
+			infrastructure = 2
+			10297 = {
+				naval_base = 5
+			}
+		}
+		victory_points = {
+			10297 1 
+		}
+	}
+
+	provinces = {
+		4412 10297
+	}
+
+	local_supplies=0.0
+}

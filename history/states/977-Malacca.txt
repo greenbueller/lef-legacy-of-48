@@ -1,0 +1,20 @@
+state = {
+	id = 977
+	name="STATE_977"
+	state_category=town
+	manpower=321421
+
+	history = {
+		owner = ROY
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+		}
+	}
+
+	local_supplies=0.0
+
+	provinces = {
+		13332
+	}
+}

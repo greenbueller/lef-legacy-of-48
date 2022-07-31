@@ -1,0 +1,20 @@
+state = {
+	id = 974
+	name = "STATE_974"
+	manpower=854213
+	state_category = town
+
+	history = {
+		owner = BUI
+		add_core_of = BUI
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		7387
+	}
+
+	local_supplies=0.0
+}

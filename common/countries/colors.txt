@@ -409,8 +409,8 @@ CAM = {
 }
 
 MAL = {
-	color = rgb { 197  96  100 }
-	color_ui = rgb { 213  169  121 }
+	color = rgb { 67 24 79 }
+	color_ui = rgb { 67 24 79 }
 }
 
 MNT = {
@@ -1110,4 +1110,44 @@ TRA = {
 REV = {
 	color = rgb { 119 67 143 }
 	color_ui = rgb { 119 67 143 }
+}
+
+BUI = {
+	color = rgb { 208 208 134 }
+	color_ui = rgb { 208 208 134 }
+}
+
+SAB = {
+	color = rgb { 126 206 223 }
+	color_ui = rgb { 126 206 223 }
+}
+
+ROY = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}
+
+PRK = {
+	color = rgb { 6 138 210 }
+	color_ui = rgb { 6 138 210 }
+}
+
+TRN = {
+	color = rgb { 6 123 80 }
+	color_ui = rgb { 6 123 80 }
+}
+
+SEL = {
+	color = rgb { 102 102 200 }
+	color_ui = rgb { 102 102 200 }
+}
+
+SAR = {
+	color = rgb { 171 94 38 }
+	color_ui = rgb { 171 94 38 }
+}
+
+PAH = {
+	color = rgb { 174 165 87 }
+	color_ui = rgb { 174 165 87 }
 }

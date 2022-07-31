@@ -1,0 +1,19 @@
+state = {
+	id = 980
+	name = "STATE_980"
+	state_category=town
+	manpower=524831
+
+	history = {
+		add_core_of = TRN
+		owner = TRN
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		1348 4355 7399
+	}
+}
