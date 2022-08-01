@@ -1,0 +1,20 @@
+state = {
+	id = 986
+	state_category=town
+	manpower=89214
+	name="STATE_986"
+
+	history={
+		owner = EYR
+		add_core_of = EYR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	local_supplies=0.0
+
+	provinces={
+		2163 4453 4500 4658 7533 7649 8234 
+	}
+}

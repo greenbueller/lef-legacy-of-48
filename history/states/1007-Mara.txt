@@ -1,0 +1,20 @@
+state = {
+	id = 1007
+	name="STATE_1007"
+	state_category=rural
+	manpower=37213
+
+	history = {
+		owner = YAR
+		add_core_of = YAR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		4441 4462 7457 10518
+	}
+
+	local_supplies=0.0
+}

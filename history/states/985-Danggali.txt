@@ -1,0 +1,20 @@
+state = {
+	id = 985
+	name="STATE_985"
+	state_category=rural
+	manpower=58213
+
+	history={
+		owner = EYR
+		add_core_of = EYR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		1773 2130 5211 8249 10991 12910 12918 12924
+	}
+
+	local_supplies=0.0
+}

@@ -1,0 +1,20 @@
+state = {
+	id = 1000
+	name="STATE_1000"
+	state_category=rural
+	manpower=45213
+
+	history={
+		owner = OLL
+		add_core_of = OLL
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	local_supplies=0.0
+
+	provinces = {
+		4645 5170 10971
+	}
+}

@@ -1,0 +1,20 @@
+state = {
+	id = 997
+	name="STATE_997"
+	state_category=rural
+	manpower=54231
+
+	history={
+		owner = KUN
+		add_core_of = KUN
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	local_supplies=0.0
+
+	provinces = {
+		1501 7506 7525 12354
+	}
+}

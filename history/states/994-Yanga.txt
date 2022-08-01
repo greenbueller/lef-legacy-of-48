@@ -1,0 +1,20 @@
+state = {
+	id = 994
+	name="STATE_994"
+	state_category=rural
+	manpower=41234
+
+	history={
+		owner = BIN
+		add_core_of = BIN
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	local_supplies=0.0
+
+	provinces = {
+		2166 2187 7538 8230 12367 12382 13336 13337
+	}
+}

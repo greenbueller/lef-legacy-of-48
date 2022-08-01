@@ -1,0 +1,20 @@
+state = {
+	id = 998
+	name="STATE_998"
+	state_category=rural
+	manpower=62314
+
+	history={
+		owner = NGA
+		add_core_of = NGA
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	local_supplies=0.0
+
+	provinces = {
+		5207 8209 8247 10937 11016
+	}
+}

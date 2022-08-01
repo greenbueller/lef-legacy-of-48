@@ -1,0 +1,21 @@
+state = {
+	id = 1004
+	name="STATE_1004"
+	state_category=town
+	manpower=89421
+
+	history={
+		owner = AST
+		add_core_of = AST
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+		}
+	}
+
+	provinces = {
+		1526 1652 2157 4630 5175 10949 10983 
+	}
+
+	local_supplies=0.0
+}

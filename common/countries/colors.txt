@@ -122,8 +122,8 @@ ARG = {
 	color_ui = rgb { 189 204 255 }
 }
 AST = {
-	color = rgb { 57 143 97 }
-	color_ui = rgb { 74 186 126 }
+	color = rgb { 155 104 153 }
+	color_ui = rgb { 155 104 153 }
 }
 BHU = {
 	color = rgb { 172 122 88 }
@@ -1150,4 +1150,49 @@ SAR = {
 PAH = {
 	color = rgb { 174 165 87 }
 	color_ui = rgb { 174 165 87 }
+}
+
+NAW = {
+	color = rgb { 120 139 154 }
+	color_ui = rgb { 120 139 154 }
+}
+
+ARR = {
+	color = rgb { 88 62 96 }
+	color_ui = rgb { 88 62 96 }
+}
+
+EYR = {
+	color = rgb { 211 199 119 }
+	color_ui = rgb { 211 199 119 }
+}
+
+BIR = {
+	color = rgb { 83 57 42 }
+	color_ui = rgb { 83 57 42 }
+}
+
+KUN = {
+	color = rgb { 198 57 57 }
+	color_ui = rgb { 198 57 57 }
+}
+
+BIN = {
+	color = rgb { 151 206 216 }
+	color_ui = rgb { 151 206 216 }
+}
+
+YAR = {
+	color = rgb { 89 158 55 }
+	color_ui = rgb { 89 158 55 }
+}
+
+NGA = {
+	color = rgb { 54 65 85 }
+	color_ui = rgb { 54 65 85 }
+}
+
+OLL = {
+	color = rgb { 32 112 83}
+	color_ui = rgb { 32 112 83 }
 }

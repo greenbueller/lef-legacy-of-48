@@ -1,0 +1,20 @@
+state = {
+	id = 992
+	name="STATE_992"
+	state_category=rural
+	manpower=59213
+
+	history={
+		owner = ARR
+		add_core_of = ARR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	local_supplies=0.0
+
+	provinces = {
+		1557 10336 10936 10955 12949 
+	}
+}

@@ -1,0 +1,21 @@
+state = {
+	id = 990
+	name="STATE_990"
+	state_category=town
+	manpower=105421
+
+	history={
+		owner = ARR
+		add_core_of = ARR
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+
+	local_supplies=0.0
+
+	provinces = {
+		8206 12906 13334
+	}
+}

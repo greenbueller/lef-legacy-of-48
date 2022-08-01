@@ -5,20 +5,18 @@ state={
 	impassable = yes
 
 	history={
-		owner = AST
+		owner = ZZZ
 		buildings = {
 			infrastructure = 1
-
 		}
-		add_core_of = AST
+		add_core_of = ZZZ
 
 	}
 
 	provinces={
-		2133 2177 2186 2205 2223 5138 5206 7623 8134 8155 8206 8237 10336 10473 10936 10955 10979 11013 12904 12906 12912 12915 12926 12936 12992 
+		2133 2177 2186 2201 2223 5138 7623 8134 8155 8165 8200 8237 10473 10958 10969 10979 11013 12904 12912 12926 12936 12948 12992 
 	}
 	manpower=30000
-	buildings_max_level_factor=1.000
 	state_category=wasteland
 
 	local_supplies=0.0 

@@ -1,0 +1,29 @@
+state = {
+	id = 1006
+	name="STATE_1006"
+	state_category=town
+	manpower=38123
+
+	history = {
+		owner = YAR
+		add_core_of = YAR
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+			7669 = {
+				naval_base = 1
+			}
+
+			industrial_complex = 1
+		}
+		victory_points = {
+			7669 5 
+		}
+	}
+
+	local_supplies=0.0
+
+	provinces = {
+		1217 4415 7669 10276 10288 10316 12246 12290
+	}
+}

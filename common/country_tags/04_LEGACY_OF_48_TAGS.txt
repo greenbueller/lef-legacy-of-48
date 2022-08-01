@@ -35,6 +35,15 @@ TRN = "countries/Terengganu.txt"
 SEL = "countries/Selangor.txt"
 SAR = "countries/Sarawak.txt"
 PAH = "countries/Pahang.txt"
+NAW = "countries/Narangga.txt" 
+ARR = "countries/Arrente.txt"
+EYR = "countries/Eyre.txt"
+BIR = "countries/Biri.txt"
+KUN = "countries/Kunjen.txt"
+BIN = "countries/Binbinga.txt"
+YAR = "countries/Yarrabyth.txt"
+NGA = "countries/Ngarinyin.txt"
+OLL = "countries/Ollgeroo.txt"
 
 #### AFRICA ####
 
