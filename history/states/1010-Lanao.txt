@@ -1,0 +1,23 @@
+state = {
+	id = 1010
+	name="SATE_1010"
+	state_category=town
+	manpower=124321
+
+	history={
+		owner = LAN
+		add_core_of = LAN
+		add_claim_by = PHI
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+		}
+	}
+
+	provinces={
+		4427 10300 12116
+	}
+
+	local_supplies=0.0
+}

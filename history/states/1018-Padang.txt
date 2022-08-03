@@ -1,0 +1,21 @@
+state = {
+	id = 1018
+	name="STATE_1018"
+	state_category = town
+	manpower=234124
+
+	history = {
+		owner = ACE
+		add_core_of = ACE
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+
+	local_supplies = 0.0
+
+	provinces = {
+		1460 4446
+	}
+}

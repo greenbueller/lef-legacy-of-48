@@ -1,0 +1,20 @@
+state = {
+	id = 1032
+	name="STATE_1032"
+	state_category = town
+	manpower=892123
+
+	history = {
+		owner = INS
+		add_core_of = INS
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		4409 7227 10282 10310 12280
+	}
+
+	local_supplies = 1
+}

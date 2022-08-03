@@ -1,0 +1,21 @@
+state = {
+	id = 1013
+	name="STATE_1013"
+	state_category=town
+	manpower=124412
+
+	history = {
+		owner = SUL
+		add_core_of = SUL
+		add_core_of = SAB
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		1306 4282 10143 10199 12243 12228
+	}
+
+	local_supplies=0.0
+}

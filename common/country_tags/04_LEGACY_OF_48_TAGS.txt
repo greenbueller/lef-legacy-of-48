@@ -44,6 +44,13 @@ BIN = "countries/Binbinga.txt"
 YAR = "countries/Yarrabyth.txt"
 NGA = "countries/Ngarinyin.txt"
 OLL = "countries/Ollgeroo.txt"
+MAG = "countries/Maguindanao.txt"
+LAN = "countries/Lanao.txt"
+SUL = "countries/Sulu.txt"
+PRA = "countries/Paragua.txt"
+MIN = "countries/Mindoro.txt"
+MDA = "countries/Mindanao.txt"
+ACE = "countries/Aceh.txt"
 
 #### AFRICA ####
 

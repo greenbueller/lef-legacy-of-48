@@ -1196,3 +1196,38 @@ OLL = {
 	color = rgb { 32 112 83}
 	color_ui = rgb { 32 112 83 }
 }
+
+MAG = {
+	color = rgb { 95 108 203 }
+	color_ui = rgb { 95 108 203 }
+}
+
+LAN = {
+	color = rgb { 60 77 87 }
+	color_ui = rgb { 60 77 87 }
+}
+
+SUL = {
+	color = rgb { 216 209 105 }
+	color_ui = rgb { 216 209 105 }
+}
+
+PRA = {
+	color = rgb { 56 73 123 }
+	color_ui = rgb { 56 73 123 }
+}
+
+MIN = {
+	color = rgb { 202 59 86 }
+	color_ui = rgb { 202 59 86 }
+}
+
+MDA = {
+	color = rgb { 121 203 119 }
+	color_ui = rgb { 121 203 119 }
+}
+
+ACE = {
+	color = rgb { 175 198 67 }
+	color_ui = rgb { 175 198 67 }
+}

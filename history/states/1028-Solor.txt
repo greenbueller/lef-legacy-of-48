@@ -1,0 +1,18 @@
+state = {
+	id = 1028
+	name="STATE_1028"
+	state_category = small_island
+	manpower=28134
+
+	history = {
+		owner = INS
+		add_core_of = INS
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		10219 12151
+	}
+}

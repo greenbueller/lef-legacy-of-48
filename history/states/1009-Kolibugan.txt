@@ -1,0 +1,22 @@
+state = {
+	id = 1009
+	name="STATE_1009"
+	state_category = town
+	manpower=142312
+
+	history={
+		owner = MAG
+		add_core_of = MAG
+		add_claim_by = PHI
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+
+	local_supplies=0.0
+
+	provinces={
+		1421 4399 7360 7389 7417
+	}
+}

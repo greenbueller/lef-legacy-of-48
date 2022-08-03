@@ -1,0 +1,27 @@
+state = {
+	id = 1017
+	name="STATE_1017"
+	state_category = town
+	manpower=203115
+
+	history = {
+		owner = ACE
+		add_core_of = ACE
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			4652 = {
+				naval_base = 3
+			}
+		}
+		victory_points = {
+			4652 1 
+		}
+	}
+
+	provinces = {
+		4652 7673 8360 10522
+	}
+
+	local_supplies = 0.0
+}

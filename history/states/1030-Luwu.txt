@@ -1,0 +1,19 @@
+state = {
+	id = 1030
+	name="STATE_1030"
+	state_category = enclave
+	manpower=51032
+	history = {
+		owner = INS
+		add_core_of = INS
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		7336
+	}
+
+	local_supplies = 0
+}

@@ -6,16 +6,16 @@ state=
 	
 	state_category = rural
 	
-	history=
-	{
-		owner = PHI
+	history = {
+		owner = PRA
 		buildings = {
 			infrastructure = 2
 			4429 = {
 				naval_base = 1
 			}
 		}
-		add_core_of = PHI
+		add_core_of = PRA
+		add_claim_by = PHI
 	}
 	provinces={
 		4429 7419 10145 

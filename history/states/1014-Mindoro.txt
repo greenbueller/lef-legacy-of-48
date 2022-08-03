@@ -1,0 +1,24 @@
+state = {
+	id = 1014
+	name="STATE_1014"
+	state_category=town
+	manpower=102314
+
+	history = {
+		owner = MIN
+		add_core_of = MIN
+		add_core_of = PHI
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			4288 1 
+		}
+	}
+	
+	provinces = {
+		4288 10272 13338
+	}
+
+	local_supply = 0.0
+}

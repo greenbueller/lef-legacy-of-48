@@ -1,0 +1,21 @@
+state = {
+	id = 1026
+	name="STATE_1026"
+	state_category = enclave
+	manpower=49213
+
+	history = {
+		owner = INS
+		add_core_of = INS
+		buildings = {
+			infrastructure = 1
+			1355 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces = {
+		1355 4358 12206
+	}
+}

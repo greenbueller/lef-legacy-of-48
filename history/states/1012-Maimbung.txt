@@ -1,0 +1,25 @@
+state = {
+	id = 1012
+	name="STATE_1012"
+	state_category=rural
+	manpower=103214
+
+	history = {
+		owner = SUL
+		add_core_of = SUL
+		add_claim_by = PHI
+		buildings = {
+			infrastructure = 2
+		}
+
+		victory_points = {
+			10184 3
+		}
+	}
+
+	provinces={
+		10184
+	}
+
+	local_supplies=0.0
+}
