@@ -1,0 +1,37 @@
+ideas = {
+	hidden_ideas = {
+		ZZZ_Unclaimed_Territory = {
+			removal_cost = -1
+
+			available = {
+				original_tag = ZZZ
+			}
+		
+			allowed = {
+				always = yes
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			modifier = {
+				enemy_justify_war_goal_time = 10.0
+				justify_war_goal_time = 10.0
+				drift_defence_factor = 10.0
+				join_faction_tension = 1.5
+				lend_lease_tension = 1.5
+				send_volunteer_size = 0
+				consumer_goods_factor = 1.0
+				industrial_capacity_factory = 0.0
+				ai_focus_peaceful_factor = 10.0
+				ai_get_ally_desire_factor = -1.0
+				ai_license_acceptance = -1.0
+				conscription = 0.0
+				experience_gain_army = -1.0
+				experience_gain_navy = -1.0
+				experience_gain_air = -1
+			}
+		}
+	}
+}

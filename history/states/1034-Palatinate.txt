@@ -1,0 +1,21 @@
+state = {
+	id = 1034
+	name = "STATE_1034"
+	state_category=town
+	manpower=742112
+
+	history = {
+		owner = PLT
+		add_core_of = PLT
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+
+	local_supplies=0.0
+
+	provinces = {
+		563 3558 11547
+	}
+}

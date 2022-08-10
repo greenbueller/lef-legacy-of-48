@@ -10,8 +10,8 @@ state={
 	}
 
 	history={
-		owner = GER
-		add_core_of = GER
+		owner = FRA
+		add_claim_by = GER
 		#victory_points = { 6529 1 }
 		#victory_points = { 549 1 }
 		victory_points = { 678 5 }

@@ -20,16 +20,10 @@ state={
 			industrial_complex = 1
 		}
 		add_core_of = GER
-		1939.1.1 = {
-			buildings = {
-				synthetic_refinery = 3
-				arms_factory = 2
-			}
-		}
 	}
 
 	provinces={
-		425 482 538 3500 3561 6501 6524 6582 9497 
+		425 482 538 3474 3500 3561 6501 6524 6582 9497 13116
 	}
 
 	local_supplies=0.0 

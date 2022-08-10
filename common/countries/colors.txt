@@ -1231,3 +1231,23 @@ ACE = {
 	color = rgb { 175 198 67 }
 	color_ui = rgb { 175 198 67 }
 }
+
+BAD = {
+	color = rgb { 171 93 42 }
+	color_ui = rgb { 171 93 42 }
+}
+
+OLD = {
+	color = rgb { 43 129 38 }
+	color_ui = rgb { 43 129 38 }
+}
+
+PLT = {
+	color = rgb { 170 189 137 }
+	color_ui = rgb { 170 189 137 }
+}
+
+RHI = {
+	color = rgb { 99 22 35 }
+	color_ui = rgb { 99 22 35 }
+}

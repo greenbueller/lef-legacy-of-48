@@ -97,7 +97,6 @@ TRZ = "countries/Trarza.txt" # Emirate of Trarza | Releaseable
 #ENG England
 #IRE Ireland
 #SCO Scotland
-#GER German Empire/Prussia
 #FRA French Commune
 BUR = "countries/Burgundy.txt" # Burgundy
 CAS = "countries/Castile.txt"
@@ -109,7 +108,6 @@ TFR = "countries/Third French Republic.txt" # Third French Republic
 #SWI Switzerland
 #BRI Brittany
 #AUS Austria
-#BAY Bavaria
 #CZE Bohemia
 #HUN Hungary
 #HOL Netherlands
@@ -127,6 +125,14 @@ SRD = "countries/Sardinia Piedmont.txt" # Sardinia Piedmont
 #UKR Ukraine
 #GRE Greece
 #SOV Russia
+#GER North German Confederation
+#BAY Kingdom of Bavaria
+#WUR Kingdom of Wurttemberg
+#HAN Kingdom of Hannover
+BAD = "countries/Baden.txt" # Grand Duchy of Baden
+OLD = "countries/Oldenburg.txt" # Grand Duchy of Oldenburg
+PLT = "coutnries/Palatinate.txt" # The Palatinate
+RHI = "countries/Rhineland.txt" # Workers Republic of the Rhine
 
 #### MIDDLE EAST ####
 
@@ -142,6 +148,7 @@ BHR = "countries/Bahrain.txt" # Kingdom of Bahrain | Releaseable
 BSR = "countries/Basra.txt" # Basra
 #IRQ Baghdad
 MOS = "countries/Mosul.txt" # Mosul
+#PAL Palestine
 
 #### NORTH AMERICA ####
 

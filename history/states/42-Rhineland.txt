@@ -11,7 +11,7 @@ state={
 	state_category = metropolis
 
 	history={
-		owner = GER
+		owner = RHI
 		victory_points = { 11435 1 }
 		#victory_points = { 3423 3 }
 		#victory_points = { 9575 3 }
@@ -21,12 +21,12 @@ state={
 			industrial_complex = 3
 
 		}
-		add_core_of = GER
+		add_core_of = RHI
 	
 	}
 
 	provinces={
-		563 3423 3558 9575 11435 11470 11494 11531 11547 
+		3423 9575 11435 11470 11494 11531 
 	}
 	
 	

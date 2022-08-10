@@ -1,0 +1,21 @@
+state = {
+	id = 1036
+	name="STATE_1036"
+	state_category=town
+	manpower=582314
+
+	history = {
+		owner = GER
+		add_core_of = GER
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+
+	local_supplies=0.0
+
+	provinces = {
+		3397 6549 9524 11417 11445
+	}
+}

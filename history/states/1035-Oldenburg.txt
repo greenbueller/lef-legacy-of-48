@@ -1,0 +1,25 @@
+state = {
+	id = 1035
+	name="STATE_1035"
+	state_category=large_town
+	manpower=1042134
+
+	history = {
+		owner = OLD
+		add_core_of = OLD
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		victory_points = {
+			3326 5 
+		}
+	}
+
+	provinces = {
+		309 374 3326
+	}
+
+	local_supplies=0.0
+}
