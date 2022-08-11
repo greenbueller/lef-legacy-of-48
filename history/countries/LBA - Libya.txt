@@ -9,23 +9,23 @@ set_technology = {
 set_convoys = 20
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = reactionary
 	last_election = "1910.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 5
-	fascism = 0
-	communism = 0
-	neutrality = 95
+	conservative = 5
+	ultranationalist = 0
+	revolutionary_socialist = 0
+	reactionary = 95
 }
 
 create_country_leader = {
 	name = "Bashir es Sadawi"
 	desc = ""
 	picture = GFX_portrait_Bashir_es_Sadawi
-	ideology = liberalism
+	ideology = liberal_type
 	traits = {
 		#
 	}
@@ -35,7 +35,7 @@ create_country_leader = {
 	name = "Ettore Bastico"
 	desc = ""
 	picture = GFX_portrait_Ettore_Bastico
-	ideology = fascism_ideology
+	ideology = ultranationalist_type
 	traits = {
 		#
 	}
@@ -45,7 +45,7 @@ create_country_leader = {
 	name = "Idris Senussi"
 	desc = ""
 	picture = GFX_portrait_Idris_Senussi
-	ideology = despotism
+	ideology = reactionary_type
 	traits = {
 		#
 	}
@@ -55,7 +55,7 @@ create_country_leader = {
 	name = "Hassan as-Senussi"
 	desc = ""
 	picture = GFX_portrait_Hassan_as_Senussi
-	ideology = leninism
+	ideology = revolutionary_socialist_type 
 	traits = {
 		#
 	}

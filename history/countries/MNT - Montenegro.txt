@@ -81,7 +81,7 @@ set_popularities = {
 #	desc = ""
 #	picture = GFX_portrait_Sekula_Drljevic
 #	expire = "1953.3.1"
-#	ideology = fascism_ideology
+#	ideology = ultranationalist_type
 #	traits = {
 #		
 #	}
@@ -92,7 +92,7 @@ set_popularities = {
 #	desc = ""
 #	picture = GFX_portrait_Novica_Radovic
 #	expire = "1953.3.1"
-#	ideology = oligarchism
+#	ideology = reactionary_type
 #	traits = {
 #		
 #	}
@@ -103,7 +103,7 @@ set_popularities = {
 #	desc = ""
 #	picture = GFX_portrait_Blazo_Jovanovic
 #	expire = "1953.3.1"
-#	ideology = leninism
+#	ideology = revolutionary_socialist_type 
 #	traits = {
 #		
 #	}

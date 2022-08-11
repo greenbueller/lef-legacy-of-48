@@ -1,0 +1,75 @@
+bookmarks = {
+	bookmark = {
+		name = "GATHERING_STORM_NAME"
+		desc = "GATHERING_STORM_DESC"
+		date = 1910.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "GER"
+		default = yes
+		
+		FRA = {
+			history = FRA_BLITZKRIEG_DESC
+			ideology = conservative 
+			ideas={
+			}
+			focuses = {
+
+			}
+		}
+		USA = {
+			history = USA_BLITZKRIEG_DESC
+			ideology = conservative 
+			ideas = {
+			}
+			focuses = {
+				
+			}
+		}
+		ENG = {
+			history = ENG_BLITZKRIEG_DESC
+			ideology = conservative 
+			ideas = {
+			}
+			focuses = {
+				
+			}
+			
+		}
+		GER = {
+			history = GER_BLITZKRIEG_DESC
+			ideology = conservative 
+			ideas = {
+			}
+			focuses = {
+				
+			}
+		}
+		ITA={
+			history = "ITA_GATHERING_STORM_DESC"
+			ideology = conservative 
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+		"---"={
+			history = "OTHER_BLITZKRIEG_DESC"
+		}
+
+		"TUR"={
+			minor = yes
+			history = "RAJ_GATHERING_STORM_DESC"
+			ideology = conservative 
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

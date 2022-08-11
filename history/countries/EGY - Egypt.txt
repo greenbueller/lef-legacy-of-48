@@ -16,7 +16,7 @@ set_politics = {
 	elections_allowed = no
 }
 
-recruit_character = EGY_Abbas_Helmy_Bey
+#recruit_character = EGY_Abbas_Helmy_Bey
 
 set_popularities = {
 	reactionary = 100

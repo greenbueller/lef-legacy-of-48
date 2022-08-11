@@ -140,6 +140,7 @@ RHI = "countries/Rhineland.txt" # Workers Republic of the Rhine
 #PER Persia
 #YEM Yemen
 #OMA Oman
+IMO = "countries/Imamate of Oman.txt"
 #SAU Nejd
 JAB = "countries/Jabal.txt" # Jabal Shammar
 MEC = "countries/Mecca.txt" # Sharifate of Mecca - can become Hejaz

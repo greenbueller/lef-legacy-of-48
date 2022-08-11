@@ -1251,3 +1251,8 @@ RHI = {
 	color = rgb { 99 22 35 }
 	color_ui = rgb { 99 22 35 }
 }
+
+IMO = {
+	color = rgb { 200 200 200 }
+	color_ui = rgb { 100 100 100 }
+}

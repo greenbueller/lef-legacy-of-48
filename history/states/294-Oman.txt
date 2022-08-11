@@ -2,7 +2,7 @@
 state={
 	id=294
 	name="STATE_294"
-	manpower = 369000
+	manpower = 295200
 	
 	state_category = rural
 	
@@ -26,12 +26,8 @@ state={
 		victory_points = {
 			10760 5 
 		}
-
 		victory_points = {
 			2103 3
-		}
-		victory_points = {
-			5049 1
 		}
 		victory_points = {
 			8002 1
@@ -40,7 +36,7 @@ state={
 	}
 
 	provinces={
-		1947 2018 2103 4993 5049 8002 8020 10760 13241 13242 13243 13297
+		1947 2103 4993 8002 8020 10760 13241 13242 13297
 	}
 
 	local_supplies=0.0 
