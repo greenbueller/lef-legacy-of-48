@@ -9,3 +9,7 @@ is_diplomatic_action_valid_war = {
 		tag = ZZZ
 	}
 }
+
+is_diplomatic_action_valid_create_faction = {
+	always = no
+}
