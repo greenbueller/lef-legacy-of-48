@@ -1242,11 +1242,6 @@ OLD = {
 	color_ui = rgb { 43 129 38 }
 }
 
-PLT = {
-	color = rgb { 170 189 137 }
-	color_ui = rgb { 170 189 137 }
-}
-
 RHI = {
 	color = rgb { 99 22 35 }
 	color_ui = rgb { 99 22 35 }
@@ -1255,4 +1250,9 @@ RHI = {
 IMO = {
 	color = rgb { 200 200 200 }
 	color_ui = rgb { 100 100 100 }
+}
+
+PLT = {
+	color = rgb { 170 189 137 }
+	color_ui = rgb { 170 189 137 }
 }

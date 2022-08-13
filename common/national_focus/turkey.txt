@@ -24,7 +24,7 @@ focus_tree = {
 		icon = GFX_focus_TUR_pivot_to_the_past
 		x = 5
 		y = 0
-		cost = 10
+		cost = 35
 		ai_will_do = {
 			base = 10
 		}

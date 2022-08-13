@@ -13,8 +13,8 @@ state=
 		victory_points = { 
 			5068 1
 		}
-		owner = ETH
-		add_core_of = ETH
+		owner = ZZZ
+		add_core_of = ZZZ
 		add_core_of = SOM
 		buildings = {
 			infrastructure = 2
