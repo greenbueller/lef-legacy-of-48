@@ -1,0 +1,33 @@
+DIPLOMACY_GENERATE_WARGOAL_ENABLE_TRIGGER = {
+    if = {
+        limit = {
+			is_ai = no
+            date > 1915.1.1
+        }
+        always = yes # Can create wargoals after 1915 if not AI
+    }
+    else = {
+        always = no
+    }
+}
+
+DIPLOMACY_WAR_ENABLE_TRIGGER = {
+    if = {
+        limit = {
+            NOT = {
+                has_focus_tree = generic_focus
+            }
+            date > 1941.1.1
+        }
+        always = yes # If you don't have a generic tree, you can declare war after 1941
+    }
+    else_if = {
+        limit = {
+            has_focus_tree = generic_focus
+        }
+        always = yes # If you have a generic tree you can
+    }
+    else = {
+        always = no # If you don't have a generic tree, you can't declare war until 1941
+    }
+}

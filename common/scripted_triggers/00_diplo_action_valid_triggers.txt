@@ -1,35 +1,51 @@
-is_diplomatic_action_valid_generate_wargoal = {
-	if = {
-		limit = {
-			NOT = {
-				original_tag = ZZZ
-			}
-		}
+#is_diplomatic_action_valid_generate_wargoal = {
+#	if = {
+#		limit = {
+#			NOT = {
+#				original_tag = ZZZ
+#			}
+#		}
+#
+#		always = no
+#	}
+#
+#	else = {
+#		always = no
+#	}
+#}
 
-		always = no
-	}
-
-	else = {
-		always = no
-	}
-}
-
-is_diplomatic_action_valid_war = {
-	if = {
-		limit = {
-			NOT = {
-				original_tag = ZZZ
-			}
-		}
-
-		always = no
-	}
-
-	else = {
-		always = no
-	}
-}
+#is_diplomatic_action_valid_war = {
+#	if = {
+#		limit = {
+#			NOT = {
+#				original_tag = ZZZ
+#			}
+#		}
+#
+#		always = no
+#	}
+#
+#	else = {
+#		always = no
+#	}
+#}
 
 is_diplomatic_action_valid_create_faction = {
+	always = no
+}
+
+is_diplomatic_action_valid_join_faction = {
+	always = no
+}
+
+is_diplomatic_action_valid_leave_faction = {
+	always = no
+}
+
+is_diplomatic_action_valid_kick_from_faction = {
+	always = no
+}
+
+is_diplomatic_action_Valid_offer_join_faction = {
 	always = no
 }
