@@ -1,0 +1,108 @@
+ideas = {
+	voting_rights = {
+		law = yes
+		use_list_view = yes
+
+		universal_voting = {
+
+			available = {
+				always = no
+			}
+
+			cost = 0
+			removal_cost = -1
+			level = 5
+
+			allowed_to_remove = {
+				always = no
+			}
+
+			modifier = {
+				drift_defence_factor = -0.10
+				stability_factor = 0.05
+				political_power_gain_factor = 0.05
+			}
+
+			cancel_if_invalid = no
+		}
+
+		limited_restrictions = {
+			
+			available = {
+				always = no
+			}
+
+			cost = 0
+			removal_cost = -1
+			level = 4
+
+			allowed_to_remove = {
+				always = no
+			}
+
+			modifier = {
+				drift_defence_factor = -0.07
+				political_power_gain_factor = 0.03
+			}
+		}
+
+		majority_voting_only = {
+
+			available = {
+				always = no
+			}
+
+			removal_cost = -1
+			cost = 0
+			level = 3
+
+			allowed_to_remove = {
+				always = no
+			}
+
+			modifier = {
+				drift_defence_factor = -0.05
+			}
+		}
+
+		land_owners_only = {
+
+			available = {
+				always = no
+			}
+
+			cost = 0
+			removal_cost = -1
+			level = 2
+
+			default = yes
+
+			allowed_to_remove = {
+				always = no
+			}
+
+			modifier = {
+				drift_defence_factor = -0.03
+				stability_factor = -0.03
+			}
+		}
+
+		no_voting = {
+
+			available = {
+				always = no
+			}
+
+			cost = 0
+			removal_cost = -1
+			level = 1
+
+			allowed_to_remove = {
+				always = no
+			}
+
+			modifier = {
+				stability_factor = -0.05
+				political_power_gain_factor = -0.03
+			}
+		}

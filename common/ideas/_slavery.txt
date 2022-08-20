@@ -1,0 +1,91 @@
+ideas = {
+	slavery = {
+		law = yes
+		use_list_view = yes
+
+		abolished_slavery = {
+
+			available = {
+				always = no
+			}
+
+			cost = 0
+			removal_cost = -1
+			level = 4
+
+			allowed_to_remove = {
+				always = no
+			}
+
+			cancel_if_invalid = no
+		}
+
+		penal_slavery = {
+			available = {
+				always = no
+			}
+
+			cost = 0
+			removal_cost = -1
+			level = 3
+
+			allowed_to_remove = {
+				always = no
+			}
+
+			modifier = {
+				stability_factor = -0.03
+				political_power_gain_factor = -0.03
+				production_speed_buildings_factor = 0.03
+			}
+
+			cancel_if_invalid = no
+		}
+
+		debt_slavery = {
+			available = {
+				always = no
+			}
+
+			cost = 0
+			removal_cost = -1
+			level = 2
+
+			allowed_to_remove = {
+				always = no
+			}
+
+			modifier = {
+				stability_factor = -0.05
+				political_power_gain_factor = -0.05
+				production_speed_buildings_factor = 0.05
+			}
+
+			default = yes
+
+			cancel_if_invalid = no
+		}
+
+		chattel_slavery = {
+			available = {
+				always = no
+			}
+
+			cost = 0
+			removal_cost = -1
+			level = 1
+
+			allowed_to_remove = {
+				always = no
+			}
+
+			modifier = {
+				stability_factor = -0.05
+				political_power_gain_factor = -0.05
+				production_speed_buildings_factor = 0.03
+			}
+
+			cancel_if_invalid = no
+		}
+	}
+}

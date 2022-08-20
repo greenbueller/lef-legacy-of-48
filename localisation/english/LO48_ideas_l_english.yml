@@ -1,4 +1,50 @@
 ﻿l_english:
+
+ ### Categories ###
+
+ ### Trade ###
+ free_trade:0 "Free Trade"
+ export_focus:0 "Export-Focused Economy"
+ limited_exports:0 "Limited Trade"
+ closed_economy:0 "Isolationist"
+
+ ### Recruitment ###
+ disarmed_nation:0 "Disarmed Nation"
+ volunteer_only:0 "Volunteer Force"
+ conscription_drawing:0 "Conscription by Drawing"
+ service_by_requirement:0 "Mandatory Service"
+ all_adults_serve:0 "All Ablebodied Adults"
+ scraping_the_barrel:0 "All Must Serve"
+
+ ### Slavery ###
+ slavery:0 "Status of Slavery"
+ abolished_slavery:0 "Abolished"
+ penal_slavery:0 "Penal Slavery"
+ debt_slavery:0 "Debt Slavery"
+ chattel_slavery:0 "Chattel Slavery"
+
+ ### Education ###
+ education_funding:0 "Education Funding"
+ universal_higher_EDU:0 "Universal Higher Education"
+ universal_lower_EDU:0 "Universal Lower Education"
+ subsidized_schools:0 "Subsidized Schools"
+ basic_funding_EDU:0 "Basic Funding"
+ no_funding_EDU:0 "No Funding"
+
+ ### Press ###
+ press_rights:0 "Press Rights"
+ free_press:0 "Free Press"
+ supervised_press:0 "Supervised Press"
+ censored_press:0 "Censored Press"
+ no_press:0 "No Press"
+
+ ### Voting Rights ###
+ voting_rights:0 "Voting Rights"
+ universal_voting:0 "Universal Voting"
+ limited_restrictions:0 "Limited Restrictions"
+ majority_voting_only:0 "Majority Voting Only"
+ land_owners_only:0 "Land Owners Only"
+ no_voting:0 "Complete Autocracy"
  
  ### Ottoman Empire
 
