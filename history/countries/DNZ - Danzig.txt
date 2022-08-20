@@ -84,7 +84,7 @@ set_politics = {
 	ruling_party = ultranationalist
 	last_election = "1935.4.7"
 	election_frequency = 36
-	elections_allowed = yes
+	elections_allowed = no
 }
 
 set_popularities = { #popularities based on 1933 election statistics.

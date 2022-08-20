@@ -181,7 +181,7 @@ set_politics = {
 	ruling_party = conservative
 	last_election = "1932.11.8"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
 	conservative = 80
@@ -201,7 +201,7 @@ add_ideas = {
 		ruling_party = conservative
 		last_election = "1936.11.3"
 		election_frequency = 48
-		elections_allowed = yes
+		elections_allowed = no
 	}
 	set_popularities = {
 		conservative = 99

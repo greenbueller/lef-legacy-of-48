@@ -176,12 +176,12 @@ adjacency_rule =
 	required_provinces = { 4624 7617 }
 
 	is_disabled = {
-		NOT = {
-			has_global_flag = PANAMA_CANAL_COMPLETED
-		}
 		OR = {
 			has_global_flag = PANAMA_CANAL_BLOCKED
 			has_country_flag = PANAMA_CANAL_BLOCKED_FOR_COUNTRY
+			NOT = {
+				has_global_flag = PANAMA_CANAL_COMPLETED
+			}
 		}
 		tooltip = disable_canal_tt
 	}

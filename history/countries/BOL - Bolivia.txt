@@ -92,7 +92,7 @@ set_politics = {
 	ruling_party = reactionary
 	last_election = "1934.11.11"
 	election_frequency = 72
-	elections_allowed = yes
+	elections_allowed = no
 }
 
 set_popularities = {
@@ -104,7 +104,7 @@ set_popularities = {
 		ruling_party = reactionary
 		last_election = "1934.11.11"
 		election_frequency = 72
-		elections_allowed = yes
+		elections_allowed = no
 	}
 
 	set_popularities = {

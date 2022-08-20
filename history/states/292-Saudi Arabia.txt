@@ -2,9 +2,9 @@
 state={
 	id=292
 	name="STATE_292"
-	manpower = 1440000
+	manpower = 845124
 	
-	state_category = rural
+	state_category = city
 	resources={
 		oil=3 # was: 3
 	}
@@ -12,7 +12,7 @@ state={
 	history={
 		owner = SAU
 		buildings = {
-			infrastructure = 1
+			infrastructure = 3
 			arms_factory = 1
 			industrial_complex = 1
 		}
@@ -20,13 +20,14 @@ state={
 			12727 5
 		}
 		victory_points = {
-			12813 3
+			5024 3
 		}
 		add_core_of = SAU
+		add_core_of = JAB
 	}
 
 	provinces={
-		5024 7995 12727 12813 12870 13246 
+		5024 7995 12727 12870 13246
 	}
 
 	local_supplies=0.0 

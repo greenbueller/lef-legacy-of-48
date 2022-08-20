@@ -1,17 +1,21 @@
 state={
 	id = 840
 	name="STATE_840"
-	state_category=pastoral
-	manpower=56230
+	state_category=rural
+	manpower=98241
 	history={
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = JAB
+		add_core_of = JAB
+		add_core_of = SAU
 		buildings = {
 			infrastructure = 1
+		}
+		victory_points = {
+			12813 3
 		}
 	}
 
 	provinces={
-		2090 4981 7934 8004 8060 10748 10786 10892
+		7934 8004 10748 10892 12813 13238
 	}
 }

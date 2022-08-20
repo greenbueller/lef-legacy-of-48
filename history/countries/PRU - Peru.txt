@@ -135,7 +135,7 @@ set_politics = {
 	ruling_party = ultranationalist
 	last_election = "1931.10.11"
 	election_frequency = 96
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
 	conservative = 49

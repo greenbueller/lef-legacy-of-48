@@ -1,0 +1,25 @@
+state = {
+	id = 1040
+	name="STATE_1040"
+	state_category=town
+	manpower=124521
+
+	history={
+		owner = SAU
+		add_core_of = SAU
+		add_core_of = JAB
+		buildings = {
+			infrastructure = 2
+		}
+
+		victory_points = {
+			13247 3
+		}
+	}
+
+	provinces={
+		10850 10923 13247 13248
+	}
+
+	local_supplies=0.0
+}

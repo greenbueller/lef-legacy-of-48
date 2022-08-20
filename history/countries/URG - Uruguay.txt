@@ -66,7 +66,7 @@ set_convoys = 5
 		ruling_party = conservative
 		last_election = "1938.3.28"
 		election_frequency = 48
-		elections_allowed = yes
+		elections_allowed = no
 	}
 
 	add_political_power = 1198
@@ -128,7 +128,7 @@ set_politics = {
 	ruling_party = conservative
 	last_election = "1934.4.19"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
 	conservative = 97
@@ -140,7 +140,7 @@ set_popularities = {
 		ruling_party = conservative
 		last_election = "1938.3.28"
 		election_frequency = 48
-		elections_allowed = yes
+		elections_allowed = no
 	}
 
 	#recruit_character = URG_alfredo_baldomir_ferrari

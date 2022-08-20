@@ -244,7 +244,7 @@ set_politics = {
 	ruling_party = reactionary
 	last_election = "1934.7.1"
 	election_frequency = 72
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
 	conservative = 18

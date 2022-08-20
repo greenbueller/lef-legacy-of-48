@@ -1,0 +1,19 @@
+state = {
+	id = 1041
+	name="STATE_1041"
+	state_category=rural
+	manpower=54213
+
+	history={
+		owner = SAU
+		add_core_of = SAU
+		add_core_of = JAB
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		5081 5093
+	}
+}
