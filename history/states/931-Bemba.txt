@@ -5,8 +5,8 @@ state={
 	manpower=59231
 
 	history = {
-		owner = KZB
-		add_core_of = KZB
+		owner = BEM
+		add_core_of = BEM
 		add_core_of = ZZZ
 		buildings = {
 			infrastructure = 1
@@ -14,6 +14,6 @@ state={
 	}
 
 	provinces = {
-		10594 10930 12504
+		1846 10594 10930 12504
 	}
 }

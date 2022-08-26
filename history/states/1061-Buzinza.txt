@@ -1,0 +1,20 @@
+state = {
+	id = 1061
+	name="STATE_1061"
+	state_category = rural
+	manpower=87421
+
+	history = {
+		owner = BUZ
+		add_core_of = BUZ
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		13383
+	}
+
+	local_supplies = 0.0
+}

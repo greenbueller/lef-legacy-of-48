@@ -1,0 +1,20 @@
+state = {
+	id = 1062
+	name="STATE_1062"
+	state_category = pastoral
+	manpower=38621
+
+	history = {
+		owner = MIR
+		add_core_of = MIR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		13384
+	}
+
+	local_supplies = 0.0
+}

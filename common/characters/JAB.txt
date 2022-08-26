@@ -13,4 +13,19 @@ characters = {
 			id=-1
 		}
 	}
+
+	JAB_Salim_Ali_Al_Subhan = {
+		name = "Regent Salim Subhan"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/JAB/Portrait_Salim_Subhan.dds"
+			}
+		}
+
+		country_leader = {
+			ideology = reactionary_type
+			expire="1965.1.1"
+			id=-1
+		}
+	}
 }

@@ -828,7 +828,7 @@ JAB = {
 }
 
 ZZZ = {
-	color = rgb { 0 0 0 }
+	color = rgb { 0 0 0 } # 190 180 156 - Tan
 	color_ui = rgb { 0 0 0 }
 }
 
@@ -1012,7 +1012,7 @@ LUB = {
 	color_ui = rgb { 9 30 225 }
 }
 
-KZB = {
+BEM = {
 	color = rgb { 136 12 14 }
 	color_ui = rgb { 136 12 14 }
 }
@@ -1187,7 +1187,7 @@ YAR = {
 	color_ui = rgb { 89 158 55 }
 }
 
-NGA = {
+NGR = {
 	color = rgb { 54 65 85 }
 	color_ui = rgb { 54 65 85 }
 }
@@ -1255,4 +1255,114 @@ IMO = {
 PLT = {
 	color = rgb { 170 189 137 }
 	color_ui = rgb { 170 189 137 }
+}
+
+CAC = {
+	color = rgb { 255 256 90 }
+	color_ui = rgb { 255 256 90 }
+}
+
+ZAN = {
+	color = rgb { 99 160 81 }
+	color_ui = rgb { 99 160 81 }
+}
+
+WAD = {
+	color = rgb { 93 12 1 }
+	color_ui = rgb { 93 12 1 }
+}
+
+ANZ = {
+	color = rgb { 215 147 216 }
+	color_ui = rgb { 215 147 216 }
+}
+
+SAM = {
+	color = rgb { 172 226 233 }
+	color_ui = rgb { 172 226 233 }
+}
+
+BIM = {
+	color = rgb { 85 180 91 }
+	color_ui = rgb { 85 180 91 }
+}
+
+OBA = {
+	color = rgb { 56 161 196 }
+	color_ui = rgb { 56 161 196 }
+}
+
+IMP = {
+	color = rgb { 170 145 92 }
+	color_ui = rgb { 170 145 92 }
+}
+
+BOD = {
+	color = rgb { 43 84 18 }
+	color_ui = rgb { 43 84 18 }
+}
+
+LOA = {
+	color = rgb { 216 131 75 }
+	color_ui = rgb { 216 131 75 }
+}
+
+KAA = {
+	color = rgb { 197 36 36 }
+	color_ui = rgb { 197 36 36 }
+}
+
+LBG = {
+	color = rgb { 194 237 125 }
+	color_ui = rgb { 194 237 125 }
+}
+
+DMB = {
+	color = rgb { 113 174 206 }
+	color_ui = rgb { 113 174 206 }
+}
+
+MAK = {
+	color = rgb { 246 223 95 }
+	color_ui = rgb { 246 223 95 }
+}
+
+BUH = {
+	color = rgb { 174 211 163 }
+	color_ui = rgb { 174 211 163 }
+}
+
+KZB = {
+	color = rgb { 19 48 92 }
+	color_ui = rgb { 19 48 92 }
+}
+
+BUZ = {
+	color = rgb { 46 135 231 }
+	color_ui = rgb { 46 135 231 }
+}
+
+MIR = {
+	color = rgb { 30 81 135 }
+	color_ui = rgb { 30 81 135 }
+}
+
+UNY = {
+	color = rgb { 75 87 99 }
+	color_ui = rgb { 75 87 99 }
+}
+
+MAS = {
+	color = rgb { 127 193 69 }
+	color_ui = rgb { 127 193 69 }
+}
+
+NDE = {
+	color = rgb { 120 39 28 }
+	color_ui = rgb { 120 39 28 }
+}
+
+YAO = {
+	color = rgb { 135 129 164 }
+	color_ui = rgb { 135 129 164 }
 }

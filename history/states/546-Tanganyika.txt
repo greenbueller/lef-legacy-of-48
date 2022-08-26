@@ -7,7 +7,8 @@ state={
 		rubber=2 # was: 2
 	}
 	history={
-		owner = GER
+		owner = ZZZ
+		add_core_of = ZZZ
 		buildings = {
 			infrastructure = 2
 		}
@@ -15,7 +16,7 @@ state={
 	}
 
 	provinces={
-		2176 2206 5180 5224 8144 8182 8201 8205 10845 10932 10988 11017 12911 12944 12967 13285
+		2176 2206 5180 5224 8144 8182 8201 8205 10932 10988 11017 12911 12944 12967 13285
 	}
 	manpower=5299000
 }

@@ -1,0 +1,20 @@
+state = {
+	id = 1063
+	name="STATE_1063"
+	state_category = pastoral
+	manpower=45214
+
+	history = {
+		owner = UNY
+		add_core_of = UNY
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		13385
+	}
+
+	local_supplies = 0.0
+}

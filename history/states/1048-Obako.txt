@@ -1,0 +1,20 @@
+state = {
+	id = 1048
+	name="STATE_1048"
+	state_category=pastoral
+	manpower=10421
+
+	history = {
+		owner = OBA
+		add_core_of = OBA
+		buildings = {
+			infrastructure = 0
+		}
+	}
+
+	provinces = {
+		13364
+	}
+
+	local_supplies = 0.0
+}

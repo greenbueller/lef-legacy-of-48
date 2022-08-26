@@ -1,0 +1,20 @@
+state = {
+	id = 1047
+	name="STATE_1047"
+	state_category=pastoral
+	manpower=4231
+
+	history = {
+		owner = BIM
+		add_core_of = BIM
+		buildings = {
+			infrastructure = 0
+		}
+	}
+
+	provinces = {
+		13362
+	}
+
+	local_supplies = 0.0
+}

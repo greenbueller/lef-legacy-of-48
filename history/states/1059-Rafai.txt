@@ -1,0 +1,21 @@
+state = {
+	id = 1059
+	name="STATE_1059"
+	state_category = rural
+	manpower=84214
+
+	history = {
+		owner = DMB
+		add_claim_by = DMB
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+		}
+	}
+
+	provinces = {
+		13381 13382
+	}
+
+	local_supplies = 0.0
+}

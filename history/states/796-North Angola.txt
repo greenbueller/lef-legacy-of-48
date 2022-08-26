@@ -2,7 +2,8 @@ state={
 	id=796
 	name="STATE_796"
 	history={
-		owner = GER
+		owner = ANZ
+		add_core_of = ANZ
 		buildings = {
 			infrastructure = 1
 		}
@@ -12,7 +13,7 @@ state={
 		add_core_of = ANG
 	}
 	provinces={
-		5117 12925
+		5117 12925 13358
 	}
 	manpower=25000
 	state_category=rural

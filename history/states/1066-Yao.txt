@@ -1,0 +1,20 @@
+state = {
+	id = 1066
+	name="STATE_1066"
+	state_category = rural
+	manpower=98421
+
+	history = {
+		owner = YAO
+		add_core_of = YAO
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		10845
+	}
+
+	local_supplies = 0.0
+}

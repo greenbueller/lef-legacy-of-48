@@ -5,8 +5,8 @@ state={
 	state_category = rural
 
 	history = {
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = MLW
+		add_core_of = MLW
 		add_core_of = ZAM
 		buildings = {
 			infrastructure = 1
@@ -14,6 +14,6 @@ state={
 	}
 
 	provinces = {
-		1846 5221
+		5221
 	}
 }

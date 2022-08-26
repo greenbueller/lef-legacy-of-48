@@ -1,0 +1,20 @@
+state = {
+	id = 1052
+	name="STATE_1052"
+	state_category = town
+	manpower=104214
+
+	history = {
+		owner = KAA
+		add_core_of = KAA
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		12747 13372 13373
+	}
+}

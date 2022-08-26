@@ -1,0 +1,18 @@
+state = {
+	id = 1046
+	name="STATE_1046"
+	state_category = rural
+	manpower=103412
+
+	history = {
+		owner = SAM
+		add_core_of = SAM
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		13359 13360 13361
+	}
+}

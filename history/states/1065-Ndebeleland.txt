@@ -1,0 +1,21 @@
+state = {
+	id = 1065
+	name="STATE_1065"
+	state_category=rural
+	manpower=124125
+
+	history = {
+		owner = NDE
+		add_core_of = NDE
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+
+	local_supplies = 0.0
+
+	provinces = {
+		1874 2151 4851
+	}
+}

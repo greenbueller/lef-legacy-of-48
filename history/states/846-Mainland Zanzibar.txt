@@ -5,10 +5,11 @@ state = {
 	manpower=205125
 
 	history = {
-		owner = OMA
+		owner = ZAN
+		add_core_of = ZAN
 		add_core_of = KEN
 		add_core_of = TZN
-		add_claim_by = OMA
+		#add_claim_by = OMA
 		victory_points = {
 			5210 1
 		}
@@ -27,6 +28,6 @@ state = {
 	}
 
 	provinces = {
-		2196 5210 6020 8183
+		2196 5210 8183
 	}
 }

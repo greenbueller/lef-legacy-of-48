@@ -1,0 +1,20 @@
+state = {
+	id = 1058
+	name="STATE_1058"
+	state_category = pastoral
+	manpower=49412
+
+	history = {
+		owner = DMB
+		add_claim_by = DMB
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		13380
+	}
+
+	local_supplies = 0.0
+}

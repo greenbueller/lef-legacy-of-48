@@ -7,12 +7,14 @@ state = {
 	history = {
 		owner = ZZZ
 		add_core_of = ZZZ
+		add_core_of = EGY
+		add_core_of = SUD
 		buildings = {
 			infrastructure = 1
 		}
 	}
 
 	provinces = {
-		1960 2016 5060 8052 8084 10739 10827 10857
+		1960 2016 4961 5060 8052 8084 10739 10827 10857 10900
 	}
 }

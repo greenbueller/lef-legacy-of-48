@@ -1,0 +1,20 @@
+state = {
+	id = 1056
+	name="STATE_1056"
+	state_category = pastoral
+	manpower=48213
+
+	history = {
+		owner = BUH
+		add_core_of = BUH
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		13286
+	}
+
+	local_supplies = 0.0
+}

@@ -5,10 +5,11 @@ state = {
 	manpower = 595215
 
 	history = {
-		owner = OMA
+		owner = ZAN
+		add_core_of = ZAN
 		add_core_of = KEN
 		add_core_of = SOM
-		add_claim_by = OMA
+		#add_claim_by = OMA
 		buildings = {
 			infrastructure = 1
 			12941 = {
@@ -18,6 +19,6 @@ state = {
 	}
 
 	provinces = {
-		8164 10761 10928 10976 12941
+		8164 10976 12941
 	}
 }

@@ -9,11 +9,11 @@ state = {
 		add_core_of = COG
 		add_core_of = ZZZ
 		victory_points = {
-			2115 1 
+			13288 1 
 		}
 		buildings = {
 			infrastructure = 2
-			2115 = {
+			13288 = {
 				naval_base = 1
 			}
 			10968 = {
@@ -23,6 +23,6 @@ state = {
 	}
 
 	provinces = {
-		2115 8219 10968 13287 13288
+		8219 13287 13288
 	}
 }

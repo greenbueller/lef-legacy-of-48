@@ -1,0 +1,20 @@
+state = {
+	id = 1064
+	name="STATE_1064"
+	state_category = pastoral
+	manpower=86315
+
+	history = {
+		owner = MAS
+		add_core_of = MAS
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		13386
+	}
+
+	local_supplies = 0.0
+}

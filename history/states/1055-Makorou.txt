@@ -1,0 +1,20 @@
+state = {
+	id = 1055
+	name="STATE_1055"
+	state_category = pastoral
+	manpower=38412
+
+	history = {
+		owner = MAK
+		add_core_of = MAK
+		buildings = {
+			infrastructure = 0
+		}
+	}
+
+	provinces = {
+		13377
+	}
+
+	local_supplies = 0.0
+}

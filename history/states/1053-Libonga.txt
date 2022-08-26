@@ -1,0 +1,20 @@
+state = {
+	id = 1053
+	name = "STATE_1053"
+	state_category = pastoral
+	manpower=1023
+
+	history = {
+		owner = LBG
+		add_core_of = LBG
+		buildings = {
+			infrastructure = 0
+		}
+	}
+
+	provinces = {
+		13374
+	}
+
+	local_supplies = 0.0
+}

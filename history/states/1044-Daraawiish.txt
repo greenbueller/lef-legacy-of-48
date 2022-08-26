@@ -1,0 +1,21 @@
+state = {
+	id = 1044
+	name = "STATE_1044"
+	state_category=rural
+	manpower=49214
+
+	history = {
+		owner = SOM
+		add_core_of = SOM
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+		}
+	}
+
+	provinces = {
+		1905 13351 13352
+	}
+
+	local_supplies = 0
+}

@@ -1,0 +1,22 @@
+state = {
+	id = 1057
+	name="STATE_1057"
+	state_category = rural
+	manpower=98125
+	
+	history = {
+		owner = KZB
+		add_core_of = KZB
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			air_base = 1
+		}
+	}
+
+	provinces = {
+		1181 13378 13379
+	}
+
+	local_supplies = 0.0
+}

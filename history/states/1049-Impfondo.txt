@@ -1,0 +1,21 @@
+state = {
+	id = 1049
+	name="STATE_1049"
+	state_category=rural
+	manpower=38125
+
+	history = {
+		owner = IMP
+		add_core_of = IMP
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+
+	local_supplies = 0.0
+
+	provinces = {
+		13365 13366 13367 13368
+	}
+}

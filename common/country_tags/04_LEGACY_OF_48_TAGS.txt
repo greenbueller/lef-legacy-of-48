@@ -42,7 +42,7 @@ BIR = "countries/Biri.txt"
 KUN = "countries/Kunjen.txt"
 BIN = "countries/Binbinga.txt"
 YAR = "countries/Yarrabyth.txt"
-NGA = "countries/Ngarinyin.txt"
+NGR = "countries/Ngarinyin.txt"
 OLL = "countries/Ollgeroo.txt"
 MAG = "countries/Maguindanao.txt"
 LAN = "countries/Lanao.txt"
@@ -61,7 +61,7 @@ SOK = "countries/Sokoto.txt" # Sokoto
 #EGY Egypt
 #LIB Liberia
 MDK = "countries/Mandinkan.txt" # Mandinkan Empire
-#SIE Sierra Leone
+#SIE Jolof Empire
 #GHA Ghana
 ZUL = "countries/Zulu.txt" # Zululand
 #MOR Morocco
@@ -91,6 +91,29 @@ KZB = "countries/Kazembe.txt" # Kazembe | Releaseable
 KUB = "countries/Kuba.txt" # Kuba Kingdom | Releaseable
 #COG Kingdom of Kongo | Releaseable
 TRZ = "countries/Trarza.txt" # Emirate of Trarza | Releaseable
+#SOM Dervish State
+ZAN = "countries/Zanzibar.txt" # Sultanate of Zanzibar
+WAD = "countries/Wadai.txt" # Wadai Sultanate
+ANZ = "countries/Anziku.txt" # Anziku Kingdom
+SAM = "countries/Samo.txt" # Kingdom of Samo
+BIM = "countries/Bimbia.txt" # Bimbia
+OBA = "countries/Obako.txt" # Obako
+IMP = "countries/Impfondo.txt" # Impfondo
+BOD = "countries/Bodjo.txt" # Bodjo-Bagoumba
+LOA = "countries/Loango.txt" # Kingdom of Loango
+KAA = "countries/Kaabu.txt" # Kaabu Empire
+LBG = "countries/Libonga.txt" # Libonga
+DMB = "countries/Dambassa.txt" # Dambassa
+MAK = "countries/Makorou.txt" # Makorou
+BUH = "countries/Bemba.txt" # Buhabu
+BEM = "countries/Jeke.txt" # Bemba
+BUZ = "countries/Buzinza.txt" # Buzinza
+MIR = "countries/Mirambo.txt" # Mirambo
+UNY = "countries/Unyanyembe.txt" # Unyanyembe
+MAS = "countries/Masai.txt" # Masai
+NDE = "countries/Ndebeleland.txt" # Ndebeleland
+#MLW Imperial Marawi
+YAO = "countries/Yao.txt" # Yao
 
 #### EUROPE ####
 
@@ -169,3 +192,4 @@ CLF = "countries/Caribbean.txt"
 #ARG Argentina
 #BOL Bolivia
 CEN = "countries/Central America.txt"
+CAC = "countries/Caribbean.txt" # Castillian Caribbean

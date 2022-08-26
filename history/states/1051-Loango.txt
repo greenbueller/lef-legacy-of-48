@@ -1,0 +1,24 @@
+state = {
+	id = 1051
+	name = "STATE_1051"
+	state_category = rural
+	manpower=176421
+
+	history = {
+		owner = LOA
+		add_core_of = LOA
+		buildings = {
+			12975 = {
+				naval_base = 1
+			}
+			infrastructure = 2
+			arms_factory = 1
+		}
+	}
+
+	local_supplies = 0.0
+
+	provinces = {
+		2115 10968 12975 13370
+	}
+}

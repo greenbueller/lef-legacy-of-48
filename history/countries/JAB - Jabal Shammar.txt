@@ -7,7 +7,7 @@ set_technology = {
 	infantry_weapons = 1
 }
 
-recruit_character = JAB_Saud_Abdulaziz_Rashid
+recruit_character = JAB_Salim_Ali_Al_Subhan
 
 set_convoys = 10
 set_war_support = 0.1

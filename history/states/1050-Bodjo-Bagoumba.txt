@@ -1,0 +1,20 @@
+state = {
+	id = 1050
+	name="STATE_1050"
+	state_category = pastoral
+	manpower=39412
+
+	history = {
+		owner = BOD
+		add_core_of = BOD
+		buildings = {
+			infrastructure = 0
+		}
+	}
+
+	provinces = {
+		13369
+	}
+
+	local_supplies = 0.0
+}
