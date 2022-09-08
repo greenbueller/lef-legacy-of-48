@@ -1,0 +1,21 @@
+state = {
+	id = 1067
+	name="STATE_1067"
+	state_category = rural
+	manpower=102415
+
+	history = {
+		owner = QUA
+		add_core_of = QUA
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		2029 4976 13389 13390
+	}
+
+	local_supplies = 0.0
+}

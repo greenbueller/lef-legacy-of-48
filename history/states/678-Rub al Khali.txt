@@ -5,17 +5,17 @@ state={
 	manpower=42
 	state_category = wasteland
 
+	impassable = yes
+
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
 		buildings = {
 			infrastructure = 0
 		}
-		add_core_of = JAB
-		add_core_of = SAU
 	}
 
 	provinces={
-		2059 8118 12740 12768 13244 13245
+		2059 8030 8118 12740 12768 13244 13245 13393 13394
 	}
 }

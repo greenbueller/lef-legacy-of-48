@@ -1,0 +1,21 @@
+state = {
+	id = 1068
+	name="STATE_1068"
+	state_category = rural
+	manpower=87412
+
+	history = {
+		owner = KAT
+		add_core_of = KAT
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+		}
+	}
+
+	provinces = {
+		13391 13392
+	}
+
+	local_supplies = 0.0
+}

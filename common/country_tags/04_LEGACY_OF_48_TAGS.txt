@@ -173,6 +173,10 @@ BSR = "countries/Basra.txt" # Basra
 #IRQ Baghdad
 MOS = "countries/Mosul.txt" # Mosul
 #PAL Palestine
+QUA = "countries/Quaiti.txt" # Qu'aiti Sultanate
+KAT = "countries/Kathiri.txt" # Kathiri
+MAH = "countries/Mahra.txt" # Mahra Sultanate
+ASR = "countries/Asir.txt" # Emirate of Asir
 
 #### NORTH AMERICA ####
 

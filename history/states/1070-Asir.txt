@@ -1,0 +1,24 @@
+state = {
+	id = 1070
+	name="STATE_1070"
+	state_category = rural
+	manpower=24124
+
+	history = {
+		owner = ASR
+		add_core_of = ASR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	resources = {
+		oil = 20
+	}
+
+	provinces = {
+		13387 13388
+	}
+
+	local_supplies = 0.0
+}

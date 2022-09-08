@@ -1366,3 +1366,23 @@ YAO = {
 	color = rgb { 135 129 164 }
 	color_ui = rgb { 135 129 164 }
 }
+
+QUA = {
+	color = rgb { 58 105 51 }
+	color_ui = rgb { 58 105 51 }
+}
+
+KAT = {
+	color = rgb { 210 154 100 }
+	color_ui = rgb { 210 154 100 }
+}
+
+MAH = {
+	color = rgb { 100 144 210 }
+	color_ui = rgb { 100 144 210 }
+}
+
+ASR = {
+	color = rgb { 45 81 21 }
+	color_ui = rgb { 45 81 21 }
+}

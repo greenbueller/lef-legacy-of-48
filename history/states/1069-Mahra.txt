@@ -1,0 +1,20 @@
+state = {
+	id = 1069
+	name="STATE_1069"
+	state_category = rural
+	manpower=75214
+
+	history = {
+		owner = MAH
+		add_core_of = MAH
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		12894 13079
+	}
+
+	local_supplies = 0.0
+}
