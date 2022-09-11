@@ -103,10 +103,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Phan_Boi_Chau
 	expire = "1953.3.1"
-	ideology = ultranationalist_type 
-	traits = {
-		
-	}
+	ideology = ultranationalist_type
 }
 
 create_country_leader = {
@@ -115,9 +112,6 @@ create_country_leader = {
 	picture = GFX_portrait_Ho_Chi_Minh
 	expire = "1953.3.1"
 	ideology = revolutionary_socialist_type 
-	traits = {
-		
-	}
 }
 
 create_country_leader = {
@@ -126,9 +120,6 @@ create_country_leader = {
 	picture = GFX_portrait_Ngo_Đinh_Diem
 	expire = "1953.3.1"
 	ideology = conservative_type
-	traits = {
-		
-	}
 }
 
 create_country_leader = {
@@ -137,9 +128,6 @@ create_country_leader = {
 	picture = GFX_portrait_Nguyen_Tuong_Tam
 	expire = "1953.3.1"
 	ideology = reactionary_type
-	traits = {
-		
-	}
 }
 
 

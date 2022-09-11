@@ -231,7 +231,4 @@ create_country_leader = {
 	picture = "GFX_portrait_KSH_Aleksander_Majkowski"
 	expire = "1953.3.1"
 	ideology = conservative_type
-	traits = {
-		
-	}
 }

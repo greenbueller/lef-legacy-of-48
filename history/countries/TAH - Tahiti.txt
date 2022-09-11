@@ -83,7 +83,4 @@ create_country_leader = {
 	picture = GFX_portrait_Terii_nui_o_Tahiti_a_Pomare
 	ideology = reactionary_type
 	female = yes
-	traits = {
-		#
-	}
 }

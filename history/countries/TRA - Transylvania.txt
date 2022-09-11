@@ -68,9 +68,6 @@ create_country_leader = {
 	picture = GFX_portrait_Iuliu_Maniu
 	expire = "1965.1.1"
 	ideology = reactionary_type
-	traits = {
-		#
-	}
 }
 
 set_popularities = {

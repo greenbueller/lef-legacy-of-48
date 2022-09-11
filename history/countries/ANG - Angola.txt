@@ -82,22 +82,4 @@ create_country_leader = {
 	picture = GFX_portrait_Jonas_Lote
 	expire = "1965.1.1"
 	ideology = reactionary_type
-	traits = {
-		#
-	}
 }
-
-
-#Now a colony of Italy  However, if independent it would have
-1939.1.1 = {
-	set_politics = {
-		ruling_party = reactionary
-		last_election = "1936.1.1"
-		election_frequency = 48
-		elections_allowed = no
-	}
-	set_popularities = {
-		reactionary = 100
-	}
-}
-

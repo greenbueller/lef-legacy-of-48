@@ -26,9 +26,6 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Bashir_es_Sadawi
 	ideology = liberal_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
@@ -36,9 +33,6 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Ettore_Bastico
 	ideology = ultranationalist_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
@@ -46,9 +40,6 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Idris_Senussi
 	ideology = reactionary_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
@@ -56,7 +47,4 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Hassan_as_Senussi
 	ideology = revolutionary_socialist_type 
-	traits = {
-		#
-	}
 }

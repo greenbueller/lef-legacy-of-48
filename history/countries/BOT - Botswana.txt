@@ -84,7 +84,4 @@ create_country_leader = {
 	picture = GFX_portrait_Tshekedi_Khama
 	expire = "1965.1.1"
 	ideology = social_democrat_type
-	traits = {
-		#
-	}
 }

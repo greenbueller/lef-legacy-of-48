@@ -84,8 +84,5 @@ create_country_leader = {
 	picture = GFX_portrait_Dedan_Ngwale
 	expire = "1965.1.1"
 	ideology = reactionary_type
-	traits = {
-		#
-	}
 }
 

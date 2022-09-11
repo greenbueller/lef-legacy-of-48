@@ -70,7 +70,4 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_El_Ouali_Mustapha_Sayed
 	ideology = reactionary_type
-	traits = {
-		#
-	}
 }

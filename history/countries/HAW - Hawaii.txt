@@ -60,9 +60,6 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_David_Kalakaua_Kawananakoa
 	ideology = reactionary_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
@@ -70,9 +67,6 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Joseph_Poindexter
 	ideology = liberal_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
@@ -80,7 +74,4 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Charles_Fujimoto
 	ideology = revolutionary_socialist_type 
-	traits = {
-		#
-	}
 }

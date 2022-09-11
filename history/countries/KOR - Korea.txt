@@ -29,9 +29,6 @@ create_country_leader = {
 	picture = GFX_portrait_Syngman_Rhee
 	expire = "1965.1.1"
 	ideology = conservative_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
@@ -40,9 +37,6 @@ create_country_leader = {
 	picture = GFX_portrait_Yi_Kang
 	expire = "1965.1.1"
 	ideology = reactionary_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
@@ -50,10 +44,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Kim_Il_sung
 	expire = "1965.1.1"
-	ideology = revolutionary_socialist_type 
-	traits = {
-		#
-	}
+	ideology = revolutionary_socialist_type
 }
 
 create_country_leader = {
@@ -62,7 +53,4 @@ create_country_leader = {
 	picture = GFX_portrait_Yi_Un
 	expire = "1965.1.1"
 	ideology = ultranationalist_type
-	traits = {
-		#
-	}
 }

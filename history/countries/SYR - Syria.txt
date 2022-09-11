@@ -75,9 +75,6 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Hashim_al_Atassi
 	ideology = liberal_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
@@ -85,9 +82,6 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Antun_Saadeh
 	ideology = ultranationalist_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
@@ -95,9 +89,6 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Ghazi_bin_Faisal
 	ideology = reactionary_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
@@ -105,7 +96,4 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Khalid_Bakdash
 	ideology = revolutionary_socialist_type 
-	traits = {
-		#
-	}
 }

@@ -99,10 +99,7 @@ create_country_leader = {
 	desc = ""
 	picture = "GFX_portrait_DNZ_Albert_Forster"
 	expire = "1953.3.1"
-	ideology = ultranationalist_type 
-	traits = {
-		
-	}
+	ideology = ultranationalist_type
 }
 
 create_country_leader = {
@@ -111,9 +108,6 @@ create_country_leader = {
 	picture = GFX_portrait_Arthur_Brill #TODO
 	expire = "1953.3.1"
 	ideology = social_democrat_type
-	traits = {
-		
-	}
 }
 
 create_country_leader = {
@@ -121,10 +115,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Anton_Plenikowski #TODO
 	expire = "1953.3.1"
-	ideology = revolutionary_socialist_type 
-	traits = {
-		
-	}
+	ideology = revolutionary_socialist_type
 }
 
 

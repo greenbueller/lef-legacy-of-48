@@ -89,10 +89,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Mir_Jafar_Baghirov
 	expire = "1953.3.1"
-	ideology = revolutionary_socialist_type 
-	traits = {
-		
-	}
+	ideology = revolutionary_socialist_type
 }
 
 create_country_leader = {
@@ -101,9 +98,6 @@ create_country_leader = {
 	picture = GFX_portrait_Mammad_Amin_Rasulzade
 	expire = "1953.3.1"
 	ideology = conservative_type
-	traits = {
-		
-	}
 }
 
 create_country_leader = {
@@ -112,9 +106,6 @@ create_country_leader = {
 	picture = GFX_portrait_Gara_Garabeyov
 	expire = "1953.3.1"
 	ideology = reactionary_type
-	traits = {
-		
-	}
 }
 
 

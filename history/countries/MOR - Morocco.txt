@@ -71,7 +71,4 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Mohammed_V
 	ideology = reactionary_type
-	traits = {
-		#
-	}
 }

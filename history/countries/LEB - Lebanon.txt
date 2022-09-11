@@ -75,9 +75,6 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Hashim_al_Atassi
 	ideology = liberal_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
@@ -85,9 +82,6 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Pierre_Gemayel
 	ideology = ultranationalist_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
@@ -95,17 +89,11 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Melick_Yarad
 	ideology = reactionary_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
 	name = "Rami Sarraff"
 	desc = ""
 	picture = GFX_portrait_Rami_Sarraff
-	ideology = revolutionary_socialist_type 
-	traits = {
-		#
-	}
+	ideology = revolutionary_socialist_type
 }

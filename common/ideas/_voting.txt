@@ -106,3 +106,5 @@ ideas = {
 				political_power_gain_factor = -0.03
 			}
 		}
+	}
+}

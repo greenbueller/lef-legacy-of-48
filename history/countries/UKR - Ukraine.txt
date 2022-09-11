@@ -86,9 +86,6 @@ create_country_leader = {
 	picture = GFX_portrait_Kost_Levytsky
 	expire = "1953.3.1"
 	ideology = conservative_type
-	traits = {
-		
-	}
 }
 
 create_country_leader = {
@@ -96,9 +93,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Nikita_Sergeyevich_Khrushchyov
 	expire = "1953.3.1"
-	ideology = revolutionary_socialist_type 
-	traits = {
-		
+	ideology = revolutionary_socialist_type
 	}
 }
 
@@ -108,9 +103,6 @@ create_country_leader = {
 	picture = GFX_portrait_Stepan_Bandera
 	expire = "1953.3.1"
 	ideology = ultranationalist_type
-	traits = {
-		
-	}
 }
 
 #create_country_leader = {

@@ -163,19 +163,12 @@ set_popularities = {
 	ultranationalist = 10
 	revolutionary_socialist = 10
 }
-
-
-add_ideas = {
-}
-
 create_country_leader = {
 	name = "Klaus Klauser"
 	desc = ""
 	picture = GFX_portrait_Klaus_Klauser
 	expire = "1965.1.1"
-	ideology = ultranationalist_type 
-	traits = {
-	}
+	ideology = ultranationalist_type
 }
 
 create_country_leader = {
@@ -184,6 +177,4 @@ create_country_leader = {
 	picture = GFX_portrait_Konrad_Adenauer
 	expire = "1965.1.1"
 	ideology = conservative_type
-	traits = {
-	}
 }

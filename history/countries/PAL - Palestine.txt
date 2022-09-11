@@ -74,9 +74,6 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Ahmed_Hilmi_Pasha
 	ideology = liberal_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
@@ -84,9 +81,6 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Amin_al_Husseini
 	ideology = ultranationalist_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
@@ -94,17 +88,11 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Prince_Henry
 	ideology = reactionary_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
 	name = "Bulus Farah"
 	desc = ""
 	picture = GFX_portrait_Bulus_Farah
-	ideology = revolutionary_socialist_type 
-	traits = {
-		#
-	}
+	ideology = revolutionary_socialist_type
 }

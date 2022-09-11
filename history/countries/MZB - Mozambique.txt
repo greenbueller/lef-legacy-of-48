@@ -80,7 +80,4 @@ create_country_leader = {
 	picture = GFX_portrait_Eduardo_Tsonga
 	expire = "1965.1.1"
 	ideology = reactionary_type
-	traits = {
-		#
-	}
 }

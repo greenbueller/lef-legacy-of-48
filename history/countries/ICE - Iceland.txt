@@ -84,30 +84,12 @@ set_popularities = {
 	revolutionary_socialist = 2
 }
 
-1939.1.1 = {
-	set_politics = {
-		ruling_party = conservative
-		last_election = "1936.10.19"
-		election_frequency = 36
-		elections_allowed = no
-	}
-	set_popularities = {
-		conservative = 84
-		ultranationalist = 2
-		revolutionary_socialist = 2
-		reactionary = 12
-	}
-}
-
 create_country_leader = {
 	name = "Sveinn Björnsson"
 	desc = ""
 	picture = GFX_portrait_Sveinn_Bjornsson
 	expire = "1965.1.1"
 	ideology = conservative_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
@@ -116,9 +98,6 @@ create_country_leader = {
 	picture = GFX_portrait_Johannes_Valurson
 	expire = "1965.1.1"
 	ideology = ultranationalist_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
@@ -127,9 +106,6 @@ create_country_leader = {
 	picture = GFX_portrait_Haraldur_Gudmunsson
 	expire = "1965.1.1"
 	ideology = reactionary_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
@@ -137,8 +113,5 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Einar_Olgeirsson
 	expire = "1965.1.1"
-	ideology = revolutionary_socialist_type 
-	traits = {
-		#
-	}
+	ideology = revolutionary_socialist_type
 }

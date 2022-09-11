@@ -146,9 +146,6 @@ set_popularities = {
 	revolutionary_socialist = 60
 }
 
-add_ideas = {
-}
-
 
 
 

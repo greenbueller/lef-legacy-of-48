@@ -109,7 +109,4 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Ahmed_Ben_Bella
 	ideology = reactionary_type
-	traits = {
-		#
-	}
 }

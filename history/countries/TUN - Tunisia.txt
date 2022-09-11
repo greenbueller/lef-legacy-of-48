@@ -91,7 +91,4 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Habib_Bourguiba
 	ideology = reactionary_type
-	traits = {
-		#
-	}
 }

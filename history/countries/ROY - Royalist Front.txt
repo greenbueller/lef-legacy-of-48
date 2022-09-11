@@ -1,12 +1,6 @@
 capital = 517
 oob = "ROY_1910"
 
-if = {
-	limit = { has_dlc = "Together for Victory" }
-
-	add_to_tech_sharing_group = commonwealth_research
-}
-
 create_faction = ROY_ALLIANCE
 add_to_faction = ROY
 add_to_faction = MRS

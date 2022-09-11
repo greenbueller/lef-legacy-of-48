@@ -84,7 +84,4 @@ create_country_leader = {
 	picture = GFX_portrait_David_Manera
 	expire = "1965.1.1"
 	ideology = ultranationalist_type
-	traits = {
-		
-	}
 }
