@@ -2,13 +2,17 @@ state = {
 	id = 985
 	name="STATE_985"
 	state_category=rural
-	manpower=58213
+	manpower=105213
 
 	history={
 		owner = EYR
 		add_core_of = EYR
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
+		}
+		
+		victory_points = {
+			12910 15 
 		}
 	}
 
