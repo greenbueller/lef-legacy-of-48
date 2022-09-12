@@ -32,7 +32,6 @@ ideas = {
 			level = 5
 			
 			available = {
-				NOT = { has_idea = undisturbed_isolation }
 				NOT = { has_idea = isolation }
 			}
 
@@ -67,7 +66,6 @@ ideas = {
 			available = {
 				#has_manpower_for_recruit_change_to =  { value = 0.025 group = mobilization_laws }
 				has_war_support > 0.1
-				NOT = { has_idea = undisturbed_isolation }
 				NOT = { has_idea = isolation }
 			}
 

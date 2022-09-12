@@ -28,7 +28,7 @@ set_technology = {
 
 
 add_ideas = {
-	limited_conscription
+	conscription_drawing
 }
 
 1939.1.1 = {

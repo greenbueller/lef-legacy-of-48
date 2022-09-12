@@ -10,7 +10,7 @@ if = {
 }
 
 add_ideas = {
-	limited_conscription
+	conscription_drawing
 }
 IF = {
 	limit = { has_dlc = "No Step Back" }

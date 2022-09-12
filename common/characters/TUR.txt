@@ -19,7 +19,7 @@ characters = {
 		portraits = {
 			civilian = {
 				large = "gfx/leaders/TUR/Portrait_Talaat_Pasha.dds"
-				small = "gfx/ideas/Advisor_Talaat_Pasha.dds"
+				small = "gfx/interface/ideas/Advisor_Talaat_Pasha.dds"
 			}
 		}
 

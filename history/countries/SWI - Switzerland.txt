@@ -114,7 +114,7 @@ set_popularities = {
 
 add_ideas = {
 	neutrality_idea
-	limited_conscription
+	conscription_drawing
 }
 
 set_stability = 0.85

@@ -8,7 +8,7 @@ set_technology = {
 }
 
 add_ideas = {
-	limited_conscription
+	conscription_drawing
 }
 
 #recruit_character = MON_anandyn_amar
@@ -90,7 +90,7 @@ set_popularities = {
 
 1939.1.1 = {
 	add_ideas = {
-		limited_conscription
+		conscription_drawing
 	}
 
 	#recruit_character = MON_khorloogiin_choibalsan

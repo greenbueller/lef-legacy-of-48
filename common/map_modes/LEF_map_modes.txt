@@ -6,7 +6,7 @@ scripted_map_modes = {
 
 			color = {
 				FROM = {
-					set_temp_variable = { alpha 1.0 }
+					set_temp_variable = { alpha = 1.0 }
 					set_temp_variable = { thickness = 1.0 }
 				}
 				if = {

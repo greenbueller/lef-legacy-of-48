@@ -5,8 +5,8 @@ state={
 	manpower=249315
 
 	history={
-		owner = KAR
-		add_core_of = KAR
+		owner = KRG
+		add_core_of = KRG
 		buildings = {
 			infrastructure = 1
 		}

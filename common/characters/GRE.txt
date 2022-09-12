@@ -99,28 +99,6 @@ characters = {
 		}
 	}
 
-	GRE_markos_drakos={
-			allowed = {
-				NOT = { has_dlc = "Battle for the Bosporus" }
-			}
-			name=GRE_markos_drakos
-			portraits={
-				army={
-					large=GFX_portrait_GRE_markos_drakos
-					small=GFX_portrait_GRE_markos_drakos_small
-				}
-			}
-			corps_commander={
-				traits={ hill_fighter }
-				skill=3
-				attack_skill=1
-				defense_skill=3
-				planning_skill=3
-				logistics_skill=3
-				legacy_id=-1
-			}
-	}
-
 	### Empty characters -> Can become Unit Leaders later
 
 	GRE_theodoros_pangalos = {

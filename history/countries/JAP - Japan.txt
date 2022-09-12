@@ -10,7 +10,7 @@ set_fuel_ratio = 1.0
 add_ideas = {
 	state_shintoism
 	limited_exports
-	limited_conscription
+	conscription_drawing
 	partial_economic_mobilisation
 
 	JAP_zaibatsus

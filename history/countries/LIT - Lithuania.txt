@@ -9,7 +9,7 @@ if = {
 		has_DLC = "No Step Back"
 	}
 	add_ideas = {
-		limited_conscription
+		conscription_drawing
 		LIT_iron_wolf_idea_bad_1
 		LIT_agrarian_society
 		LIT_military_idea_1

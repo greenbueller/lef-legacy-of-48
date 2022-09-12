@@ -10,7 +10,7 @@ ZZZ = "countries/Unoccupied.txt"
 #BRM Burma
 #TIB Tibet
 #AFG Afghanistan
-KSH = "countries/Kashmir.txt" # Kashmir
+KSR = "countries/Kashmir.txt" # Kashmir
 KLT = "countries/Kalat.txt" # Khanate of Kalat
 #SRL Kingdom of Kandi
 SKM = "countries/Sikkim.txt" # Kingdom of Sikkim
@@ -24,7 +24,7 @@ GUJ = "countries/Gujarat.txt" # Gujarat
 HYD = "countries/Hyderabad.txt" # Hyderabad
 MRS = "countries/Madras.txt" # Madras Confederation
 MYS = "countries/Mysore.txt" # Mysore
-TRA = "countries/Travancore.txt" # Travancore
+TRV = "countries/Travancore.txt" # Travancore
 #MLD Maldives
 REV = "countries/RF.txt" # Revolutionary Front of India 
 BUI = "countries/Brunei.txt" # Sultanate of Brunei
@@ -42,7 +42,7 @@ BIR = "countries/Biri.txt"
 KUN = "countries/Kunjen.txt"
 BIN = "countries/Binbinga.txt"
 YAR = "countries/Yarrabyth.txt"
-NGR = "countries/Ngarinyin.txt"
+NGI = "countries/Ngarinyin.txt"
 OLL = "countries/Ollgeroo.txt"
 MAG = "countries/Maguindanao.txt"
 LAN = "countries/Lanao.txt"
@@ -78,7 +78,7 @@ WAS = "countries/Wassoulou.txt" # Wassoulou Empire | Releaseable
 KNG = "countries/Kong.txt" # Kong Empire | Releaseable
 #BRD Burundi | Releaseable
 #RWA Rwanada | Releaseable
-KAR = "countries/Karagwe.txt" # Karagwe Kingdom | Releaseable
+KRG = "countries/Karagwe.txt" # Karagwe Kingdom | Releaseable
 ANK = "countries/Ankole.txt" # Ankole Kingdom | Releaseable
 TOR = "countries/Tooro.txt" # Tooro Kingdom | Releaseable
 BUG = "countries/Buganda.txt" # Buganda Kingdom | Releaseable
@@ -88,14 +88,14 @@ YEK = "countries/Yeke.txt" # Yeke Kingdom | Releaseable
 LUN = "countries/Lunda.txt" # Kingdom of Lunda | Releaseable
 LUB = "countries/Luba.txt" # Luba Kingdom | Releaseable
 KZB = "countries/Kazembe.txt" # Kazembe | Releaseable
-KUB = "countries/Kuba.txt" # Kuba Kingdom | Releaseable
+KBA = "countries/Kuba.txt" # Kuba Kingdom | Releaseable
 #COG Kingdom of Kongo | Releaseable
 TRZ = "countries/Trarza.txt" # Emirate of Trarza | Releaseable
 #SOM Dervish State
 ZAN = "countries/Zanzibar.txt" # Sultanate of Zanzibar
 WAD = "countries/Wadai.txt" # Wadai Sultanate
 ANZ = "countries/Anziku.txt" # Anziku Kingdom
-SAM = "countries/Samo.txt" # Kingdom of Samo
+SMO = "countries/Samo.txt" # Kingdom of Samo
 BIM = "countries/Bimbia.txt" # Bimbia
 OBA = "countries/Obako.txt" # Obako
 IMP = "countries/Impfondo.txt" # Impfondo

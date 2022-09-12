@@ -958,7 +958,7 @@ KNG = {
 	color_ui = rgb { 156 81 153 }
 }
 
-KAR = {
+KRG = {
 	color = rgb { 68 99 156 }
 	color_ui = rgb { 68 99 156 }
 }
@@ -1008,7 +1008,7 @@ BEM = {
 	color_ui = rgb { 136 12 14 }
 }
 
-KUB = {
+KBA = {
 	color = rgb { 131 57 14 }
 	color_ui = rgb { 131 57 14 }
 }
@@ -1033,7 +1033,7 @@ MOS = {
 	color_ui = rgb { 69 114 71 }
 }
 
-KSH = {
+KSR = {
 	color = rgb { 158 142 99 }
 	color_ui = rgb { 158 142 99 }
 }
@@ -1093,7 +1093,7 @@ MYS = {
 	color_ui = rgb { 37 37 78 }
 }
 
-TRA = {
+TRV = {
 	color = rgb { 69 89 89 }
 	color_ui = rgb { 69 89 89 }
 }
@@ -1178,7 +1178,7 @@ YAR = {
 	color_ui = rgb { 89 158 55 }
 }
 
-NGR = {
+NGI = {
 	color = rgb { 54 65 85 }
 	color_ui = rgb { 54 65 85 }
 }
@@ -1268,7 +1268,7 @@ ANZ = {
 	color_ui = rgb { 215 147 216 }
 }
 
-SAM = {
+SMO = {
 	color = rgb { 172 226 233 }
 	color_ui = rgb { 172 226 233 }
 }
