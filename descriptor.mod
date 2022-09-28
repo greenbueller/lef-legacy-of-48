@@ -3,7 +3,7 @@ tags={
 	"Map"
 }
 name="Liberty, Egality, Fraternity: Legacy of '48"
-supported_version="1.11.*"
+supported_version="1.12.*"
 replace_path="history/states"
 replace_path="history/countries"
 replace_path="common/national_focus"
@@ -34,3 +34,4 @@ replace_path="events"
 replace_path="music"
 replace_path="common/ai_equipment"
 replace_path="common/units/names_railway_guns"
+replace_path="map/strategicregions"
